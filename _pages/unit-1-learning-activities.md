@@ -7,7 +7,7 @@ layout: page
 permalink: >
   https://create.twu.ca/ldrs627-su18/unit-1-learning-activities/
 published: true
-post_date: 2018-02-20 19:49:01
+post_date: 2018-01-20 19:49:01
 ---
 ### Unit 1 Learning Activities
 
