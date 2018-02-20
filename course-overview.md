@@ -1,3 +1,8 @@
+---
+post_title: 'Course Overview'
+layout: page
+published: true
+---
 ### Course Title
 
 Course Description
