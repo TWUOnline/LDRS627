@@ -9,11 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-20 19:49:01
 ---
-<h2>Assignment 1</h2>
-
-<ol>
-<li>tes</li>
-<li></li>
-</ol>
-
-<h2>List item</h2>
+### Assignment 1
