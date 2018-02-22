@@ -14,80 +14,18 @@ post_date: 2018-01-20 19:49:01
 <div class="PJAXWrapper" data-reactroot="" data-reactid="1" data-react-checksum="-1834022386">
 <div class="gb-page-wrapper with-pagehead">
 <div class="gb-page-header">
-<div class="container"><a class="WeAreHiring" href="https://www.gitbook.com/about">We are hiring!</a>
-<div>
-<div class="btn-group dropdown pull-right"></div>
+<div class="container"></div>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-<a class="btn btn-default btn-md pull-right btn-newbook" role="button" href="https://www.gitbook.com/new"> New</a>
-<div id="NotificationsIndicator" class="pull-right">
-<div class="popover-container"></div>
 </div>
 <div id="BookHome" class="BookPage">
 <div class="pagehead">
 <div class="container clearfix">
-<div class="overview">
-<h1 class="overview-title"><a class="overview-steptitle" href="https://www.gitbook.com/@cmadland">cmadland</a></h1>
-<div class="overview-stepdivider"></div>
+<div class="overview"></div>
 </div>
 </div>
 </div>
-</div>
-<div class="container clearfix">
-<div class="overview">
-<div class="overview-steptitle primary">Digital Inquiry Lab</div>
-<p class="overview-note">Updated 3 days ago</p>
-
-</div>
-</div>
-<div class="container clearfix">
-<ul class="menu pull-left">
- 	<li class="active"><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/details">About</a></li>
- 	<li class=""><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/discussions">0 Discussions</a></li>
- 	<li class=""><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/changes">0 Change Requests</a></li>
- 	<li class=""><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/activity">45 Updates</a></li>
- 	<li class=""><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/traffic">Traffic</a></li>
- 	<li class=""><a href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/settings">Settings</a></li>
-</ul>
-<div class="btn-toolbar pull-right head-toolbar">
-<div class="btn-group"></div>
-</div>
-</div>
-<div class="btn-group"><a class="btn btn-count btn-sm" role="button" href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/stars"> 0</a></div>
-<div class="btn-group dropdown"></div>
-<div class="pagehead">
-<div class="container clearfix">
-<div class="btn-toolbar pull-right head-toolbar">
-<div class="btn-group dropdown"><a class="btn btn-count btn-sm" role="button" href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/subscriptions"> 1</a></div>
-</div>
-</div>
-</div>
-<div class="gb-page-inner">
-<div class="container">
-<div>
-<div class="panel panel-default">
-<div>
-<div></div>
-<div class=" sticky">
-<div class="panel-heading">
-<div class="btn-toolbar ">
-<div class="btn-group pull-right"><a class="btn btn-success btn-md" role="button" href="https://www.gitbook.com/read/book/cmadland/digital-inquiry-lab" data-nopjax="true"> <b>Read</b></a></div>
-<div class="popover-container pull-right">
-<div class="btn-group"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<a class="btn btn-default btn-md" role="button" href="https://www.gitbook.com/book/cmadland/digital-inquiry-lab/edit"> Edit</a>
 <div id="application">
 <div class="PJAXWrapper" data-reactroot="" data-reactid="1" data-react-checksum="-1834022386">
 <div class="gb-page-wrapper with-pagehead">
@@ -137,25 +75,7 @@ This workshop is to help you explore and experiment with some digital activities
 </div>
 </div>
 </div>
-<div class="gb-page-footer">
-<div class="Footer">
-<div class="container">
-<div class="footer-logo"></div>
-<ul class="menu">
- 	<li class=""><a href="https://www.gitbook.com/about">About</a></li>
- 	<li class=""><a href="https://help.gitbook.com">Help</a></li>
- 	<li class=""><a href="https://www.gitbook.com/explore">Explore</a></li>
- 	<li class=""><a href="https://www.gitbook.com/editor">Editor</a></li>
- 	<li class=""><a href="https://www.gitbook.com/blog">Blog</a></li>
- 	<li class=""><a href="https://www.gitbook.com/pricing">Pricing</a></li>
- 	<li class=""><a href="https://www.gitbook.com/contact">Contact</a></li>
- 	<li class="footer-copyright"><a href="https://www.gitbook.com">© GitBook.com</a></li>
-</ul>
 </div>
-</div>
-</div>
-</div>
-<div class="LoadingBar" data-reactid="499"></div>
 </div>
 </div>
 &nbsp;
