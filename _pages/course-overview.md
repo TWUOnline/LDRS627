@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-20 19:49:01
 ---
-### Course Title
+### <b>Theory and Practice of Adult Education</b>
 
 Course Description
 
