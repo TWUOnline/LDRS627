@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:05
 ---
-<h3>Title</h3>
-<h1>Unit 1:</h1>
+<h1>Unit 1: <strong>Adult Learning Theory and Perspectives</strong></h1>
 <h2>Overview</h2>
 Welcome to Leadership 627!  In this first unit, we begin the course by…
 <h2>Topics</h2>
@@ -51,27 +50,27 @@ Here is a blended checklist of suggested and mandatory learning activities you w
 <td width="485"><strong>Activities</strong></td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Activity 1:</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Activity 2:</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Activity 3:</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Activity 4:</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Activity 5:</td>
 </tr>
 <tr>
-<td width="33">&nbsp;</td>
+<td width="33"></td>
 <td width="485">Assignment 1:</td>
 </tr>
 </tbody>
@@ -225,27 +224,27 @@ Before you move on to the next unit, you may want to check to make sure that you
 <td width="472"><strong>Learning Outcomes</strong></td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     differentiate between a comparative perspective of the family and a global perspective;</td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     discuss the benefits as well as the limitations of a comparative approach to the study of the family;</td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     describe the main characteristics of the contemporary Western family in terms of structure and relations;</td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     differentiate between the concepts of ‘family’ and ‘kinship;’</td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;</td>
 </tr>
 <tr>
-<td width="45">&nbsp;</td>
+<td width="45"></td>
 <td width="472">·     compare the roles and relations of Western contemporary families with those of families in non-industrial countries;</td>
 </tr>
 </tbody>
