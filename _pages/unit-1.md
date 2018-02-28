@@ -27,26 +27,12 @@ When you have completed this unit you should be able to:
  	<li>assess the active and engaged training method.</li>
  	<li>describe what it means to be a facilitator of learning.</li>
 </ul>
-<strong>Assessment</strong>
-
-Here is the assessment for Unit 1.
-<table>
-<tbody>
-<tr>
-<td width="414">Assignment 1: …</td>
-<td width="111">%</td>
-</tr>
-</tbody>
-</table>
-&nbsp;
-
-<strong> </strong>
 <h2>Activity Checklist</h2>
 Here is a blended checklist of suggested and mandatory learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <table>
 <tbody>
 <tr>
-<td width="33">þ</td>
+<td width="33"></td>
 <td width="485"><strong>Activities</strong></td>
 </tr>
 <tr>
@@ -75,10 +61,8 @@ Here is a blended checklist of suggested and mandatory learning activities you w
 </tr>
 </tbody>
 </table>
-<strong> </strong>
+<strong> </strong>Resources
 
-<strong> </strong>
-<h2>Resources</h2>
 The following are resources you will need to complete this unit.
 <ul>
  	<li>Textbook</li>
@@ -91,9 +75,6 @@ The following are resources you will need to complete this unit.
 </tr>
 </tbody>
 </table>
-&nbsp;
-
-&nbsp;
 <h2>Topic 1:</h2>
 <strong>Introduction</strong>
 
@@ -179,9 +160,6 @@ Match the following terms to their correct definition.
 <strong><em>Activity 5:</em></strong>
 
 Other activities include:
-
-<strong>
-</strong>
 <ul>
  	<li><strong>Role play</strong></li>
  	<li><strong>Games</strong></li>
@@ -197,22 +175,13 @@ Other activities include:
  	<li><strong>Experiments</strong></li>
  	<li><strong>Textbook online resources </strong>(flashcards, quizzes, etc.)</li>
 </ul>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 <h2>Assessment</h2>
 <h3>Assignment 1:</h3>
 After completing this unit, including the learning activities, you are asked to…
 
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
-
-&nbsp;
-<h2>Unit 1 Summary</h2>
+<h2>Unit 1 Summary (optional)</h2>
 In this first unit, you have had the opportunity to learn about…
-
-&nbsp;
 
 &nbsp;
 <h2>Checking your Learning</h2>
@@ -220,45 +189,14 @@ Before you move on to the next unit, you may want to check to make sure that you
 <table>
 <tbody>
 <tr>
-<td width="45">þ</td>
+<td width="45"></td>
 <td width="472"><strong>Learning Outcomes</strong></td>
 </tr>
 <tr>
 <td width="45"></td>
-<td width="472">·     differentiate between a comparative perspective of the family and a global perspective;</td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·     discuss the benefits as well as the limitations of a comparative approach to the study of the family;</td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·     describe the main characteristics of the contemporary Western family in terms of structure and relations;</td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·     differentiate between the concepts of ‘family’ and ‘kinship;’</td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·     differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;</td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·     compare the roles and relations of Western contemporary families with those of families in non-industrial countries;</td>
+<td width="472">·</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
-
-&nbsp;
+<em>(or say)</em> Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
 <h2>References</h2>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
