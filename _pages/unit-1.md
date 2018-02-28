@@ -29,6 +29,8 @@ When you have completed this unit you should be able to:
 </ul>
 <h2>Activity Checklist</h2>
 Here is a blended checklist of suggested and mandatory learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+- [ ] checklist
 <table>
 <tbody>
 <tr>
