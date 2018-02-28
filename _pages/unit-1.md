@@ -11,7 +11,18 @@ post_date: 2018-02-20 12:24:05
 ---
 <h1>Unit 1: <strong>Adult Learning Theory and Perspectives</strong></h1>
 <h2>Overview</h2>
-Welcome to Leadership 627!  In this first unit, we begin the course by…
+Welcome to Leadership 627!  In this first unit, you are asked to read two articles and a section of the Silberman text. The first article by Collins provides some background theTeachers’ Perspectives Inventory that you will be completing. I have only assigned a portion of this article – the parts that introduce it as well as discuss implications for practice. The second article (just read up to page 14) discusses theories of adult learning and adult development.
+
+While most of the course focuses on practice, it is important to understand some foundational theory so that when you are making choices about resources and strategies you are able to do so with some reasoned rationale. The Silberman pages introduce the practice of active training which is a powerful method of adult learning that we will explore during the course. In this methodology participants are actively engaged in acquiring knowledge and skill while the educator is a skilled facilitator of learning. The rationale for active engagement techniques is introduced. You will gain more specific information about individual techniques throughout the course.
+
+You may find it helpful to take a look at the Reading Response questions posted in week 2 so you can read with these in mind, and, possibly answer the questions concurrently as you read.
+
+This week also involves viewing several videos about the Teachers’
+Perspectives Inventory. These will help you critically reflect on your own
+results. Therefore, it is important to complete the survey prior to viewing the
+videos – please follow the suggested ‘due dates’.  About the due dates, these are meant to ‘chunk’ the course into manageable parts so that you are successful. Feel free to ‘go ahead’ but please don’t get behind. Sometimes life throws us ‘curve balls’ so to speak and we might need to take a day away from the course, but please do your best to catch up the very next day. In an asynchronous environment it behooves us all to manage our time
+so that posts are up on time and ready to be responded to. This will avoid
+frustration for everyone!
 <h2>Topics</h2>
 Unit 1 is divided into 3 topics:
 
@@ -29,8 +40,6 @@ When you have completed this unit you should be able to:
 </ul>
 <h2>Activity Checklist</h2>
 Here is a blended checklist of suggested and mandatory learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
-- [ ] checklist
 <table>
 <tbody>
 <tr>
