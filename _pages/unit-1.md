@@ -98,7 +98,7 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
 
 1. Read the Silberman and Wang chapters as indicated.
 
-* Silberman, M. L., &amp; Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19
+* Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19
 * Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
 2. Complete part B of your blog post. Discuss how _your own education_ has been impacted by racialization, transformative learning, critical theory, pedagogy and andragogy. Give specific examples.
@@ -125,7 +125,7 @@ Use the Learning Outcomes from the beginning of the unit as a checklist of under
 
 ## Resources
 
-Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., &amp; Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
+Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
 ## TO DO: (our notes)
 
