@@ -131,7 +131,7 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
  	<li><span style="font-weight: 400;">Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36. Available at </span><a href="http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438">http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438</a></li>
  	<li><span style="font-weight: 400;">Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. </span><i><span style="font-weight: 400;">Adult Education Quarterly</span></i><span style="font-weight: 400;"> </span><i><span style="font-weight: 400;">61</span></i><span style="font-weight: 400;">: 358-360 and 371-374. </span></li>
 </ul>
-&nbsp;
+ 
 <ul>
  	<li><span style="font-weight: 400;">Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. </span><i><span style="font-weight: 400;">Adult Education Quarterly 63</span></i><span style="font-weight: 400;">:3, 3-14. </span></li>
 </ul>
@@ -139,14 +139,14 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
  	<li>Read the Silberman and Wang chapters as indicated.</li>
 </ol>
 <ul>
- 	<li>Silberman, M. L., &amp; Biech, E. (2015). <i>Active training: A handbook of techniques, designs, case examples, and tips</i> (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19</li>
+ 	<li>Silberman, M. L., & Biech, E. (2015). <i>Active training: A handbook of techniques, designs, case examples, and tips</i> (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19</li>
  	<li>Wang, . C. X. (2017). <i>Theory and Practice of Adult and Higher Education</i>. Information Age Publishing Inc. Chapters 1-4</li>
 </ul>
 2. Complete part B of your blog post.
 
 <span style="font-weight: 400;">Discuss how <i>your own education</i> has been impacted by racialization, transformative learning, critical theory, pedagogy and andragogy. Give specific examples.</span>
 
-&nbsp;
+ 
 <h2>Topic 3: Roles and Factors Impacting Adult Educators</h2>
 <b>Introduction</b>
 <span style="font-size: 1rem;">Adult educators are impacted by various societal factors because adult education happens in the world! The key is helping participants analyze their experience critically, and figuring out how what they are learning 'fits' or challenges their lived experience. Adult educators are encouraged to establish authentic relationships with students by building trust through caring for students, respecting them and showing interest in what is important to them. <span lang="EN-CA">One of my favorite things to remember is that the teaching is not about me, it is about the students’ learning. In anything I do as a teacher, I should ask myself “How does this contribute to the students’ learning?</span> </span>
@@ -188,7 +188,7 @@ Goodson, Patricia (2013). <i>Becoming an Academic Writer</i>. Los Angeles: Sage
 
 Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <i>Adult Education Quarterly 63</i>:3, 3-14.
 
-Silberman, M. L., &amp; Biech, E. (2015). <i>Active training: A handbook of techniques, designs, case examples, and tips</i> (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19
+Silberman, M. L., & Biech, E. (2015). <i>Active training: A handbook of techniques, designs, case examples, and tips</i> (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19
 
 Wang, . C. X. (2017). <i>Theory and Practice of Adult and Higher Education</i>. Information Age Publishing Inc. Chapters 1-4
 <h2>TO DO: (our notes)</h2>
