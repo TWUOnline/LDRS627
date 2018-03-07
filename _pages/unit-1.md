@@ -79,7 +79,7 @@ Assignment 2: Complete Blog Part B.</td>
 </table>
 <strong> </strong>Resources *KELLY PLEASE ADD LINKS FROM THE E GOOGLE DOC I SENT YOU.
 
-Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452
+Cahalan, K. (2016). [Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452)
 
 Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. <em>Adult Education Quarterly</em> <em>61</em>:358-360 and 371-374. *Note that only certain pages have been assigned
 
