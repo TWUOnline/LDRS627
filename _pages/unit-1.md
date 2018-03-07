@@ -13,9 +13,9 @@ post_date: 2018-02-20 12:24:05
 
 ## Overview
 
-Welcome to Leadership 627!  In unit one you will explore reflective practice and teaching perspectives, critical and transformative learning, and roles and factors impacting adult educators. 
+Welcome to Leadership 627! In unit one you will explore reflective practice and teaching perspectives, critical and transformative learning, and roles and factors impacting adult educators.
 
-It's important for educators to be reflective about their practice and to keep the learning outcomes about the students.  This is what is referred to as student-centered learning.  Always remember that you are teaching people - not x, y, z subject. If you keep this focus, you will be more attracted to choosing methods that will facilitate critical thinking and this will potentially lead to transformations in the perspectives and lives of your learners. Adult educators are impacted by various societal factors because adult education happens in the world! The key is helping participants analyze their experience critically and figure out how what they are learning 'fits' or challenges their lived experience.
+It's important for educators to be reflective about their practice and to keep the learning outcomes about the students. This is what is referred to as student-centered learning. Always remember that you are teaching people - not x, y, z subject. If you keep this focus, you will be more attracted to choosing methods that will facilitate critical thinking and this will potentially lead to transformations in the perspectives and lives of your learners. Adult educators are impacted by various societal factors because adult education happens in the world! The key is helping participants analyze their experience critically and figure out how what they are learning 'fits' or challenges their lived experience.
 
 We begin Unit 1 with readings and discussions on adult learning theory and perspectives. While most of the course focuses on practice, it is important to understand some foundational theory so that when you are making choices about resources and strategies you are able to do so with some reasoned rationale.
 
@@ -31,9 +31,9 @@ Unit 1 is divided into 3 topics: Topic 1: Reflective Practice and Teaching Persp
 
 When you have completed this unit you should be able to:
 
-*   express the key features found in the theory of adult education.
-*   assess the active and engaged training method.
-*   describe what it means to be a facilitator of learning.
+* express the key features found in the theory of adult education.
+* assess the active and engaged training method.
+* describe what it means to be a facilitator of learning.
 
 ## Activity Checklist
 
@@ -63,25 +63,25 @@ Take the Teaching Practices Inventory found at [http://www.teachingperspectives.
 
 View the following videos that will help you interpret your TPI results.
 
-*   [http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg)
-*   [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM)
-*   [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls)
-*   [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
+* [http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg)
+* [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM)
+* [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls)
+* [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
 
 Using the videos as a guide, interpret your own TPI results focusing on your dominant perspectives. Then complete part A of your blog. **Answer the following questions in your blog:** a) Does your profile match your self-perception or how others see you? Are there any discrepancies? b) With respect to teaching adults, what are your [next steps](https://learn.twu.ca/mod/url/view.php?id=36727)?
 
 ## Topic 2: Critical and Transformative Learning
 
-**Introduction** **The remainder of the readings focus on important aspects of adult learning theory and the role of the adult educator.** \[Can we focus on content and not readings by deleting this? And perhaps have a different lead-in sentence? Here are examples\]  **What kind of focus will you have as an educator? What techniques will you use to ensure your students have  a meaningful learning experience?** If you keep a learner-centered focus you will be more attracted to choosing methods that will facilitate critical thinking and this will potentially lead to transformations in the perspectives and lives of your learners. On Jan. 9, 2017 MA LEAD student Christel Davidson wrote the following post entitled ‘Designing Our Boxes’ for another course. I quote it here, with her permission. _“__Critical transformational learning is a holistic learning practice that helps people to crawl out of their boxes, experience the space outside the box and then reconstruct their next box which in turn they will crawl out of again and repeat over and over again. I say they will reconstruct their box each time because as human beings we need boundaries to our thought, actions and emotions, and without them, we become unsure of whether anything is concrete or valid, so to feel safe we have our boxes. This is perfectly alright as long as we don't get stuck in the same box forever._ _The value of critical transformational learning is that there is a personal intentionality to the process. This can be guided by an educator or it can happen independently. Each time the learner temporarily exits the box to take a fresh view of life, it is not to throw the person into a state of chaos or abandonment of absolutes, but to give a moment where thoughts can be free to explore other possible points of view or to reflect on habits and unconscious actions that are rooted in their beliefs. Once challenged or left open for review, a critical analysis can be made, conclusions drawn and a shifted belief or value stabilized, by restating or redesigning their box._ _There are endless ways that this can be accomplished, so long as the process evokes the emotions, stimulates the soul and matures the mind.”_ Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does one learn through practice? According to Cahalan (2016) there are eight _Ways_ _of_ _Knowing_ essential to wise practice:
+**Introduction** **The remainder of the readings focus on important aspects of adult learning theory and the role of the adult educator.** [Can we focus on content and not readings by deleting this? And perhaps have a different lead-in sentence? Here are examples] **What kind of focus will you have as an educator? What techniques will you use to ensure your students have a meaningful learning experience?** If you keep a learner-centered focus you will be more attracted to choosing methods that will facilitate critical thinking and this will potentially lead to transformations in the perspectives and lives of your learners. On Jan. 9, 2017 MA LEAD student Christel Davidson wrote the following post entitled ‘Designing Our Boxes’ for another course. I quote it here, with her permission. _“__Critical transformational learning is a holistic learning practice that helps people to crawl out of their boxes, experience the space outside the box and then reconstruct their next box which in turn they will crawl out of again and repeat over and over again. I say they will reconstruct their box each time because as human beings we need boundaries to our thought, actions and emotions, and without them, we become unsure of whether anything is concrete or valid, so to feel safe we have our boxes. This is perfectly alright as long as we don't get stuck in the same box forever._ _The value of critical transformational learning is that there is a personal intentionality to the process. This can be guided by an educator or it can happen independently. Each time the learner temporarily exits the box to take a fresh view of life, it is not to throw the person into a state of chaos or abandonment of absolutes, but to give a moment where thoughts can be free to explore other possible points of view or to reflect on habits and unconscious actions that are rooted in their beliefs. Once challenged or left open for review, a critical analysis can be made, conclusions drawn and a shifted belief or value stabilized, by restating or redesigning their box._ _There are endless ways that this can be accomplished, so long as the process evokes the emotions, stimulates the soul and matures the mind.”_ Critical thinking is an essential component of leadership because there is an intelligence to practice. This practical wisdom or phronesis is an intellectual virtue incorporating discernment and judgment and is enhanced through practice. How does one learn through practice? According to Cahalan (2016) there are eight _Ways_ _of_ _Knowing_ essential to wise practice:
 
-*   Situated awareness
-*   Embodied realizing
-*   Conceptual understanding
-*   Critical thinking
-*   Emotional attunement
-*   Creative insight
-*   Spiritual discernment
-*   Practical reasoning
+* Situated awareness
+* Embodied realizing
+* Conceptual understanding
+* Critical thinking
+* Emotional attunement
+* Creative insight
+* Spiritual discernment
+* Practical reasoning
 
 Experiential learning can lead to wisdom if experience is accompanied by critical thinking and intentionally grounded in values and beliefs about what is good. This wisdom is transformational both personally and professionally.
 
@@ -89,21 +89,19 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
 
 #### Activity 3: Readings and Blog
 
-1.  Read the following articles.  Note that only certain pages are assigned, and that the Collin and Sandlin articles can be accessed through the TWU library.
+1. Read the following articles. Note that only certain pages are assigned, and that the Collin and Sandlin articles can be accessed through the TWU library.
 
-*   Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36. Available at [http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438](http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438)
-*   Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly__61_: 358-360 and 371-374.
+* Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36. Available at [http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438](http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438)
+* Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly__61_: 358-360 and 371-374.
 
- 
+* Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14.
 
-*   Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. 
+1. Read the Silberman and Wang chapters as indicated.
 
-1.  Read the Silberman and Wang chapters as indicated.
+* Silberman, M. L., &amp; Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19
+* Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
-*   Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19
-*   Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
-
-2\. Complete part B of your blog post. Discuss how _your own education_ has been impacted by racialization, transformative learning, critical theory, pedagogy and andragogy. Give specific examples.  
+2. Complete part B of your blog post. Discuss how _your own education_ has been impacted by racialization, transformative learning, critical theory, pedagogy and andragogy. Give specific examples.
 
 ## Topic 3: Roles and Factors Impacting Adult Educators
 
@@ -111,7 +109,7 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
 
 ### Learning Activities
 
-Activity 4: KWL Chart \[Kelly please put this chart on the home page of the course site. It will be an ongoing activity - every other week eg 1, 3, 5, 7, 9 so that it alternates with the Reading Response assignments due weeks 2, 4, 6, 8, 10.\]
+Activity 4: KWL Chart [Kelly please put this chart on the home page of the course site. It will be an ongoing activity - every other week eg 1, 3, 5, 7, 9 so that it alternates with the Reading Response assignments due weeks 2, 4, 6, 8, 10.]
 
 Know
 
@@ -127,10 +125,10 @@ Use the Learning Outcomes from the beginning of the unit as a checklist of under
 
 ## Resources
 
-Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
+Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., &amp; Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley &amp; Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
 ## TO DO: (our notes)
 
-*   KWL chart (Kelly to check plug-ins - https://www.gravityforms.com/features/ )
-*   Formatting (for unit paragraphs and overall Wordpress theme)
-*   Final read through after other units are complete
+* KWL chart (Kelly to check plug-ins - https://www.gravityforms.com/features/ )
+* Formatting (for unit paragraphs and overall Wordpress theme)
+* Final read through after other units are complete
