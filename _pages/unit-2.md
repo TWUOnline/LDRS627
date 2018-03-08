@@ -114,8 +114,6 @@ Introduction
 Instructions
 &lt;h2&gt;Topic 2: Pedagogy and Andragogy
 ### Introduction&lt;/h2&gt;
-Topic 2: Pedagogy and Andragogy
-
 Creating a good learning experience for adults is what andragogy is all about. It’s important to keep in mind that the resource of highest value in adult education is the learner’s experience.
 
 Knowles (1980 cited in Merriam &amp; Bierma, 2014, p. 47), outlines six assumptions about andragogy:
@@ -131,11 +129,17 @@ What is the difference between how children experience something as compared to 
 
 Children experience what happens &lt;em&gt;to &lt;/em&gt;them while and adult’s experience is &lt;em&gt;who they are&lt;/em&gt;.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
 
-&nbsp;
-
 Check out John Henschke of Lindenwood University’s website at &lt;u&gt;&lt;a href=&quot;http://www.lindenwood.edu/education/andragogy&quot;&gt;www.lindenwood.edu/education/andragogy&lt;/a&gt;&lt;/u&gt; and German professor Jost Reischmann’s website at &lt;a href=&quot;http://www.andragogy.net&quot;&gt;www.andragogy.net&lt;/a&gt;.
 
 …
+
+Topic 3: Prior Needs Assessment
+
+###Introduction
+
+Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): &lt;em&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  &lt;/em&gt;This is the essential reason for prior learning assessment.
+
+&nbsp;
 
 ### Learning Activities
 ##### Activity 3:
@@ -225,6 +229,25 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 ## Resources
 *
+
+Hui, C., Snider, L., &amp; Couture, M. (2016). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. <em>Canadian Journal of Occupational Therapy, 83</em>(2), 115-125. doi:10.1177/0008417415627665
+
+Katz, J., Porath, M., Bendu, C., &amp; Epp, B. (2012). Diverse voices: Middle years students' insights into life in inclusive classrooms. <em>Exceptionality Education International, 22</em>(1), 2-16. Retrieved from http://ir.lib.uwo.ca/eei/vol22/iss1/2/
+
+Katz, J., &amp; Sugden, R. (2013). The Three-Block Model of Universal Design for Learning implementation in a high school. <em>Canadian Journal of Educational Administration and Policy, 141</em>, 1-28.
+
+Leblanc, L., Richardson, W., &amp; Burns, K. A. (2009). Autism spectrum disorder and the inclusive classroom: Effective training to enhance knowledge of ASD and evidence-based practices. <em>Teacher Education and Special Education, 32</em>(2), 166-179. doi:10.1177/0741932507334279
+
+Merriam, S. B., &amp; Bierema, L. L. (2014). <em>Adult learning: Linking theory and practice</em>.
+
+San Francisco: Jossey-Bass. ISBN: 9781118130575
+
+Merriam, Sharan B., &amp; Grace, Andre P. (2011). <em>Contemporary Issues in Adult Education. </em>
+
+San Francisco: Jossey-Bass ISBN: 978-0-470-87356-4
+
+Sokal, L., &amp; Sharma, U. (2014). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. <em>Exceptionality Education International, 23</em>(1), 59-71.
+
 *
 
 ###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
