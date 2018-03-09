@@ -42,9 +42,7 @@ Here is a checklist of learning activities you will benefit from in completing t
  	<li> Read the unit overview.</li>
  	<li>Read topic one notes.</li>
  	<li>Read Brookfield Chapter 1 While reading Brookfield chapter 1 consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.</li>
- 	<li>Write a blog post.Write 300 words (approximately) on the following:
-
-a) Define critical transformational learning in your own words.
+ 	<li>Write a blog post.Write 300 words (approximately) on the following:a) Define critical transformational learning in your own words.
 
 b) How can you as an adult education foster critical transformative learning in your context?</li>
  	<li>Read notes topic 2.</li>
@@ -250,29 +248,17 @@ Before you plan to teach anything it’s a good idea to find out what your stude
 &nbsp;
 
 &nbsp;
-
-## Unit 2 Summary
+<h2>Unit 2 Summary
 ```
-Remind students of a few key points and how they apply to a greater context. Perhaps also prepare them for what is in the next unit.
+In this unit you explored critical transformational learning, self directed learning and prior learning assessment within the larger context of power dynamics in the adult education learning environment.  This prepares you for next week&#039;s topics of Experience, Emotions and Motivation where we explore ambiguity and brain-friendly teaching.&lt;/h2&gt;
 ```
-
-In this first unit, you have had the opportunity to learn about…
 
 ## Checking your Learning
 ```
-Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
+Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before moving on to the next unit.
 ```
 
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-
-### Learning Outcomes
-
-* differentiate between a comparative perspective of the family and a global perspective;
-* discuss the benefits as well as the limitations of a comparative approach to the study of the family;
-* describe the main characteristics of the contemporary Western family in terms of structure and relations;
-* differentiate between the concepts of ‘family’ and ‘kinship;’
-* differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;
-* compare the roles and relations of Western contemporary families with those of families in non-industrial countries;
+&nbsp;
 
 ## Resources
 *
