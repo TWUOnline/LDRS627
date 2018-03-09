@@ -40,20 +40,25 @@ Collect data to inform instructional decisions and planning.
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</h5>
 <ol>
  	<li> Read the unit overview.</li>
+ 	<li>Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>.  Chapters 1 and 4.</li>
+ 	<li>Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, <strong>14-16</strong>.  <strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.</li>
  	<li></li>
 </ol>
 ```
 Learning Activities can include the following:
-* Readings (text, article)
-* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-* Simulations
-* Websites (to explore, or webquests to find answers)
-* Unmarked quizzes
-* Case studies
-* Interviews (ex. with friends/family/coworkers)
-* Reflection/study journal/questions to consider
 
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+Blog Post (2%)
+
+PART A
+
+Define critical transformational learning in your own words.  How can you as an adult education foster critical transformative learning in your context?
+
+&nbsp;
+
+PART B
+
+Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. Identify two or three &lt;a href=&quot;https://learn.twu.ca/mod/url/view.php?id=36727&quot;&gt;next steps&lt;/a&gt; regarding how you can intervene for quality improvement.  *State your plan to the C-Suite following the guidelines described on p. 387 and 388.
+
 ```
 
 |Activities| | |
@@ -63,9 +68,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Activity 3:| | |
 | Activity 4:| | |
 | Assignment 1:| | |
-<h5>Assessment
-Here is the assessment for Unit 2.
-Assignment 1: Reading response 10%
+<h5>Assignment: Reading response 10%
 ```</h5>
 &lt;h5&gt;Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 The questions to answer are:&lt;/h5&gt;
@@ -77,30 +80,29 @@ Sandlin article
 &lt;/ol&gt;
 Silberman text
 
-4.What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.
-&lt;ol start=&quot;4&quot;&gt;
- 	&lt;li&gt;Comment on this quote from Eric Jensen, author of &lt;em&gt;Brain Based Learning&lt;/em&gt; cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.&lt;/li&gt;
-&lt;/ol&gt;
-Brookfield text
-&lt;ol start=&quot;6&quot;&gt;
- 	&lt;li&gt;What are three connotations of power? Why is this information helpful to you as an adult educator?&lt;/li&gt;
- 	&lt;li&gt;What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.&lt;/li&gt;
- 	&lt;li&gt;What four methods make teaching adults distinctive?&lt;/li&gt;
- 	&lt;li&gt;Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.&lt;/li&gt;
-&lt;/ol&gt;
-&nbsp;
+4. What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.
 
-&lt;strong&gt;Reading Response Rubric  KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - MAYBE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION&lt;/strong&gt;
+5. Comment on this quote from Eric Jensen, author of &lt;em&gt;Brain Based Learning&lt;/em&gt; cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.
+
+Brookfield text
+
+6. What are three connotations of power? Why is this information helpful to you as an adult educator?
+
+7. What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.
+
+8. What four methods make teaching adults distinctive?
+
+9. Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.
+
+&lt;strong&gt;Reading Response Rubric  &lt;/strong&gt;
+
+&lt;strong&gt;KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - I SUGGEST WE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION&lt;/strong&gt;
 
 &lt;strong&gt; &lt;/strong&gt;
 &lt;table width=&quot;0&quot;&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&nbsp;
-
-&nbsp;
-
-&lt;strong&gt;8-10&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;8-10&lt;/strong&gt;&lt;/td&gt;
 &lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
 
 The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight
@@ -118,11 +120,7 @@ Reader identifies points of view and implications in the text and critically ana
 No errors in grammar or composition. Page restrictions and format followed. Submitted on time.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&nbsp;
-
-&nbsp;
-
-&lt;strong&gt;                   &lt;/strong&gt;&lt;strong&gt;5-7&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;                   &lt;/strong&gt;&lt;strong&gt;5-7&lt;/strong&gt;&lt;/td&gt;
 &lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.
 
 The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to
@@ -142,9 +140,7 @@ Reader does not identify points of view and implications in the text or critical
 Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted on time.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&nbsp;
-
-&lt;strong&gt;         &lt;/strong&gt;&lt;strong&gt;2-4&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;         &lt;/strong&gt;&lt;strong&gt;2-4&lt;/strong&gt;&lt;/td&gt;
 &lt;td width=&quot;835&quot;&gt;Reader demonstrates insufficient understanding of the chosen concepts.
 
 The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.
@@ -181,12 +177,8 @@ More than 3 errors in grammar or composition. Page restrictions and format follo
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&nbsp;
-
-&nbsp;
 &lt;h5&gt;&lt;/h5&gt;
-&lt;h5&gt;
-```</h5>
+&lt;h5&gt;```</h5>
 ## Topic 1: Critical Transformative Learning
 ### Introduction
 
@@ -201,12 +193,16 @@ Transformative learning is not an individual process but rather a personal proce
 For learning to be transformative and effective it needs to be job-embedded, ongoing and with built-in follow-up and support. As was evidenced in the Hui, Snider, and Couture (2016) study, the most effective type of professional development for lasting change in a classroom is not a one-time workshop. Traditional stand-and-deliver professional development was conducted by Leblanc, Richardson, and Burns (2009) with minimal results. Effective professional development is instead an ongoing supportive relationship with in-class follow up and teacher choice and input as to the direction of needed development choice (Hui, Snider, Couture, 2016; Katz, 2013; Katz, 2014). Sokal and Sharma (2014), through their review of literature around effective professional development, describe an ideal program as entailing between 30 and 100 hours of training hours spread over a span of six to 12 months, with in-house professional learning communities (PLCs) and coursework as part of the training.
 
 ```
-### Learning Activities
-##### Activity 1:
-Introduction
-…
-```
-Optional to have a separate Introduction and Instructions section or to combine them. The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
+### Learning Activity
+
+Blog post
+
+Write 300 words (approximately) on the following:
+
+a) Define critical transformational learning in your own words.
+
+b) How can you as an adult education foster critical transformative learning in your context?
+
 ```
 
 Instructions
@@ -233,24 +229,24 @@ This feature gives students an opportunity to reflect on readings and make conne
 Introduction
 …
 Instructions
-&lt;h2&gt;Topic 2: Pedagogy and Andragogy
-### Introduction&lt;/h2&gt;
+<h2>Topic 2: Pedagogy and Andragogy
+### Introduction</h2>
 Creating a good learning experience for adults is what andragogy is all about. It’s important to keep in mind that the resource of highest value in adult education is the learner’s experience.
 
 Knowles (1980 cited in Merriam &amp; Bierma, 2014, p. 47), outlines six assumptions about andragogy:
-&lt;ol&gt;
- 	&lt;li&gt;As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.&lt;/li&gt;
- 	&lt;li&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.&lt;/li&gt;
- 	&lt;li&gt;The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.&lt;/li&gt;
- 	&lt;li&gt;There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.&lt;/li&gt;
- 	&lt;li&gt;Adults are mostly driven by internal motivation, rather than external motivators&lt;/li&gt;
- 	&lt;li&gt;Adults need to know the reason for learning something&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+ 	<li>As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.</li>
+ 	<li>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.</li>
+ 	<li>The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.</li>
+ 	<li>There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.</li>
+ 	<li>Adults are mostly driven by internal motivation, rather than external motivators</li>
+ 	<li>Adults need to know the reason for learning something</li>
+</ol>
 What is the difference between how children experience something as compared to how adults experience something?  In other words, what’s the difference between pedagogy and andragogy?
 
-Children experience what happens &lt;em&gt;to &lt;/em&gt;them while and adult’s experience is &lt;em&gt;who they are&lt;/em&gt;.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
+Children experience what happens <em>to </em>them while and adult’s experience is <em>who they are</em>.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
 
-Check out John Henschke of Lindenwood University’s website at &lt;u&gt;&lt;a href=&quot;http://www.lindenwood.edu/education/andragogy&quot;&gt;www.lindenwood.edu/education/andragogy&lt;/a&gt;&lt;/u&gt; and German professor Jost Reischmann’s website at &lt;a href=&quot;http://www.andragogy.net&quot;&gt;www.andragogy.net&lt;/a&gt;.
+Check out John Henschke of Lindenwood University’s website at <u><a href="http://www.lindenwood.edu/education/andragogy">www.lindenwood.edu/education/andragogy</a></u> and German professor Jost Reischmann’s website at <a href="http://www.andragogy.net">www.andragogy.net</a>.
 
 …
 
@@ -258,7 +254,7 @@ Topic 3: Prior Needs Assessment
 
 ###Introduction
 
-Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): &lt;em&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  &lt;/em&gt;This is the essential reason for prior learning assessment.
+Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): <em>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  </em>This is the essential reason for prior learning assessment.
 
 ### Learning Activities
 ##### Activity 3:
