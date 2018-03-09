@@ -22,7 +22,7 @@ You will explore these topics of power, critical transformational learning and p
 
 You will notice that there is a 'Learning Cafe' section on the site. This is a place for you to interact about things going on, share resources and generally get to know one another.  Your posts don't have to be course related.  Here is a prompt that might get the conversation going:  <em>What is the best advice you’ve ever received?</em>
 
-<strong>Kelly - for weeks 4, 6, 8, 10 please use these prompts in the cafe:</strong>
+<strong>Kelly - in addition to the prompt above for week 2, for weeks 4, 6, 8, 10 please use these prompts in the cafe:</strong>
 
 If you received $5,000 as a gift, how would you spend it?
 
