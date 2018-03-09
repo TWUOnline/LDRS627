@@ -20,6 +20,20 @@ Let me give you an example of power, self-directed learning and transformation t
 
 You will explore these topics of power, critical transformational learning and prior learning assessment in this unit.
 
+You will notice that there is a 'Learning Cafe' section on the site. This is a place for you to interact about things going on, share resources and generally get to know one another.  Your posts don't have to be course related.  Here is a prompt that might get the conversation going:  <em>What is the best advice you’ve ever received?</em>
+
+<strong>Kelly - for weeks 4, 6, 8, 10 please use these prompts in the cafe:</strong>
+
+If you received $5,000 as a gift, how would you spend it?
+
+In 30 words or less, how would you describe yourself to someone who does not know you?  OR • If someone were to write a book about you, what would the title be?  <strong>(Kelly please give both choices.)</strong>
+
+What do you like to do in your spare time?
+
+If you could take only three people with you on a trip around the world, who would you take with you?
+
+&nbsp;
+
 ##### Topics
 Unit 2 is divided into 3 topics:
 * Topic 1: Critical and Transformative Learning
