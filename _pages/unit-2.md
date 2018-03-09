@@ -41,9 +41,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 <ol>
  	<li> Read the unit overview.</li>
  	<li>Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>.  Chapters 1 and 4.</li>
- 	<li>Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, <strong>14-16</strong>.  <strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.</li>
+ 	<li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, <strong>14-16</strong>.  <strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.</li>
  	<li>Read topic one notes.</li>
- 	<li>Write your first 300 wo</li>
+ 	<li>Write a blog post.</li>
  	<li></li>
 </ol>
 &nbsp;
@@ -184,7 +184,12 @@ Transformative learning is not an individual process but rather a personal proce
 For learning to be transformative and effective it needs to be job-embedded, ongoing and with built-in follow-up and support. As was evidenced in the Hui, Snider, and Couture (2016) study, the most effective type of professional development for lasting change in a classroom is not a one-time workshop. Traditional stand-and-deliver professional development was conducted by Leblanc, Richardson, and Burns (2009) with minimal results. Effective professional development is instead an ongoing supportive relationship with in-class follow up and teacher choice and input as to the direction of needed development choice (Hui, Snider, Couture, 2016; Katz, 2013; Katz, 2014). Sokal and Sharma (2014), through their review of literature around effective professional development, describe an ideal program as entailing between 30 and 100 hours of training hours spread over a span of six to 12 months, with in-house professional learning communities (PLCs) and coursework as part of the training.
 
 ```
-### Learning Activity
+
+###Learning Activity 1
+
+While reading Brookfield chapter 1 consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.
+
+### Learning Activity 2
 
 Blog post
 
@@ -194,29 +199,9 @@ a) Define critical transformational learning in your own words.
 
 b) How can you as an adult education foster critical transformative learning in your context?
 
-While reading Brookfield chapter 1 consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.
-
-While reading Brookfield chapter 4 consider how self-directed learning is at the heard of adult education.
-
-and 4.
-
 &nbsp;
 
-Watch the following videos that illustrate…
-
-##### Questions to Consider
-After completing the activities above, consider the following questions:
-
-* Q1
-* Q2
-```
-This feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
-```
-
-#####Activity 2:
-Introduction
-…
-Instructions
+&nbsp;
 &lt;h2&gt;Topic 2: Pedagogy and Andragogy
 ### Introduction&lt;/h2&gt;
 Creating a good learning experience for adults is what andragogy is all about. It’s important to keep in mind that the resource of highest value in adult education is the learner’s experience.
@@ -238,53 +223,25 @@ Check out John Henschke of Lindenwood University’s website at &lt;u&gt;&lt;a h
 
 …
 
+###Learning Activity 2
+
+While reading Brookfield chapter 4 consider how self-directed learning is at the heard of adult education.
+
 Topic 3: Prior Needs Assessment
 
 ###Introduction
 
 Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): &lt;em&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  &lt;/em&gt;This is the essential reason for prior learning assessment.
+&lt;h3&gt;Learning Activities
+##### Activity 3:&lt;/h3&gt;
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. &lt;/span&gt;
 
-### Learning Activities
-##### Activity 3:
-```
-Case studies are great application activities. Consider the lesson content and how it is applied in a ‘real world’ situation.
-```
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Identify two or three &lt;/span&gt;&lt;a href=&quot;https://learn.twu.ca/mod/url/view.php?id=36727&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;next steps&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; regarding how you can intervene for quality improvement.  &lt;/span&gt;
 
-Introduction
-The following case study reveals…
-Mrs. Jones…
-
-##### Activity 4: Practice Quiz (ungraded)
-Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-
-```
-If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.
-Quizzes can be multiple choice, matching, true-false, or short answer.
+&lt;span style=&quot;font-weight: 400;&quot;&gt;*State your plan to the C-Suite following the guidelines described on p. 387 and 388.&lt;/span&gt;
 ```
 
-Introduction
-Match the following terms to their correct definition.
-
-##### Activity 5:
-Other activities include:
-```
-In each unit, consider having 2-3 recommended activities, and perhaps 1-3 optional activities.
-```
-
-* Role play
-* Games
-* Simulations
-* Problems / Debates
-* Current Events
-* Graphic Organizers
-* Short-write (ex. Muddy/clear point)
-* Interviews (friends/family)
-* Field Trip (do something in the community /workplace)
-* Survey / poll
-* Social media
-* Experiments
-* Textbook online resources (flashcards, quizzes, etc.)
+&nbsp;
 
 ## Assessment
 ```
