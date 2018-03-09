@@ -42,9 +42,7 @@ Here is a checklist of learning activities you will benefit from in completing t
  	<li> Read the unit overview.</li>
  	<li>Read topic one notes.</li>
  	<li>Read Brookfield Chapter 1 While reading Brookfield chapter 1 consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.</li>
- 	<li>Write a blog post.Write 300 words (approximately) on the following:a) Define critical transformational learning in your own words.
-
-b) How can you as an adult education foster critical transformative learning in your context?</li>
+ 	<li>Write a blog post.Write 300 words (approximately) on the following:a) Define critical transformational learning in your own words.b) How can you as an adult education foster critical transformative learning in your context?</li>
  	<li>Read notes topic 2.</li>
  	<li>Read Brookfield chapter 4.While reading Brookfield chapter 4 consider how self-directed learning is at the heard of adult education.</li>
  	<li>Read notes topic 3.</li>
