@@ -27,17 +27,21 @@ Unit 2 is divided into 3 topics:
 * Topic 3: Prior needs assessment
 
 &nbsp;
+<h5>Learning Outcomes
+When you have completed this unit you should be able to:</h5>
+Define Critical transformational learning and it's elements in your own words.
 
-##### Learning Outcomes
-When you have completed this unit you should be able to:
-* Describe…
-* Contrast…
-* Analyze…
-* Determine…
+Describe two or three methods used to empower people for quality improvement.
 
-##### Activity Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Explain the difference between pedagogy and andragogy.
 
+Collect data to inform instructional decisions and planning.
+<h5>Activity Checklist
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</h5>
+<ol>
+ 	<li> Read the unit overview.</li>
+ 	<li></li>
+</ol>
 ```
 Learning Activities can include the following:
 * Readings (text, article)
@@ -61,10 +65,127 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 <h5>Assessment
 Here is the assessment for Unit 2.
-Assignment 1: …
-%
-```
-If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
+Assignment 1: Reading response 10%
+```</h5>
+&lt;h5&gt;Based on the assigned reading, you are encouraged to carefully read and think about the course material.
+The questions to answer are:&lt;/h5&gt;
+Sandlin article
+&lt;ol&gt;
+ 	&lt;li&gt;Do you agree that public pedagogy reproduces hegemonic practices?  Why/why not?  Give examples.&lt;/li&gt;
+ 	&lt;li&gt;Define transformative education in your own words. How is identity foundational to transformative adult education?&lt;/li&gt;
+ 	&lt;li&gt;How does relational learning figure into critical transformational learning? Give an example from your context.&lt;/li&gt;
+&lt;/ol&gt;
+Silberman text
+
+4.What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.
+&lt;ol start=&quot;4&quot;&gt;
+ 	&lt;li&gt;Comment on this quote from Eric Jensen, author of &lt;em&gt;Brain Based Learning&lt;/em&gt; cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.&lt;/li&gt;
+&lt;/ol&gt;
+Brookfield text
+&lt;ol start=&quot;6&quot;&gt;
+ 	&lt;li&gt;What are three connotations of power? Why is this information helpful to you as an adult educator?&lt;/li&gt;
+ 	&lt;li&gt;What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.&lt;/li&gt;
+ 	&lt;li&gt;What four methods make teaching adults distinctive?&lt;/li&gt;
+ 	&lt;li&gt;Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.&lt;/li&gt;
+&lt;/ol&gt;
+&nbsp;
+
+&lt;strong&gt;Reading Response Rubric  KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - MAYBE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION&lt;/strong&gt;
+
+&lt;strong&gt; &lt;/strong&gt;
+&lt;table width=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;36&quot;&gt;&nbsp;
+
+&nbsp;
+
+&lt;strong&gt;8-10&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
+
+The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight
+
+to the topic.
+
+Reader demonstrates an accurate understanding of this chosen information in the text.
+
+Reader uses information from the text to interpret chosen concepts or make connections to other situations or contexts logically through analysis, evaluation, inference, or comparison/contrast.
+
+Reader defines uncommon or challenging words and shows evidence of doing the intellectual work necessary to understand challenging text.
+
+Reader identifies points of view and implications in the text and critically analyses their own response to these.
+
+No errors in grammar or composition. Page restrictions and format followed. Submitted on time.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;36&quot;&gt;&nbsp;
+
+&nbsp;
+
+&lt;strong&gt;                   &lt;/strong&gt;&lt;strong&gt;5-7&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.
+
+The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to
+
+the topic.
+
+Reader demonstrates a partial understanding of this chosen information in the text.
+
+Reader uses information from the text to interpret chosen concepts but does not make connections to other situations or contexts.
+
+Reader partially integrates interpretation of the text with text-based support.
+
+Reader does not define uncommon or challenging words necessary to understanding the text.
+
+Reader does not identify points of view and implications in the text or critically analyze their own response to these.
+
+Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted on time.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;36&quot;&gt;&nbsp;
+
+&lt;strong&gt;         &lt;/strong&gt;&lt;strong&gt;2-4&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;835&quot;&gt;Reader demonstrates insufficient understanding of the chosen concepts.
+
+The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.
+
+Reader uses information from the text to make simplistic interpretations of the text without using significant concepts or by making only limited
+
+connections to other situations or contexts.
+
+Reader does not integrate interpretation of the text with text-based support.
+
+Reader does not define uncommon or challenging words necessary to understanding the text.
+
+Reader does not identify points of view and implications in the text or critically analyze their own response to these.
+
+More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;36&quot;&gt;           &lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;835&quot;&gt;•         Reader demonstrates little or no understanding of the text; may be inaccurate.
+
+•        The responses are superficial and do not include critical analysis.
+
+•         Reader makes little or no interpretation of the text.
+
+•         Reader’s response is insufficient to show that criteria are met.
+
+•         More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;           &lt;/strong&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;835&quot;&gt;•         Reader’s response is absent or does not address the task.
+
+•         Reader’s response is insufficient to show that criteria are met&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&nbsp;
+
+&nbsp;
+&lt;h5&gt;&lt;/h5&gt;
+&lt;h5&gt;
 ```</h5>
 ## Topic 1: Critical Transformative Learning
 ### Introduction
@@ -138,8 +259,6 @@ Topic 3: Prior Needs Assessment
 ###Introduction
 
 Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): &lt;em&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  &lt;/em&gt;This is the essential reason for prior learning assessment.
-
-&nbsp;
 
 ### Learning Activities
 ##### Activity 3:
