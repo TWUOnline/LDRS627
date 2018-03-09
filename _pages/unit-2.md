@@ -42,20 +42,13 @@ Here is a checklist of learning activities you will benefit from in completing t
  	<li> Read the unit overview.</li>
  	<li>Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>.  Chapters 1 and 4.</li>
  	<li>Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, <strong>14-16</strong>.  <strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.</li>
+ 	<li>Read topic one notes.</li>
+ 	<li>Write your first 300 wo</li>
  	<li></li>
 </ol>
-```
-Learning Activities can include the following:
+&nbsp;
 
-Blog Post (2%)
-
-PART A
-
-Define critical transformational learning in your own words.  How can you as an adult education foster critical transformative learning in your context?
-
-PART B
-
-Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. Identify two or three &lt;a href=&quot;https://learn.twu.ca/mod/url/view.php?id=36727&quot;&gt;next steps&lt;/a&gt; regarding how you can intervene for quality improvement.  *State your plan to the C-Suite following the guidelines described on p. 387 and 388.
+Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. Identify two or three <a href="https://learn.twu.ca/mod/url/view.php?id=36727">next steps</a> regarding how you can intervene for quality improvement.  *State your plan to the C-Suite following the guidelines described on p. 387 and 388.
 
 ```
 
@@ -66,21 +59,21 @@ Thinking about your specific organization, take the department team building que
 | Activity 3:| | |
 | Activity 4:| | |
 | Assignment 1:| | |
-<h5>Assignment: Reading response 10%
+&lt;h5&gt;Assignment: Reading response 10%
 ```</h5>
-&lt;h5&gt;Based on the assigned reading, you are encouraged to carefully read and think about the course material.
-The questions to answer are:&lt;/h5&gt;
+<h5>Based on the assigned reading, you are encouraged to carefully read and think about the course material.
+The questions to answer are:</h5>
 Sandlin article
-&lt;ol&gt;
- 	&lt;li&gt;Do you agree that public pedagogy reproduces hegemonic practices?  Why/why not?  Give examples.&lt;/li&gt;
- 	&lt;li&gt;Define transformative education in your own words. How is identity foundational to transformative adult education?&lt;/li&gt;
- 	&lt;li&gt;How does relational learning figure into critical transformational learning? Give an example from your context.&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+ 	<li>Do you agree that public pedagogy reproduces hegemonic practices?  Why/why not?  Give examples.</li>
+ 	<li>Define transformative education in your own words. How is identity foundational to transformative adult education?</li>
+ 	<li>How does relational learning figure into critical transformational learning? Give an example from your context.</li>
+</ol>
 Silberman text
 
 4. What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.
 
-5. Comment on this quote from Eric Jensen, author of &lt;em&gt;Brain Based Learning&lt;/em&gt; cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.
+5. Comment on this quote from Eric Jensen, author of <em>Brain Based Learning</em> cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.
 
 Brookfield text
 
@@ -92,16 +85,16 @@ Brookfield text
 
 9. Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.
 
-&lt;strong&gt;Reading Response Rubric  &lt;/strong&gt;
+<strong>Reading Response Rubric  </strong>
 
-&lt;strong&gt;KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - I SUGGEST WE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION&lt;/strong&gt;
+<strong>KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - I SUGGEST WE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION</strong>
 
-&lt;strong&gt; &lt;/strong&gt;
-&lt;table width=&quot;0&quot;&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;8-10&lt;/strong&gt;&lt;/td&gt;
-&lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
+<strong> </strong>
+<table width="0">
+<tbody>
+<tr>
+<td width="36"><strong>8-10</strong></td>
+<td width="835">Reader identifies information from the assigned reading that resonates or strikes them in a personal way and clearly explains the reason for their choices.
 
 The responses show superior depth of knowledge on the topic, clear synthesis and evaluation of the content read, and provide depth, breath, or new insight
 
@@ -115,11 +108,11 @@ Reader defines uncommon or challenging words and shows evidence of doing the int
 
 Reader identifies points of view and implications in the text and critically analyses their own response to these.
 
-No errors in grammar or composition. Page restrictions and format followed. Submitted on time.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;                   &lt;/strong&gt;&lt;strong&gt;5-7&lt;/strong&gt;&lt;/td&gt;
-&lt;td width=&quot;835&quot;&gt;Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.
+No errors in grammar or composition. Page restrictions and format followed. Submitted on time.</td>
+</tr>
+<tr>
+<td width="36"><strong>                   </strong><strong>5-7</strong></td>
+<td width="835">Reader identifies information from the assigned reading that resonates or strikes them in a personal way but the reason for their choices is not completely or clearly explained.
 
 The responses show adequate depth of knowledge on the topic, a good synthesis but may lack in evaluation of the content read, and providing new insight to
 
@@ -135,11 +128,11 @@ Reader does not define uncommon or challenging words necessary to understanding 
 
 Reader does not identify points of view and implications in the text or critically analyze their own response to these.
 
-Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted on time.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;         &lt;/strong&gt;&lt;strong&gt;2-4&lt;/strong&gt;&lt;/td&gt;
-&lt;td width=&quot;835&quot;&gt;Reader demonstrates insufficient understanding of the chosen concepts.
+Fewer than 3 errors in grammar or composition. Page restrictions and format not followed.  Not submitted on time.</td>
+</tr>
+<tr>
+<td width="36"><strong>         </strong><strong>2-4</strong></td>
+<td width="835">Reader demonstrates insufficient understanding of the chosen concepts.
 
 The responses show inadequate depth of knowledge on the topic, a synthesis that misses key concepts, and is not a critical analysis.
 
@@ -153,11 +146,11 @@ Reader does not define uncommon or challenging words necessary to understanding 
 
 Reader does not identify points of view and implications in the text or critically analyze their own response to these.
 
-More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;           &lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-&lt;td width=&quot;835&quot;&gt;•         Reader demonstrates little or no understanding of the text; may be inaccurate.
+More than 3 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.</td>
+</tr>
+<tr>
+<td width="36">           <strong>1</strong></td>
+<td width="835">•         Reader demonstrates little or no understanding of the text; may be inaccurate.
 
 •        The responses are superficial and do not include critical analysis.
 
@@ -165,18 +158,18 @@ More than 3 errors in grammar or composition. Page restrictions and format follo
 
 •         Reader’s response is insufficient to show that criteria are met.
 
-•         More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;36&quot;&gt;&lt;strong&gt;           &lt;/strong&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
-&lt;td width=&quot;835&quot;&gt;•         Reader’s response is absent or does not address the task.
+•         More than 5 errors in grammar or composition. Page restrictions and format followed. Not submitted on time.</td>
+</tr>
+<tr>
+<td width="36"><strong>           </strong><strong>0</strong></td>
+<td width="835">•         Reader’s response is absent or does not address the task.
 
-•         Reader’s response is insufficient to show that criteria are met&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h5&gt;&lt;/h5&gt;
-&lt;h5&gt;```</h5>
+•         Reader’s response is insufficient to show that criteria are met</td>
+</tr>
+</tbody>
+</table>
+<h5></h5>
+<h5>```</h5>
 ## Topic 1: Critical Transformative Learning
 ### Introduction
 
@@ -201,16 +194,13 @@ a) Define critical transformational learning in your own words.
 
 b) How can you as an adult education foster critical transformative learning in your context?
 
-```
+While reading Brookfield chapter 1 consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.
 
-Instructions
-View the following resources about …
+While reading Brookfield chapter 4 consider how self-directed learning is at the heard of adult education.
 
-```
-Below I’ve listed some examples of learning activities. They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
-There can be just one activity per topic, or have a couple at the end of the unit.
-Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
-```
+and 4.
+
+&nbsp;
 
 Watch the following videos that illustrate…
 
@@ -227,24 +217,24 @@ This feature gives students an opportunity to reflect on readings and make conne
 Introduction
 …
 Instructions
-<h2>Topic 2: Pedagogy and Andragogy
-### Introduction</h2>
+&lt;h2&gt;Topic 2: Pedagogy and Andragogy
+### Introduction&lt;/h2&gt;
 Creating a good learning experience for adults is what andragogy is all about. It’s important to keep in mind that the resource of highest value in adult education is the learner’s experience.
 
 Knowles (1980 cited in Merriam &amp; Bierma, 2014, p. 47), outlines six assumptions about andragogy:
-<ol>
- 	<li>As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.</li>
- 	<li>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.</li>
- 	<li>The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.</li>
- 	<li>There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.</li>
- 	<li>Adults are mostly driven by internal motivation, rather than external motivators</li>
- 	<li>Adults need to know the reason for learning something</li>
-</ol>
+&lt;ol&gt;
+ 	&lt;li&gt;As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.&lt;/li&gt;
+ 	&lt;li&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.&lt;/li&gt;
+ 	&lt;li&gt;The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.&lt;/li&gt;
+ 	&lt;li&gt;There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.&lt;/li&gt;
+ 	&lt;li&gt;Adults are mostly driven by internal motivation, rather than external motivators&lt;/li&gt;
+ 	&lt;li&gt;Adults need to know the reason for learning something&lt;/li&gt;
+&lt;/ol&gt;
 What is the difference between how children experience something as compared to how adults experience something?  In other words, what’s the difference between pedagogy and andragogy?
 
-Children experience what happens <em>to </em>them while and adult’s experience is <em>who they are</em>.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
+Children experience what happens &lt;em&gt;to &lt;/em&gt;them while and adult’s experience is &lt;em&gt;who they are&lt;/em&gt;.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
 
-Check out John Henschke of Lindenwood University’s website at <u><a href="http://www.lindenwood.edu/education/andragogy">www.lindenwood.edu/education/andragogy</a></u> and German professor Jost Reischmann’s website at <a href="http://www.andragogy.net">www.andragogy.net</a>.
+Check out John Henschke of Lindenwood University’s website at &lt;u&gt;&lt;a href=&quot;http://www.lindenwood.edu/education/andragogy&quot;&gt;www.lindenwood.edu/education/andragogy&lt;/a&gt;&lt;/u&gt; and German professor Jost Reischmann’s website at &lt;a href=&quot;http://www.andragogy.net&quot;&gt;www.andragogy.net&lt;/a&gt;.
 
 …
 
@@ -252,7 +242,7 @@ Topic 3: Prior Needs Assessment
 
 ###Introduction
 
-Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): <em>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  </em>This is the essential reason for prior learning assessment.
+Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): &lt;em&gt;An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  &lt;/em&gt;This is the essential reason for prior learning assessment.
 
 ### Learning Activities
 ##### Activity 3:
