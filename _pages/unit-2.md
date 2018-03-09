@@ -29,7 +29,7 @@ Unit 2 is divided into 3 topics:
 &nbsp;
 <h5>Learning Outcomes
 When you have completed this unit you should be able to:</h5>
-Define Critical transformational learning and it's elements in your own words.
+Define Critical transformational learning and its elements in your own words.
 
 Describe two or three methods used to empower people for quality improvement.
 
@@ -52,8 +52,6 @@ Blog Post (2%)
 PART A
 
 Define critical transformational learning in your own words.  How can you as an adult education foster critical transformative learning in your context?
-
-&nbsp;
 
 PART B
 
