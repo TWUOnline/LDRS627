@@ -78,7 +78,8 @@ Write a blog post: Identify two or three <a href="https://learn.twu.ca/mod/url/v
 | Activity 4:| | |
 | Assignment 1:| | |
 &lt;h5&gt;Assignment: Reading response 10%
-```</h5>
+```
+</h5>
 <h5>Based on the assigned reading, you are encouraged to carefully read and think about the course material.
 The questions to answer are:</h5>
 Sandlin article
