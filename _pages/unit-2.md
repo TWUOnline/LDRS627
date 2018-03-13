@@ -64,7 +64,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 </ol>
 Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4.
 
-Write a blog post: Identify two or three <a href="https://learn.twu.ca/mod/url/view.php?id=36727">next steps</a> regarding how you can intervene for quality improvement.  *State your plan to the C-Suite following the guidelines described on p. 387 and 388.
+Write a blog post: Identify two or three <a href="https://learn.twu.ca/mod/url/view.php?id=36727">next steps</a> regarding how you can intervene for quality improvement.  State your plan to the C-Suite following the guidelines described on p. 387 and 388.
 
 9. Complete the reading response assignment.
 
