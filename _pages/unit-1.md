@@ -57,16 +57,16 @@ Assignment 1: Complete Blog Part A. Assignment 2: Complete Blog Part B. Assignme
 
 #### Activity 1: Teaching Practices Inventory
 
-Take the Teaching Practices Inventory found at [http://www.teachingperspectives.com/tpi/](http://www.teachingperspectives.com/tpi/). It has 45 questions and should take you about 10-15 minutes to complete.
+Take the [Teaching Practices Inventory](http://www.teachingperspectives.com/tpi/). It has 45 questions and should take you about 10-15 minutes to complete.
 
 #### Activity 2: Videos and Blog
 
 View the following videos that will help you interpret your TPI results.
 
-* [http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg)
-* [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM)
-* [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls)
-* [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
+* [TPI as a conversational Tool](http://youtu.be/9GN7nN6YnXg)
+* [Orientation to a Profile](http://youtu.be/1oz1oPE34OM)
+* [Deconstructing a Profile](http://youtu.be/EHy76iHn3Ls)
+* [Next Steps](http://youtu.be/4IB7OhP6k28)
 
 Using the videos as a guide, interpret your own TPI results focusing on your dominant perspectives. Then complete part A of your blog. **Answer the following questions in your blog:** a) Does your profile match your self-perception or how others see you? Are there any discrepancies? b) With respect to teaching adults, what are your [next steps](https://learn.twu.ca/mod/url/view.php?id=36727)?
 
