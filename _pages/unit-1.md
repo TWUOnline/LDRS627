@@ -57,16 +57,16 @@ Assignment 1: Complete Blog Part A. Assignment 2: Complete Blog Part B. Assignme
 
 #### Activity 1: Teaching Practices Inventory
 
-Take the Teaching Practices Inventory found at [http://www.teachingperspectives.com/tpi/](http://www.teachingperspectives.com/tpi/). It has 45 questions and should take you about 10-15 minutes to complete.
+Take the [Teaching Practices Inventory](http://www.teachingperspectives.com/tpi/). It has 45 questions and should take you about 10-15 minutes to complete.
 
 #### Activity 2: Videos and Blog
 
 View the following videos that will help you interpret your TPI results.
 
-* [http://youtu.be/9GN7nN6YnXg](http://youtu.be/9GN7nN6YnXg)
-* [http://youtu.be/1oz1oPE34OM](http://youtu.be/1oz1oPE34OM)
-* [http://youtu.be/EHy76iHn3Ls](http://youtu.be/EHy76iHn3Ls)
-* [http://youtu.be/4IB7OhP6k28](http://youtu.be/4IB7OhP6k28)
+* [TPI as a conversational Tool](http://youtu.be/9GN7nN6YnXg)
+* [Orientation to a Profile](http://youtu.be/1oz1oPE34OM)
+* [Deconstructing a Profile](http://youtu.be/EHy76iHn3Ls)
+* [Next Steps](http://youtu.be/4IB7OhP6k28)
 
 Using the videos as a guide, interpret your own TPI results focusing on your dominant perspectives. Then complete part A of your blog. **Answer the following questions in your blog:** a) Does your profile match your self-perception or how others see you? Are there any discrepancies? b) With respect to teaching adults, what are your [next steps](https://learn.twu.ca/mod/url/view.php?id=36727)?
 
@@ -91,7 +91,8 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
 
 1. Read the following articles. Note that only certain pages are assigned, and that the Collin and Sandlin articles can be accessed through the TWU library.
 
-* Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36. Available at [http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438](http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438)
+* Cahalan, K. (2016). [Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36.](http://journals.sfu.ca/rpfs/index.php/rpfs/article/download/452/438)
+
 * Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly__61_: 358-360 and 371-374.
 
 * Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14.
@@ -125,10 +126,10 @@ Use the Learning Outcomes from the beginning of the unit as a checklist of under
 
 ## Resources
 
-Cahalan, K. (2016). Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36 [http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
+Cahalan, K. (2016). [Integrative Learning for Practical Wisdom in Reflective Practice: Formation and Supervision in Ministry Vol 36](http://journals.sfu.ca/rpfs/index.php/rpfs/article/view/452) Collins, John B. and Daniel D. Pratt (2011). The Teaching Perspectives Inventory at 10 Years and 100,000 Respondents: Reliability and Validity of a Teacher Self-Report Inventory. _Adult Education Quarterly_ _61_:358-360 and 371-374. Goodson, Patricia (2013). _Becoming an Academic Writer_. Los Angeles: Sage Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. _Adult Education Quarterly 63_:3, 3-14. Silberman, M. L., & Biech, E. (2015). _Active training: A handbook of techniques, designs, case examples, and tips_ (4th ed.). Hoboken, New Jersey: John Wiley & Sons *Part 1: pages 1-12; chapters 18, 19 Wang, . C. X. (2017). _Theory and Practice of Adult and Higher Education_. Information Age Publishing Inc. Chapters 1-4
 
 ## TO DO: (our notes)
 
-* KWL chart (Kelly to check plug-ins - https://www.gravityforms.com/features/ )
+* KWL chart (Kelly to check plug-ins -https://www.gravityforms.com/features/  )
 * Formatting (for unit paragraphs and overall Wordpress theme)
 * Final read through after other units are complete

@@ -189,7 +189,9 @@ More than 3 errors in grammar or composition. Page restrictions and format follo
 </table>
 <h5></h5>
 <h5>```</h5>
+
 ## Topic 1: Critical Transformative Learning
+
 ### Introduction
 
 With respect to transformative learning instructors need to:
@@ -278,7 +280,7 @@ Use the Learning Outcomes from the beginning of the unit as a checklist of under
 
 Hui, C., Snider, L., &amp; Couture, M. (2016). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. <em>Canadian Journal of Occupational Therapy, 83</em>(2), 115-125. doi:10.1177/0008417415627665
 
-Katz, J., Porath, M., Bendu, C., &amp; Epp, B. (2012). Diverse voices: Middle years students' insights into life in inclusive classrooms. <em>Exceptionality Education International, 22</em>(1), 2-16. Retrieved from http://ir.lib.uwo.ca/eei/vol22/iss1/2/
+Katz, J., Porath, M., Bendu, C., &amp; Epp, B. (2012). [Diverse voices: Middle years students' insights into life in inclusive classrooms.](http://ir.lib.uwo.ca/eei/vol22/iss1/2/) <em>Exceptionality Education International, 22</em>(1), 2-16. 
 
 Katz, J., &amp; Sugden, R. (2013). The Three-Block Model of Universal Design for Learning implementation in a high school. <em>Canadian Journal of Educational Administration and Policy, 141</em>, 1-28.
 
