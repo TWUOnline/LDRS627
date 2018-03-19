@@ -69,6 +69,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 &lt;h5&gt;Assignment: Reading response 10%&lt;/h5&gt;
 &lt;h5&gt;```</h5>
 <h5>```</h5>
+
 ## Topic 1: Critical Transformative Learning
 
 ### Introduction
