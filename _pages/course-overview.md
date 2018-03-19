@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-20 19:49:01
 ---
-<h3>**Theory and Practice of Adult Education**</h3>
+<h3>Theory and Practice of Adult Education</h3>
 Welcome to Leadership 627, the Theory and Practice of Adult Education!  This page contains important information about the course, including what you will be learning, how you will be assessed, and how you can fully participate in this learning experience.  Be sure to read all the information below before beginning Unit 1.
 
 &nbsp;
