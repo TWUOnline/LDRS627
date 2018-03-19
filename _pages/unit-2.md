@@ -143,8 +143,8 @@ Before you plan to teach anything it’s a good idea to find out what your stude
 &nbsp;
 
 &nbsp;
-<h2>Unit 2 Summary
-```</h2>
+<h2>Unit 2 Summary</h2>
+
 In this unit you explored critical transformational learning, self directed learning and prior learning assessment within the larger context of power dynamics in the adult education learning environment.  This prepares you for next week&#039;s topics of Experience, Emotions and Motivation where we explore ambiguity and brain-friendly teaching.
 
 ```
