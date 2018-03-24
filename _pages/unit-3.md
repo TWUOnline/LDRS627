@@ -9,34 +9,34 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:05
 ---
-### Unit 3
-##### Overview
+<h3>Unit 3</h3>
+
+<h5>Overview</h5>
 
 Welcome to COURSE! In this first unit, we begin the course by…
-```
 
-```
+<pre><code><br /></code></pre>
 
-##### Topics
+<h5>Topics</h5>
+
 Unit 3 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
 
-##### Learning Outcomes
+<h5>Learning Outcomes</h5>
+
 When you have completed this unit you should be able to:
 * Describe…
 * Contrast…
 * Analyze…
 * Determine…
 
-##### Activity Checklist
+<h5>Activity Checklist</h5>
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-```
-```
-
-|Activities| | |
+<pre><code><br /><pre><code><br />|Activities| | |
 |----|----|----|
 | Activity 1:| | |
 | Activity 2:| | |
@@ -48,46 +48,52 @@ Here is a checklist of learning activities you will benefit from in completing t
 Here is the assessment for Unit 3.
 Assignment 1: …
 %
-```
-```
+</code></pre>
 
-## Topic 1:
+
+
+<pre><code><br />## Topic 1:
 ### Introduction
 We begin Unit 3…
-```
-```
+</code></pre>
 
-[content]
 
-```
-```
 
-### Learning Activities
+<pre><code><br />[content]
+
+</code></pre>
+
+
+
+<pre><code><br />### Learning Activities
 ##### Activity 1:
 Introduction
 …
-```
+</code></pre>
 
-```
 
-Instructions
+
+
+<pre><code><br />Instructions
 View the following resources about …
 
-```
+</code></pre>
 
-```
 
-Watch the following videos that illustrate…
+
+
+<pre><code><br />Watch the following videos that illustrate…
 
 ##### Questions to Consider
 After completing the activities above, consider the following questions:
 
 * Q1
 * Q2
-```
-```
+</code></pre>
 
-#####Activity 2:
+
+
+<pre><code><br />#####Activity 2:
 Introduction
 …
 Instructions
@@ -98,10 +104,11 @@ Instructions
 
 ### Learning Activities
 ##### Activity 3:
-```
-```
+</code></pre>
 
-Introduction
+
+
+<pre><code><br />Introduction
 The following case study reveals…
 Mrs. Jones…
 
@@ -109,44 +116,50 @@ Mrs. Jones…
 Introduction
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
-```
+</code></pre>
 
-```
 
-Introduction
+
+
+<pre><code><br />Introduction
 Match the following terms to their correct definition.
 
-&nbsp;
+ 
 
 ## Assessment
-```
+</code></pre>
 
-```
 
-### Assignment 1:
+
+
+<pre><code><br />### Assignment 1:
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
 ## Unit 3 Summary
-```
-```
+</code></pre>
 
-In this first unit, you have had the opportunity to learn about…
+
+
+<pre><code><br />In this first unit, you have had the opportunity to learn about…
 
 ## Checking your Learning
-```
+</code></pre>
+
+
 Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
-```
+</code></pre>
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
-### Learning Outcomes
+<h3>Learning Outcomes</h3>
 
 *
 *
 
-## Resources
+<h2>Resources</h2>
+
 *
 *
 
-###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
+<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
