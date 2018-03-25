@@ -46,13 +46,15 @@ Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook 
 
 Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chaper 11
 
-&nbsp;
+Write a blog on this topic:
 
-Write blog and respond to at least two others' blog posts.
+Considering how <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
+
+Respond to at least two others' blog posts.
 
 Complete and submit to Dropbox CIQ (Critical Incident Questionnaire reflection on your learning and asking for feedback)
 
-Kelly here is the survey - it's good to ask students to complete in weeks 3 and 6 so that adjustments can be made as necessary.  I would have added it to unit 6 but it's not a page yet.  Please help me remember to add it into unit 6.
+<strong>Kelly here is the survey - it's good to ask students to complete in weeks 3 and 6 so that adjustments can be made as necessary.  I would have added it to unit 6 but it's not a page yet.  Please help me remember to add it into unit 6.</strong>
 
 <strong>The Classroom Critical Incident Questionnaire</strong>
 
@@ -77,6 +79,8 @@ What about the class so far surprised you the most? (This could be about your ow
 Identify what emotions and feeling have hindered or stopped your own learning as an adult and how you could design to avoid a similar hindrance for someone else.
 
 | Activity 2:| | |
+
+As you think about the teaching methods of Jesus, or another religious teacher, what stands out? Does anything surprise you?
 
 | Activity 3:| | |
 | Activity 4:| | |
