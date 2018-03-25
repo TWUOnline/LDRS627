@@ -9,31 +9,39 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:05
 ---
-### Unit 3  Experience, Emotions and Motivation
-##### Overview
+<h3>Unit 3  Experience, Emotions and Motivation</h3>
+
+<h5>Overview</h5>
 
 Welcome to COURSE! In this first unit, we begin the course by…
-```
 
-```
+<pre><code><br /></code></pre>
+
 <h5>Topics
 Unit 3 is divided into __ topics:
 * Topic 1: Emotions and teaching</h5>
+
 <h5>* Topic 2: Neuroscience and teaching
 * Topic 3: Alternative methods to presenting</h5>
+
 <h5>   *Topic 4: Experiential learning</h5>
-&nbsp;
 
 &nbsp;
 
-##### Learning Outcomes
+&nbsp;
+
+<h5>Learning Outcomes</h5>
+
 When you have completed this unit you should be able to:
 *
+
 <ul>
- 	<li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
- 	<li>design brain-friendly teaching methods.</li>
+    <li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
+    <li>design brain-friendly teaching methods.</li>
 </ul>
-##### Activity Checklist
+
+<h5>Activity Checklist</h5>
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```Read ‘Unit 3 Essentials’ notes
@@ -43,12 +51,12 @@ View video ‘Chaos Theory’
 Read Brookfield text
 
 Read Wang text
-&lt;p data-key=&quot;3832&quot;&gt;&lt;span data-key=&quot;3831&quot;&gt;Read Silberman text&lt;/span&gt;&lt;/p&gt;
+&lt;p data-key=&quot;3832&quot;&gt;&lt;span data-key=&quot;3831&quot;&gt;Read Silberman text&lt;/span&gt;
 &lt;p data-key=&quot;3834&quot;&gt;&lt;span data-key=&quot;3833&quot;&gt;Write blog 1 and respond to at least two others&#039; blog posts.&lt;/span&gt;&lt;/p&gt;
 &lt;p data-key=&quot;3834&quot;&gt;&lt;span data-key=&quot;3833&quot;&gt;Write blog 2 Post and respond to at least two others&#039; blog posts.&lt;/span&gt;&lt;/p&gt;
 &lt;p data-key=&quot;3839&quot;&gt;&lt;span data-key=&quot;3835&quot;&gt;Complete and submit to Dropbox CIQ (Critical Incident Questionnaire reflection on your learning and asking for feedback)&lt;/span&gt;&lt;/p&gt;
 &lt;p data-key=&quot;3839&quot;&gt;Kelly here is the survey - it&#039;s good to ask students to complete in weeks 3 and 6 so that adjustments can be made as necessary.  I would have added it to unit 6 but it&#039;s not a page yet.  Please help me remember to add it into unit 6.&lt;/p&gt;
-&lt;strong&gt;The Classroom Critical Incident Questionnaire&lt;/strong&gt;
+&lt;strong&gt;The Classroom Critical Incident Questionnaire&lt;/strong&gt;&lt;/p&gt;
 
 &lt;strong&gt; &lt;/strong&gt;
 
@@ -64,35 +72,36 @@ What action that anyone took these few weeks did you find most puzzling or confu
 
 What about the class so far surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).
 
-```
-
-|Activities| | |
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;|Activities| | |
 |----|----|----|
 | Activity 1:| | |
 
-&nbsp;
+&amp;nbsp;
 
 Identify what emotions and feeling have hindered or stopped your own learning as an adult and how you could design to avoid a similar hindrance for someone else.
 
 | Activity 2:| | |
 
-&nbsp;
+&amp;nbsp;
 
 | Activity 3:| | |
 | Activity 4:| | |
 | Assignment 1:| | |
-<h5>Assessment
+
+
+&lt;h5&gt;Assessment
 Here is the assessment for Unit 3.
 Assignment 1: …
-%</h5>
+%&lt;/h5&gt;
+
+
 Blog Post
 
-Considering how <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
+Considering how &lt;a href=&quot;https://learn.twu.ca/mod/resource/view.php?id=36737&quot;&gt;change&lt;/a&gt;, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
 
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-## Topic 1: Emotions and teaching
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;## Topic 1: Emotions and teaching
 ### Introduction
 
 I want to include parts of a reflection by Margaret Wheatley about the need for us to be disturbed.  Sounds odd but read on! Here is the reference for the full text if you wish to read it verbatim. I’ve adapted it here for our class perspective.
@@ -121,40 +130,33 @@ The opposite of ‘grounded’ may be restlessness; emotions that are chaotic. 
 
 You may find it helpful to take a look at the Reading Response questions posted in week 4 so you can read with these in mind, and, possibly answer the questions concurrently as you read.
 
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-[content]
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;[content]
 
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-### Learning Activities
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;### Learning Activities
 ##### Activity 1:
 Introduction
 …
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-```
-
-Instructions
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;Instructions
 View the following resources about …
 
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-```
-
-Watch the following videos that illustrate…
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;Watch the following videos that illustrate…
 
 ##### Questions to Consider
 After completing the activities above, consider the following questions:
 
 * Q1
 * Q2
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-#####Activity 2:
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;#####Activity 2:
 Introduction
 …
 Instructions
@@ -165,44 +167,44 @@ Instructions
 
 ### Learning Activities
 ##### Activity 3:
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-## Assessment
-```
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;## Assessment
+&lt;/code&gt;&lt;/pre&gt;
 
-```
-
-### Assignment 1:
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;### Assignment 1:
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
 ## Unit 3 Summary
-```
-```
+&lt;/code&gt;&lt;/pre&gt;
 
-In this first unit, you have had the opportunity to learn about…
+&lt;pre&gt;&lt;code&gt;&lt;br /&gt;In this first unit, you have had the opportunity to learn about…
 
 ## Checking your Learning
-```
+&lt;/code&gt;&lt;/pre&gt;
+
 Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
 ```
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
-### Learning Outcomes
+<h3>Learning Outcomes</h3>
 
 *
 *
 
-## Resources
+<h2>Resources</h2>
+
 *
+
 <ul>
- 	<li>Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
- 	<li>Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
- 	<li>Videos: Chaos Theory and Impact on Careers and How I learned to embrace chaos</li>
- 	<li>Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chaper 11</li>
+    <li>Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+    <li>Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
+    <li>Videos: Chaos Theory and Impact on Careers and How I learned to embrace chaos</li>
+    <li>Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chaper 11</li>
 </ul>
+
 *
 
-###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
+<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
