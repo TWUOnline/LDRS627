@@ -10,60 +10,37 @@ published: true
 post_date: 2018-02-20 12:24:05
 ---
 <h2>Unit 3  Experience, Emotions and Motivation</h2>
+<h3>Overview</h3>
+In this unit, we explore different ways of knowing - through experience and emotions <strong> - </strong>and <strong>we consider </strong>how these impact <strong>one's </strong>motivation to learn. Jesus, the greatest teacher of all time, wasn't afraid to be emotional. It seems as though he used wisdom as to when he chose to open his heart to people, but part of the substance that bonded Jesus and his disciples was his ability to engage them at a deep level. <strong>[this sentence is hard to follow and a little confusing.  Can we simplify?  "Jesus chose when to open up to people..." - although I'm still not sure what you mean by Jesus opening up his heart. Reading it again, it makes it sound as if he was stand-offish to others (closed his heart). Then the next part of the sentence maybe we could simplify as well: "and part of what bonded Jesus..."</strong>
 
-<h3>
-Overview</h3>
+As he approached Jerusalem at the beginning of possibly the most important week in the history of civilization (the week he died and rose again), he exposed his emotions and revealed his heart to those around him <strong>[were these his disciples, or others as well? We may want to point this out in this or the next sentence]</strong>. “As he approached Jerusalem and saw the city, he wept over it and said, “If you, even you, had only known on this day what would bring you peace—but now it is hidden from your eyes” (Luke 19:41-43).  This unit invites exploration into how can we bring emotion into our teaching and the science underlying the role of emotion in learning.
+<h3>Topics</h3>
+Unit 3 is divided into 3 topics:
+Topic 1: Emotions and teaching
 
-In this unit, we explore different ways of knowing - through experience and emotions <strong> - </strong>and <strong>we consider </strong>how these impact <strong>one's </strong>motivation to learn. Jesus, the greatest teacher of all time, wasn't afraid to be emotional. It seems as though he used wisdom as to when he chose to open his heart to people, but part of the substance that bonded Jesus and his disciples was his ability to engage them at a deep level. <strong>[this sentence is hard to follow and a little confusing.  Can we simplify?  "Jesus wisely chose when to open up to people..." - although I'm still not sure what you mean by Jesus opening up his heart. Then the next part of the sentence, "and part of what bonded Jesus..."</strong>
-
-As he approached Jerusalem at the beginning of possibly the most important week in the history of civilization (the week he died and rose again), he exposed his emotions and revealed his heart to those around him. “As he approached Jerusalem and saw the city, he wept over it and said, “If you, even you, had only known on this day what would bring you peace—but now it is hidden from your eyes” (Luke 19:41-43).  This unit invites exploration into how can we bring emotion into our teaching and the science underlying the role of emotion in learning.
-
-<h5>Topics
-Unit 3 is divided into __ topics:
-* Topic 1: Emotions and teaching</h5>
-
-<h5>* Topic 2: Neuroscience and teaching
-* Topic 3: Experiential learning</h5>
-
-<h5>Learning Outcomes</h5>
-
+Topic 2: Neuroscience and teaching
+Topic 3: Experiential learning
+<h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:
-*
-
 <ul>
-    <li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
-    <li>design brain-friendly teaching methods.</li>
+ 	<li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
+ 	<li>design brain-friendly teaching methods.</li>
 </ul>
-
-<h5>Activity Checklist</h5>
-
+<h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+<ol>
+ 	<li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+ 	<li>View the videos ‘Chaos Theory’ and 'How I learned to embrace chaos'</li>
+ 	<li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
+ 	<li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
+ 	<li>Write a blog on this topic:</li>
+ 	<li>Considering how <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?</li>
+ 	<li>Respond to at least two others' blog posts.</li>
+ 	<li>Complete and submit to Dropbox CIQ (Critical Incident Questionnaire reflection on your learning and asking for feedback)</li>
+</ol>
+<strong>Kelly here is the survey - it's good to ask students to complete in weeks 3 and 6 so that adjustments can be made as necessary.  I would have added it to unit 6 but it's not a page yet.  Please help me remember to add it into unit 6.</strong>
 
-<pre><code><br />View video ‘Chaos Theory’
-
-https://youtu.be/BL2wTkgBEyk
-
-View video 'How I learned to embrace chaos'
-
-https://youtu.be/BDVqNG3KY5Q
-
-Read: Brookfield, S. (2013).&lt;em&gt; Powerful techniques for teaching adults.&lt;/em&gt; (Ch.8)
-
-Read: Silberman, M. L., &amp; Biech, E. (2015). &lt;em&gt;Active training: A handbook of techniques, designs, case examples, and tips&lt;/em&gt; (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons
-
-Read: Wang, . C. X. (2017). &lt;em&gt;Theory and Practice of Adult and Higher Education&lt;/em&gt;. Information Age Publishing Inc. Chaper 11
-
-Write a blog on this topic:
-
-Considering how &lt;a href="https://learn.twu.ca/mod/resource/view.php?id=36737"&gt;change&lt;/a&gt;, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
-
-Respond to at least two others' blog posts.
-
-Complete and submit to Dropbox CIQ (Critical Incident Questionnaire reflection on your learning and asking for feedback)
-
-&lt;strong&gt;Kelly here is the survey - it's good to ask students to complete in weeks 3 and 6 so that adjustments can be made as necessary.  I would have added it to unit 6 but it's not a page yet.  Please help me remember to add it into unit 6.&lt;/strong&gt;
-
-&lt;strong&gt;The Classroom Critical Incident Questionnaire&lt;/strong&gt;
+<strong>The Classroom Critical Incident Questionnaire</strong>
 
 Please take about ten minutes to respond to the questions below.  If nothing comes to mind for any of the questions just leave the space blank. Thanks for taking the time to do this.  What you write will help me make the class more responsive to your concerns.
 
@@ -77,24 +54,11 @@ What action that anyone took these few weeks did you find most puzzling or confu
 
 What about the class so far surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).
 
-</code></pre>
+```
 
-<table>
-<thead>
-<tr>
-  <th>Activities</th>
-  <th></th>
-  <th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Activity 1:</td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
+|Activities| | |
+|----|----|----|
+| Activity 1:| | |
 
 Identify what emotions and feeling have hindered or stopped your own learning as an adult and how you could design to avoid a similar hindrance for someone else.
 
@@ -108,14 +72,12 @@ Assignment 1: …
 
 Blog Post
 
-Considering how <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
+Considering how &lt;a href=&quot;https://learn.twu.ca/mod/resource/view.php?id=36737&quot;&gt;change&lt;/a&gt;, chance, complexity and uncertainty impact adult education and life-long learning, what actions can you take to design learning experiences that respect body, spirit, and emotions - as related to your context?
 
 ```
-
-&lt;pre&gt;&lt;code&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;Topic 1: Emotions and teaching
+```
+&lt;h2&gt;Topic 1: Emotions and teaching
 ### Introduction&lt;/h2&gt;
-
-
 There is a need for us to be disturbed - sounds odd, but read on!  I want to include parts of a reflection by Margaret Wheatley about the need for us to be disturbed in order to learn.  Here is the reference for the full text if you wish to read it verbatim. I’ve adapted it here for our class perspective.
 
 Wheatley, Margaret J. &lt;u&gt;Turning to One Another: Simple Conversations to Restore Hope to the Future &lt;/u&gt;San Francisco: Berrett-Koshler Publishers, Inc., 2002
@@ -144,24 +106,23 @@ The opposite of ‘grounded’ may be restlessness; emotions that are chaotic. 
 
 You may find it helpful to take a look at the Reading Response questions posted in week 4 so you can read with these in mind, and, possibly answer the questions concurrently as you read.
 
-&lt;/code&gt;&lt;/pre&gt;
+&lt;strong&gt;[Adrienne, I&#039;ve added in the two videos and chapter here, but we can put it somewhere else]&lt;/strong&gt;
+&lt;h4&gt;Learning Activities
+Activity 3.1: Read, View and Reflect&lt;/h4&gt;
+Below are some resources that will give you a greater understanding of the topic of emotion and teaching.  As you read the chapter and view the videos, consider the following questions: What is your normal reaction to chaos?  How do you manage it?  How might you improve your way of handling chaos?
+&lt;ol&gt;
+ 	&lt;li&gt;Read: Brookfield, S. (2013).&lt;em&gt; Powerful techniques for teaching adults.&lt;/em&gt; (Ch.8)&lt;/li&gt;
+ 	&lt;li&gt;View the two videos below, ‘Chaos Theory’ and View video &#039;How I learned to embrace chaos&#039;&lt;/li&gt;
+&lt;/ol&gt;
+https://youtu.be/BL2wTkgBEyk
 
-&lt;pre&gt;&lt;code&gt;&lt;br /&gt;[content]
+&nbsp;
 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;&lt;br /&gt;### Learning Activities
-##### Activity 1:  What is your normal reaction to chaos?  How do you manage it?  How might you improve your way of handling chaos?
-
-…
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;
+https://youtu.be/BDVqNG3KY5Q
 
 ```## Topic 2:
 
-<h3>Introduction</h3>
-
+### Introduction
 …
 
 In topic 1 we established that emotions are related to change, innovation and learning.
@@ -170,39 +131,35 @@ In chapter 11 of the Wang text, Kcenia O’Neil explores the neuroscience behind
 
 This is definitely different from teaching according to Bloom’s taxonomy in order to meet learning outcomes and a far cry from teaching via ppt, reading and discussion upon which so much of adult learning is based. With you, I am challenged to explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching? It is a work in progress!
 <h3>Learning Activities
-
-<h5>Activity 3:</h5>
-
-<code>As you read and view the assigned material for this unit, think about this question: Do you have any experience in a teaching and learning setting where you were able to engage with more senses than hearing and seeing? What was it like? Did you feel more engaged through that experience?</code></h3>
+##### Activity 3:
+```As you read and view the assigned material for this unit, think about this question: Do you have any experience in a teaching and learning setting where you were able to engage with more senses than hearing and seeing? What was it like? Did you feel more engaged through that experience?
+```</h3>
 Topic 3
 
-<strong>Experiential learning</strong>
+&lt;strong&gt;Experiential learning&lt;/strong&gt;
 
-As it relates to <a href="https://learn.twu.ca/mod/url/view.php?id=36739">chaos theory</a> and helping people to find the right fit for a job, Dr. Jim Bright asks the question, “What are we doing to prepare people for uncertainty” (Bright, 2013)? Bright makes numerous suggestions, a couple of which include networking and pursuing creativity as they navigate their search (Bright, 2013). Predictable fill-in-the-blank answers can seem unreliable and less helpful in uncertain times. Falling along a similar theme, Brookfield pushes educators to look beyond the predicable and measurable in his chapter on <em>Negotiating the Emotions of Powerful Teaching</em>. Referring to questions of pedagogical mechanics Brookfield states, “All these are obviously important questions to ask, but they focus on the outside of teaching as against our inner lives” (Brookfield, 2013, p. 217). We need to pay attention to what is happening on the inside. What happens on the inside has a significant impact on our experiences and on the decisions we make and it is a very important part of the learning process.
+As it relates to &lt;a href=&quot;https://learn.twu.ca/mod/url/view.php?id=36739&quot;&gt;chaos theory&lt;/a&gt; and helping people to find the right fit for a job, Dr. Jim Bright asks the question, “What are we doing to prepare people for uncertainty” (Bright, 2013)? Bright makes numerous suggestions, a couple of which include networking and pursuing creativity as they navigate their search (Bright, 2013). Predictable fill-in-the-blank answers can seem unreliable and less helpful in uncertain times. Falling along a similar theme, Brookfield pushes educators to look beyond the predicable and measurable in his chapter on &lt;em&gt;Negotiating the Emotions of Powerful Teaching&lt;/em&gt;. Referring to questions of pedagogical mechanics Brookfield states, “All these are obviously important questions to ask, but they focus on the outside of teaching as against our inner lives” (Brookfield, 2013, p. 217). We need to pay attention to what is happening on the inside. What happens on the inside has a significant impact on our experiences and on the decisions we make and it is a very important part of the learning process.
 
-As a teacher, Jesus seemed to be more interested in the transformation of a person than their ability to digest content. Jesus provoked discussion. He asked more questions than he answered. Jesus was not afraid to stir things up. He seemed to be okay with <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, chance, complexity, and uncertainty. Jesus came with a message of <a href="https://learn.twu.ca/mod/resource/view.php?id=36737">change</a>, and he consistently left people feeling uncertain about the often flimsy realities they had created for themselves. Jesus constantly challenged people to probe deeper, ask more questions, and wrestle with their motivations. It seems that Jesus was quite intentional when it came to preparing people for uncertainty.
+As a teacher, Jesus seemed to be more interested in the transformation of a person than their ability to digest content. Jesus provoked discussion. He asked more questions than he answered. Jesus was not afraid to stir things up. He seemed to be okay with &lt;a href=&quot;https://learn.twu.ca/mod/resource/view.php?id=36737&quot;&gt;change&lt;/a&gt;, chance, complexity, and uncertainty. Jesus came with a message of &lt;a href=&quot;https://learn.twu.ca/mod/resource/view.php?id=36737&quot;&gt;change&lt;/a&gt;, and he consistently left people feeling uncertain about the often flimsy realities they had created for themselves. Jesus constantly challenged people to probe deeper, ask more questions, and wrestle with their motivations. It seems that Jesus was quite intentional when it came to preparing people for uncertainty.
 
 Through a more experiential approach to learning people have the potential to feel more ownership over their experience. Helping the learner to shift from a passive to a more active mode of learning is important for the learner to see how their story connects to the subject at hand. If as educators we are only dispensing knowledge, we may actually limit the growth and development of our learners.  Ultimately it is not about our knowledge but about their transformation.
-<h2>Unit 3 Summary</h2>
-In this unit, you have had the opportunity to learn about the impact of emotions on learning. Hopefully this learning has given you 'permission' to expand the repertoire of teaching methods you draw on so as to elicit an emotional connection between your learners and what you are trying to teach.
+&lt;h2&gt;Unit 3 Summary&lt;/h2&gt;
+In this unit, you have had the opportunity to learn about the impact of emotions on learning. Hopefully this learning has given you &#039;permission&#039; to expand the repertoire of teaching methods you draw on so as to elicit an emotional connection between your learners and what you are trying to teach.
 
-<h2>Checking your Learning</h2>
+## Checking your Learning
+```
+Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before you move to the next unit.
+```
 
-<pre><code>Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before you move to the next unit.
-</code></pre>
-
-<h2>Resources</h2>
-
+## Resources
 *
-
 <ul>
-    <li>Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
-    <li>Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
-    <li>Video: Chaos Theory and Impact on Careers</li>
-    <li>Video: How I learned to embrace chaos</li>
-    <li>Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chaper 11</li>
+ 	<li>Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+ 	<li>Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
+ 	<li>Video: Chaos Theory and Impact on Careers</li>
+ 	<li>Video: How I learned to embrace chaos</li>
+ 	<li>Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chaper 11</li>
 </ul>
-
 *
 
-<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
+###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
