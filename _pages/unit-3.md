@@ -10,32 +10,43 @@ published: true
 post_date: 2018-02-20 12:24:05
 ---
 <h2>Unit 3  Experience, Emotions and Motivation</h2>
+
 <h3>Overview</h3>
+
 In this unit, we explore different ways of knowing - through experience and emotions <strong> - </strong>and <strong>we consider </strong>how these impact <strong>one's </strong>motivation to learn. Jesus, the greatest teacher of all time, wasn't afraid to be emotional. It seems as though he used wisdom as to when he chose to open his heart to people, but part of the substance that bonded Jesus and his disciples was his ability to engage them at a deep level. <strong>[this sentence is hard to follow and a little confusing.  Can we simplify?  "Jesus chose when to open up to people..." - although I'm still not sure what you mean by Jesus opening up his heart. Reading it again, it makes it sound as if he was stand-offish to others (closed his heart). Then the next part of the sentence maybe we could simplify as well: "and part of what bonded Jesus..."</strong>
 
 As he approached Jerusalem at the beginning of possibly the most important week in the history of civilization (the week he died and rose again), he exposed his emotions and revealed his heart to those around him <strong>[were these his disciples, or others as well? We may want to point this out in this or the next sentence]</strong>. “As he approached Jerusalem and saw the city, he wept over it and said, “If you, even you, had only known on this day what would bring you peace—but now it is hidden from your eyes” (Luke 19:41-43).  This unit invites exploration into how can we bring emotion into our teaching and the science underlying the role of emotion in learning.
+
 <h3>Topics</h3>
+
 Unit 3 is divided into 3 topics:
 
 Topic 1: Emotions and teaching
 
 Topic 2: Neuroscience and teaching
 Topic 3: Experiential learning
+
 <h3>Learning Outcomes</h3>
+
 When you have completed this unit you should be able to:
+
 <ul>
- 	<li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
- 	<li>design brain-friendly teaching methods.</li>
+    <li>explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult.</li>
+    <li>design brain-friendly teaching methods.</li>
 </ul>
+
 <h3>Activity Checklist</h3>
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work. <strong>[Adrienne, here is where we'll give a quick checklist, but the details will be below when we introduce the activity to the students in the lesson.  I've just guessed that the first two are </strong>
+
 <ol>
- 	<li>View the videos ‘Chaos Theory’ and 'How I learned to embrace chaos'</li>
- 	<li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
- 	<li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
- 	<li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
- 	<li>Complete Assignment 1: Blog Post and respond to at least two others' blog posts.</li>
+    <li>View the videos ‘Chaos Theory’ and 'How I learned to embrace chaos'</li>
+    <li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+    <li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
+    <li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
+    <li>Complete Assignment 1: Blog Post and respond to at least two others' blog posts.</li>
 </ol>
+
 &nbsp;
 
 &nbsp;
@@ -45,15 +56,20 @@ Here is a checklist of learning activities you will benefit from in completing t
 <strong>[Adrienne, you had listed these next questions as activities, but I wasn't sure where you want them.  Before the topics (as here), after the unit overview above, or part of Topic 1?</strong>
 
 Before reading on to the topics, answer the following questions in your notes:
+
 <ul>
- 	<li>Identify what emotions and feeling have hindered or stopped your own learning as an adult and how you could design to avoid a similar hindrance for someone else.</li>
- 	<li>As you think about the teaching methods of Jesus, or another religious teacher, what stands out? Does anything surprise you?</li>
+    <li>Identify what emotions and feeling have hindered or stopped your own learning as an adult and how you could design to avoid a similar hindrance for someone else.</li>
+    <li>As you think about the teaching methods of Jesus, or another religious teacher, what stands out? Does anything surprise you?</li>
 </ul>
+
 &nbsp;
 
 <strong>[Topics will go on a separate page]</strong>
+
 <h2>Topic 1: Emotions and teaching</h2>
+
 <h4>Introduction</h4>
+
 There is a need for us to be disturbed - sounds odd, but read on!  <strong>Below I've included (take out </strong>I want to include) parts of a reflection by Margaret Wheatley about the need for us to be disturbed in order to learn.  Here is the reference for the full text if you wish to read it verbatim. I’ve adapted it here for our class perspective.
 
 Wheatley, Margaret J. <u>Turning to One Another: Simple Conversations to Restore Hope to the Future </u>San Francisco: Berrett-Koshler Publishers, Inc., 2002
@@ -83,28 +99,39 @@ The opposite of ‘grounded’ may be restlessness; emotions that are chaotic. 
 You may find it helpful to take a look at the Reading Response questions posted in week 4 so you can read with these in mind, and, possibly answer the questions concurrently as you read.
 
 <strong>[Adrienne, I've added in the two videos and chapter here, but we can put it somewhere else]</strong>
+
 <h4>Learning Activities
 Activity 3.1: View and Reflect</h4>
+
 Below are two videos that will give you a greater understanding of the topic of emotion and teaching.  As you view these resources, consider the following questions: What is your normal reaction to chaos?  How do you manage it?  How might you improve your way of handling chaos?
+
 <ol>
- 	<li>View the two videos below, ‘Chaos Theory’ and View video 'How I learned to embrace chaos'</li>
+    <li>View the two videos below, ‘Chaos Theory’ and View video 'How I learned to embrace chaos'</li>
 </ol>
+
 https://youtu.be/BL2wTkgBEyk
 
 https://youtu.be/BDVqNG3KY5Q
+
 <h2>Topic 2:</h2>
+
 <h3>Introduction</h3>
+
 In topic 1 we established that emotions are related to change, innovation and learning.
 
 In chapter 11 of the Wang text, Kcenia O’Neil explores the neuroscience behind emotions and learning: “illustrating the interdependency of cognition and emotion in the brain in which emotion is the ‘rudder’ guiding thought in learning” (p.278). As a result, we as adult educators are encouraged to design ways to teach that include more sensory-engaging pedagogies.
 
 This is definitely different from teaching according to Bloom’s taxonomy in order to meet learning outcomes and a far cry from teaching via <strong>PowerPoint</strong>, reading and discussion upon which so much of adult learning is based. With you, I am challenged to explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching? It is a work in progress!
+
 <h3>Learning Activities
 Activity 3:</h3>
+
 As you read the assigned material for this unit listed below, think about this question: Do you have any experience in a teaching and learning setting where you were able to engage with more senses than hearing and seeing? What was it like? Did you feel more engaged through that experience?
+
 <ol>
- 	<li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
- 	<li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
- 	<li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
+    <li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+    <li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
+    <li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
 </ol>
+
 &nbsp;
