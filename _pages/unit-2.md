@@ -9,9 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:05
 ---
-<h3>Unit 2</h3>
-
-<h5>Overview</h5>
+### Unit 2
+##### Overview
 
 Teachers have power!  Students have power!  The dynamic interplay between these in a learning environment can create a positive, safe and authentic experience<strong>,</strong> or one wrought with tension, confusion and ‘second guessing’.  Part of preparing to be an adult educator is being aware of your power as well as the power among students<strong>,</strong> and between students and you. Why is it necessary to know about this?  Because adults (and that includes both the educator and the participants) have a lifetime of experiences, ideas, prejudices, misinformation, biases, and brilliance that they bring to the learning environment and these all impact learning.
 
@@ -20,190 +19,146 @@ Consider for example how the topic of <em>Women in Leadership</em> might be rece
 Let me give you an example of power, self-directed learning and transformation that I experienced a few years ago.  At the time I was a newly hired faculty member for Trinity Western University and was excited to be invited to speak at an International Leadership Conference on the topic of Women in Leadership.  Imagine the challenge before me:  a Western woman, all-girls’ school in Chennai, India<strong>,</strong> where violence against women is rampant, among faculty who were feisty nuns<strong> </strong> intent on equipping ‘their girls’ to change India and make it more equitable and fair for women, their families and future generations.  I embraced the challenge as a personal self-directed learning endeavor, did as much research on the lived reality about who I imagined my participants at the conference to be, and planned to share my story and the research describing women in leadership over the past forty years. A major consideration was social justice and the role of women as change agents.  I decided to take my then sixteen year old daughter with me for this amazing experience.  Having her there also influenced our reception in positive ways -  (power dynamics at play)!  Thankfully, the presentation was well received and my daughter and I learned so much from the research, enjoyed the kind hospitality of our hosts at the College and were astounded that approximately four hundred participants (mostly women) came to listen!  Preparing for the conference and taking that trip taught us about power dynamics, the value of self-directed learning and impacted our worldview.  Post-conference anecdotal feedback received from faculty at the college revealed that the participants too learned about power dynamics and the possibilities of critical transformation in their own lives and the society they hoped to influence.
 
 You will explore these topics of power, critical transformational learning and prior learning assessment in this unit.
-
 <h3><strong>Learning Cafe </strong></h3>
-
 Before you continue with Unit 2, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  You were introduced to this cafe in Unit 1 and shared a little about yourself.  This week, use the following prompt to get a new conversation going:  <em>What is the best advice you’ve ever received?</em>
 
 &nbsp;
-
 <h3>Topics</h3>
-
 Unit 2 is divided into 3 topics:
 Topic 1: Critical and Transformative Learning
 Topic 2: Pedagogy and Andragogy
 Topic 3: Prior needs assessment
 
 &nbsp;
-
 <h3>Learning Outcomes</h3>
-
 When you have completed this unit you should be able to:
-
 <ul>
-    <li>Define critical transformational learning and its elements in your own words.</li>
-    <li>Describe two or three methods used to empower people for quality improvement. <strong>[where is this discussed in the unit?]</strong></li>
-    <li>Explain the difference between pedagogy and andragogy.</li>
-    <li>Collect data to inform instructional decisions and planning.</li>
+ 	<li>Define critical transformational learning and its elements in your own words.</li>
+ 	<li>Describe two or three methods used to empower people for quality improvement. <strong>[where is this discussed in the unit?]</strong></li>
+ 	<li>Explain the difference between pedagogy and andragogy.</li>
+ 	<li>Collect data to inform instructional decisions and planning.</li>
 </ul>
-
 &nbsp;
-
 <h3>Activity Checklist</h3>
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
 <ol>
-    <li>Read the unit overview and topic notes.</li>
-    <li>Read Brookfield Chapter 1.</li>
-    <li>Write a blog post on critical transformational learning.</li>
-    <li>Read Brookfield chapter 4.</li>
-    <li>Read Wang chapter 10</li>
-    <li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, 14-16. <strong>(Adrienne, when do students read this?  I put it in topic 3)  It fits best in topic 1 actually.</strong></li>
-    <li>Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4.</li>
-    <li>Write a blog post on next steps for quality improvement.</li>
-    <li>Complete the <strong>Reading Response Assignment,</strong> worth 10% of your course grade.</li>
+ 	<li>Read the unit overview and topic notes.</li>
+ 	<li>Read Brookfield Chapter 1.</li>
+ 	<li>Write a blog post on critical transformational learning.</li>
+ 	<li>Read Brookfield chapter 4.</li>
+ 	<li>Read Wang chapter 10</li>
+ 	<li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, 14-16. <strong>(Adrienne, when do students read this?  I put it in topic 3)  It fits best in topic 1 actually.</strong></li>
+ 	<li>Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4.</li>
+ 	<li>Write a blog post on next steps for quality improvement.</li>
+ 	<li>Complete the <strong>Reading Response Assignment,</strong> worth 10% of your course grade.</li>
 </ol>
-
 &nbsp;
 
 &nbsp;
-
 <h2>Topic 1: Critical Transformative Learning (new page)</h2>
-
 <h4>Introduction</h4>
-
 Transformative learning is learning that causes you to change somehow.  It is using critical thinking to consider if perspectives and assumptions are accurate.  With respect to transformative learning, instructors need to:
-
 <ol>
-    <li>Foster transformative learning through critical reflection; use non-rational media such as storytelling, embodied knowing, intuitive and affective, emotional, and spiritual experiences. Other non-rational tools are music, poetry, art, photography, literature, dreams, drama, fiction</li>
-    <li>Engage in/encourage dialogue or discourse and social interaction</li>
-    <li>Create a space that is open and welcoming to this type of learning: safe, open, and supportive.<strong> </strong></li>
+ 	<li>Foster transformative learning through critical reflection; use non-rational media such as storytelling, embodied knowing, intuitive and affective, emotional, and spiritual experiences. Other non-rational tools are music, poetry, art, photography, literature, dreams, drama, fiction</li>
+ 	<li>Engage in/encourage dialogue or discourse and social interaction</li>
+ 	<li>Create a space that is open and welcoming to this type of learning: safe, open, and supportive.<strong> </strong></li>
 </ol>
-
 Transformative learning is not an individual process but rather a personal process that is carried out in ‘integrally webbed totalities’  <strong>(</strong>O’Sullivan: 2003, 337, cited on page 328 of <em>Contemporary Issues)<strong>(do you need all of this citation, or can we move some info to the Resources/References section?)</strong></em>.   <strong>Maybe just O'Sullivan, 2003 and the rest in the resources/references section.</strong> O’Sullivan believes we are part of a bigger picture.  As I sit here and type this, every decision I made that got me here had an impact on someone else.  As a result of this course or program, you may change the way you make decisions which in turn, affects all of the people in this web differently than they may have been impacted had you made the same decision today.
 
 For learning to be transformative and effective it needs to be job-embedded, ongoing and with built-in follow-up and support. As was evidenced in the Hui, Snider, and Couture (2016) study, the most effective type of professional development for lasting change in a classroom is not a one-time workshop. Traditional stand-and-deliver professional development was conducted by Leblanc, Richardson, and Burns (2009) with minimal results. Effective professional development is instead an ongoing supportive relationship with in-class follow up and teacher choice and input as to the direction of needed development choice (Hui, Snider, Couture, 2016; Katz, 2013; Katz, 2014). Sokal and Sharma (2014) describe an ideal program as entailing between 30 and 100 hours of training hours spread over a span of six to 12 months, with in-house professional learning communities (PLCs) and coursework as part of the training.
 
 So transformative learning is about change.  It's not easy, can be disorienting, involves the hard work of critical thinking and consistent, sustained attention.
-
 <h3>Learning Activity 2.1: Reading</h3>
-
 Read Brookfield Chapter 1. While reading, consider especially how context constantly alters how a practice is put into effect.  Teaching is helping learning.
-
 <h3>Learning Activity 2: Blog post</h3>
-
 Write 300 words (approximately) on the following:
 
 a) Define critical transformational learning in your own words.
 
 b) How can you as an adult education foster critical transformative learning in your context?
 
-<strong>[Is this an ungraded or optional activity, or a part of the assignment for this unit?  We need to specify, especially as there is a blog post with 9 questions at the bottom of the unit.  I assume they'll get one grade for all 11 questions?]</strong>
+<strong>[Is this an ungraded or optional activity, or a part of the assignment for this unit?  We need to specify, especially as there is a blog post with 9 questions at the bottom of the unit.  I assume they'll get one grade for all 11 questions?]  Blog posts in LDRS 627 account for 20% in all so it's a graded activity.  The Reading/Viewing Response assignments account for 50% overall.  </strong>
 
 &nbsp;
-
 <h2>Topic 2: Pedagogy and Andragogy</h2>
-
 <h4>Introduction</h4>
-
 Creating a good learning experience for adults is what andragogy is all about. It’s important to keep in mind that the resource of highest value in adult education is the learner’s experience.
 
 Knowles (1980 cited in Merriam &amp; Bierma, 2014, p. 47), outlines six assumptions about andragogy:
-
 <ol>
-    <li>As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.</li>
-    <li>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.</li>
-    <li>The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.</li>
-    <li>There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.</li>
-    <li>Adults are mostly driven by internal motivation, rather than external motivators</li>
-    <li>Adults need to know the reason for learning something</li>
+ 	<li>As a person matures, his or her self-concept moves from that of a dependent personality toward one of a self-directing human being.</li>
+ 	<li>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.</li>
+ 	<li>The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.</li>
+ 	<li>There is a change in time perspective as people mature – from future application of knowledge to immediacy of application. Thus, an adult is more problem than subject centered in learning.</li>
+ 	<li>Adults are mostly driven by internal motivation, rather than external motivators</li>
+ 	<li>Adults need to know the reason for learning something</li>
 </ol>
-
 What is the difference between how children experience something as compared to how adults experience something?  In other words, what’s the difference between pedagogy and andragogy?
 
 Children experience what happens <em>to </em>them while an adult’s experience is <em>who they are</em>.  For the adult, their experience is what makes them unique and makes them who they are; it is an important part of their identity and self-concept. Children, on the other hand, develop their self- identity in reliance on external factors such as family, community, school, and church.  This changes over time as the children matures and starts to identify themselves based on their experiences.
 
-Check out John Henschke of Lindenwood University’s website at <u><a href="http://www.lindenwood.edu/education/andragogy">www.lindenwood.edu/education/andragogy</a></u> and German professor Jost Reischmann’s website at <a href="http://www.andragogy.net">www.andragogy.net</a>. <strong>In particular, explore...or pay attention to...or look at...(can we have more direction here?)</strong>
+Check out German professor Jost Reischmann’s website at <a href="http://www.andragogy.net">www.andragogy.net</a>. In particular, explore the understanding of andragogy and professionalism as well as the contributions and critiques of Malcolm Knowles work.
 
 &nbsp;
-
 <h3>Learning Activity 1</h3>
+While reading Brookfield chapter 4, consider how self-directed learning is at the heart<strong> </strong>of adult education.
 
-While reading Brookfield chapter 4, consider how self-directed learning is at the heard <strong>(heart?) </strong>of adult education. <strong>(could we have 1-2 more questions?  or some application or questions of students' experience?  E.g. Think about the last time you took at test. What strategies did you use? Where did you learn these strategies and what motivated you to use them?  or something like that leading students to consider their ownership of learning - or whatever chapter 4 is about!:)</strong>
-
-&nbsp;
-
+What is the difference between self-paced learning and self-directed learning?
+How does self-directed learning relate to power?
+What is the value of a learning audit in self-directed learning?
 <h2>Topic 3: Prior Needs Assessment</h2>
-
 <h4>Introduction</h4>
-
 Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): <em>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  </em>This is the essential reason for prior learning assessment.
-
 <h3>Learning Activities
 Activity 2.2: Reading and Questionaire</h3>
-
 <ol>
-    <li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, 14-16.  (<strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.)</li>
-    <li><span style="font-weight: 400">Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. </span></li>
+ 	<li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, 14-16.  (<strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.)</li>
+ 	<li><span style="font-weight: 400">Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. </span></li>
 </ol>
-
-<span style="font-weight: 400">Identify two or three </span><a href="https://learn.twu.ca/mod/url/view.php?id=36727"><span style="font-weight: 400">next steps</span></a><span style="font-weight: 400"> regarding how you can intervene for quality improvement.  <strong>(do we need this hyperlink to the next steps video? If so, let's remind students of the video they watched in Unit 1.)</strong></span>
+<span style="font-weight: 400">Identify two or three </span><a href="https://learn.twu.ca/mod/url/view.php?id=36727"><span style="font-weight: 400">next steps</span></a><span style="font-weight: 400"> regarding how you can intervene for quality improvement.  <strong>(do we need this hyperlink to the next steps video? If so, let's remind students of the video they watched in Unit 1.)  Yes I think it helps.</strong></span>
 
 <span style="font-weight: 400">*State your plan to the C-Suite following the guidelines described on p. 387 and 388.</span>
-
 <h2>Unit 2 Summary</h2>
-
 In this unit you explored critical transformational learning, self directed learning and prior learning assessment within the larger context of power dynamics in the adult education learning environment.  This prepares you for next week's topics of Experience, Emotions and Motivation where we explore ambiguity and brain-friendly teaching.
-
 <h2>Checking your Learning</h2>
-
 Use the learning outcomes for this unit as a checklist of understanding before moving on to the next unit.
-
 <ul>
-    <li>Can your define critical transformational learning and its elements in your own words?</li>
-    <li>Can you describe two or three methods used to empower people for quality improvement?</li>
-    <li>Can you explain the difference between pedagogy and andragogy?</li>
-    <li>Are you able to collect data to inform instructional decisions and planning?</li>
+ 	<li>Can your define critical transformational learning and its elements in your own words?</li>
+ 	<li>Can you describe two or three methods used to empower people for quality improvement?</li>
+ 	<li>Can you explain the difference between pedagogy and andragogy?</li>
+ 	<li>Are you able to collect data to inform instructional decisions and planning?</li>
 </ul>
-
 <h2>Assessment (new page)</h2>
-
 <h5>Assignment: Reading response 10%</h5>
-
-Based on the assigned reading <strong>(for this unit?)</strong>, you are encouraged to carefully read and think about the course material. <strong>(for this unit or all material?)</strong>
-The questions to answer are:
+Based on the assigned reading for this unit, you are encouraged to carefully read and think about the course material in order to answer the following key questions:
 
 Sandlin article
-
 <ol>
-    <li>Do you agree that public pedagogy reproduces hegemonic practices?  Why/why not?  Give examples.</li>
-    <li>Define transformative education in your own words. How is identity foundational to transformative adult education?</li>
-    <li>How does relational learning figure into critical transformational learning? Give an example from your context.</li>
+ 	<li>Do you agree that public pedagogy reproduces hegemonic practices?  Why/why not?  Give examples.</li>
+ 	<li>Define transformative education in your own words. How is identity foundational to transformative adult education?</li>
+ 	<li>How does relational learning figure into critical transformational learning? Give an example from your context.</li>
 </ol>
-
 Silberman text
 
-<ol>
-<li>What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.</p></li>
-<li><p>Comment on this quote from Eric Jensen, author of <em>Brain Based Learning</em> cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.</p></li>
-</ol>
+4. What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.
 
-<p>Brookfield text
+5. Comment on this quote from Eric Jensen, author of <em>Brain Based Learning</em> cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.
 
-<ol>
-<li>What are three connotations of power? Why is this information helpful to you as an adult educator?</p></li>
-<li><p>What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.</p></li>
-<li><p>What four methods make teaching adults distinctive?</p></li>
-<li><p>Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.</p></li>
-</ol>
+Brookfield text
 
-<p><strong>Reading Response Rubric  </strong>
+6. What are three connotations of power? Why is this information helpful to you as an adult educator?
 
-<strong>KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - I SUGGEST WE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION</strong>
+7. What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.
+
+8. What four methods make teaching adults distinctive?
+
+9. Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.
+
+<strong>Reading Response Rubric  </strong>
+
+<strong>KELLY THIS IS THE SAME RUBRIC FOR EACH BIWEEKLY ASSIGNMENT - I SUGGEST WE HAVE IT IN UNIT 2 AND THEN IN WEEKS 4, 6, 8 AND 10 LINK TO THE RUBRIC TO AVOID REPETITION  I have updated the rubric as per email Wed/Thurs.</strong>
 
 <strong> </strong>
-
 <p dir="ltr">Reading and Viewing Response Blog Rubric</p>
 
 <div dir="ltr">
@@ -280,7 +235,6 @@ Silberman text
 </tbody>
 </table>
 </div>
-
 <table style="height: 1362px" width="31">
 <tbody>
 <tr>
@@ -289,16 +243,13 @@ Silberman text
 </tr>
 </tbody>
 </table>
-
 <h5></h5>
-
-<h2>Resources</h2>
-
+## Resources
 *
 
 Hui, C., Snider, L., &amp; Couture, M. (2016). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. <em>Canadian Journal of Occupational Therapy, 83</em>(2), 115-125. doi:10.1177/0008417415627665
 
-Katz, J., Porath, M., Bendu, C., &amp; Epp, B. (2012). <a href="http://ir.lib.uwo.ca/eei/vol22/iss1/2/">Diverse voices: Middle years students' insights into life in inclusive classrooms.</a> <em>Exceptionality Education International, 22</em>(1), 2-16.
+Katz, J., Porath, M., Bendu, C., &amp; Epp, B. (2012). [Diverse voices: Middle years students' insights into life in inclusive classrooms.](http://ir.lib.uwo.ca/eei/vol22/iss1/2/) <em>Exceptionality Education International, 22</em>(1), 2-16.
 
 Katz, J., &amp; Sugden, R. (2013). The Three-Block Model of Universal Design for Learning implementation in a high school. <em>Canadian Journal of Educational Administration and Policy, 141</em>, 1-28.
 
@@ -315,16 +266,12 @@ San Francisco: Jossey-Bass ISBN: 978-0-470-87356-4
 Sokal, L., &amp; Sharma, U. (2014). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. <em>Exceptionality Education International, 23</em>(1), 59-71.
 
 *
-
 <h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
-
 &nbsp;
-
 <h2>TO DO:</h2>
-
 <ul>
-    <li>format rubric (check for plug-ins)</li>
-    <li>format activity checklist</li>
-    <li>we'll likely separate topics &amp; overview into separate pages</li>
-    <li>review units 1&amp;2 to see consistency</li>
+ 	<li>format rubric (check for plug-ins)</li>
+ 	<li>format activity checklist</li>
+ 	<li>we'll likely separate topics &amp; overview into separate pages</li>
+ 	<li>review units 1&amp;2 to see consistency</li>
 </ul>
