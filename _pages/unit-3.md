@@ -36,7 +36,7 @@ When you have completed this unit you should be able to:
 
 <ul>
     <li>explain how ambiguity and emotions from disorienting dilemmas impact motivation to learn</li>
-    <li>design brain-friendly teaching methods including experiential learning</li>
+    <li>design brain-friendly teaching methods including experiential learning to impact motivation to learn</li>
 </ul>
 
 <strong> </strong>Activity Checklist
@@ -163,11 +163,11 @@ e) What is the effect of these sensory additions to your reading?
 
 <h2>Topic 3: <strong>Experiential learning</strong></h2>
 
-Corporate trainer, Dave Root defines <a href="https://www.eaglesflight.com/experiential-learning">experiential learning</a> as "immersive activities that mimic real-world challenges with a targeted debrief that connects the lessons learned with the reality of the workplace. It allows participants to learn by doing".  Some examples of experiential learning include cooperative education, practicums, internships, studies abroad, field trips, service learning projects, role playing, case studies and simulations. To learn more examples and best practices in experiential learning read this <a href="https://www.ryerson.ca/content/dam/lt/resources/handouts/ExperientialLearningReport.pdf">article</a> from Ryerson University's Learning and Teaching Office.
+Corporate trainer, Dave Root defines <a href="https://www.eaglesflight.com/experiential-learning">experiential learning</a> as "immersive activities that mimic real-world challenges with a targeted debrief that connects the lessons learned with the reality of the workplace. It allows participants to learn by doing".  The theory of experiential learning can be traced to philosopher, psychologist and education reformer John Dewey.  It may be surprising to read in Wang (p. 406) that this pragmatic approach to education was  actually innovative for the early twentieth century. Some examples of experiential learning include cooperative education, practicums, internships, studies abroad, field trips, service learning projects, role playing, case studies and simulations. To learn more examples and best practices in experiential learning read this <a href="https://www.ryerson.ca/content/dam/lt/resources/handouts/ExperientialLearningReport.pdf">article</a> from Ryerson University's Learning and Teaching Office.
 
 The result of experiential learning is ideally a deeper understanding of how certain behaviors can influence outcomes and a desire to apply those new behaviors
 
-<strong>Experiential learning helps to prepare people for uncertainly. In the video you watched with Dr. Jim Bright (2013) he </strong>makes numerous suggestions, a couple of which include networking and pursuing creativity. Through a more experiential approach to learning, people have the potential to feel more ownership over their experience. Helping the learner to shift from a passive to a more active mode of learning is important for the learner to see how their story connects to the subject at hand. If as educators we are only dispensing knowledge, we may actually limit the growth and development of our learners.  Ultimately it is not about our knowledge but about their transformation.
+Experiential learning helps to prepare people for uncertainly. In the video you watched with Dr. Jim Bright (2013) he<strong> </strong>makes numerous suggestions, a couple of which include networking and pursuing creativity. Through a more experiential approach to learning, people have the potential to feel more ownership over their experience. Helping the learner to shift from a passive to a more active mode of learning is important for the learner to see how their story connects to the subject at hand. If as educators we are only dispensing knowledge, we may actually limit the growth and development of our learners.  Ultimately it is not about our knowledge but about their transformation.
 
 &nbsp;
 
@@ -175,9 +175,11 @@ The result of experiential learning is ideally a deeper understanding of how cer
 
 <h3>Learning Activities:</h3>
 
+Read Wang chapter 16 focusing on pages 411-420.
+
 Read this <a href="https://www.ryerson.ca/content/dam/lt/resources/handouts/ExperientialLearningReport.pdf">article</a> from Ryerson University's Learning and Teaching Office.
 
-Why would an adult learner especially benefit from experiential learning?
+Taking the above two readings into account, why would an adult learner especially benefit from experiential learning?
 Identify 3 activities that could work for your learner population and content?
 What challenges might you encounter when integrating experiential learning in your context?
 
