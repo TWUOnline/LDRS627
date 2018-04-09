@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-01-20 19:49:01
 ---
-### Unit 2 Learning Activities
+<h3>Unit 2 Learning Activities</h3>
 
-##### Learning Activity 2.1
+<h5>Learning Activity 2.1</h5>
 
-##### Learning Activity 2.2
+<h5>Learning Activity 2.2</h5>
