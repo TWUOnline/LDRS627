@@ -1,6 +1,6 @@
 ---
 ID: 308
-post_title: Unit 1 Topics
+post_title: Unit 1 Learning Activities
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -12,8 +12,6 @@ post_date: 2018-03-14 12:03:11
 ## Topic 1: Reflective Practice and Teaching perspectives
 
 **Introduction** We begin this topic by taking a look at your ideas about teaching and learning and how these relate to the role of the teacher and learner in adult education. Think about your experience as a student. What helped you be an engaged learner? What are the differences between teaching and learning adults and teaching and learning children or adolescents? An adult educator needs to assume that participants have prior knowledge and experience and that adults are very interested in the application of whatever they are learning. Keeping in mind these principles of andragogy (adult teaching and learning; as opposed to pedagogy, child and adolescent teaching and learning) will help you become a facilitator of learning.
-
-### Learning Activities
 
 #### Activity 1: Teaching Practices Inventory
 
@@ -45,8 +43,6 @@ Using the videos as a guide, interpret your own TPI results focusing on your dom
 
 Experiential learning can lead to wisdom if experience is accompanied by critical thinking and intentionally grounded in values and beliefs about what is good. This wisdom is transformational both personally and professionally.
 
-### Learning Activities
-
 #### Activity 3: Readings and Blog
 
 1. Read the following articles. Note that only certain pages are assigned, and that the Collin and Sandlin articles can be accessed through the TWU library.
@@ -67,8 +63,6 @@ Experiential learning can lead to wisdom if experience is accompanied by critica
 ## Topic 3: Roles and Factors Impacting Adult Educators
 
 **Introduction** Adult educators are impacted by various societal factors because adult education happens in the world! The key is helping participants analyze their experience critically, and figuring out how what they are learning 'fits' or challenges their lived experience. Adult educators are encouraged to establish authentic relationships with students by building trust through caring for students, respecting them and showing interest in what is important to them. One of my favorite things to remember is that the teaching is not about me, it is about the students’ learning. In anything I do as a teacher, I should ask myself “How does this contribute to the students’ learning? It is helpful to reflect on Brazilian philosopher, Rubem Alves (1979) comments that everything is interpretation: “Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it (the world). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation” (cited in Goodson 2013, p.47). Eventually you will be able to help your students engage in the demanding tasks of reflection, critical analysis and academic thinking and writing with less effortful deliberation.
-
-### Learning Activities
 
 Activity 4: KWL Chart [Kelly please put this chart on the home page of the course site. It will be an ongoing activity - every other week eg 1, 3, 5, 7, 9 so that it alternates with the Reading Response assignments due weeks 2, 4, 6, 8, 10.]
 
