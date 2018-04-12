@@ -11,18 +11,21 @@ post_date: 2018-02-20 19:05:14
 ---
 Unit 1
 
-## Unit 1
+<h2>Unit 1</h2>
 
-* KWL chart (Kelly to check plug-ins -https://www.gravityforms.com/features/ )
-* Formatting (for unit paragraphs and overall Wordpress theme)
-* Final read through after other units are complete
+<ul>
+<li>KWL chart (Kelly to check plug-ins -https://www.gravityforms.com/features/ )</li>
+<li>Formatting (for unit paragraphs and overall Wordpress theme)</li>
+<li>Final read through after other units are complete</li>
+</ul>
 
 &nbsp;
 
 ##Unit 2
+
 <ul>
- 	<li>format rubric (check for plug-ins)</li>
- 	<li>format activity checklist</li>
- 	<li>we'll likely separate topics &amp; overview into separate pages</li>
- 	<li>review units 1&amp;2 to see consistency</li>
+    <li>format rubric (check for plug-ins)</li>
+    <li>format activity checklist</li>
+    <li>we'll likely separate topics &amp; overview into separate pages</li>
+    <li>review units 1&amp;2 to see consistency</li>
 </ul>
