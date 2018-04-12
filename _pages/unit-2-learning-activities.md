@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: Unit 2 Topics
+post_title: Unit 2 Learning Activities
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -67,8 +67,7 @@ What is the value of a learning audit in self-directed learning?
 <h2>Topic 3: Prior Needs Assessment</h2>
 <h4>Introduction</h4>
 Before you plan to teach anything it’s a good idea to find out what your students already know.  You can save time (and boredom) by not spending time on topics or skills that they already know and instead plan to enhance their knowledge and take them further.  This is a much more motivating approach and one that adults will appreciate.  A prior needs assessment is not always a ‘quiz’ though – it can be a discussion, a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’….. The idea is to plan a way to learn what the participants already know on the topic. Because they are adults it’s important to recognize their prior life experience. Remember Knowles’ second principle of andragogy as cited in Merriam and Bierema (2014): <em>An adult accumulates a growing reservoir of experience, which is a rich resource for learning.  </em>This is the essential reason for prior learning assessment.
-<h3>Learning Activities
-Activity 2.2: Reading and Questionaire</h3>
+<h3>Activity 2.2: Reading and Questionaire</h3>
 <ol>
  	<li>Read Sandlin, J., Redmon Wright R., Clark C. (2013). Reexamining Theories of Adult Learning and Adult Development through the Lenses of Public Pedagogy. <em>Adult Education Quarterly</em> 63:3, 14-16.  (<strong>Note</strong> that only certain pages have been assigned for the Sandlin article. You read part last week and focus on a different section this week.)</li>
  	<li><span style="font-weight: 400;">Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. </span></li>
@@ -79,6 +78,9 @@ Activity 2.2: Reading and Questionaire</h3>
 <h2>Unit 2 Summary</h2>
 In this unit you explored critical transformational learning, self directed learning and prior learning assessment within the larger context of power dynamics in the adult education learning environment.  This prepares you for next week's topics of Experience, Emotions and Motivation where we explore ambiguity and brain-friendly teaching.
 <h5></h5>
+<strong>Go to <a href="https://create.twu.ca/ldrs627-su18/unit-2-topic-2/">Unit 2 Assessment</a> to complete the unit.</strong>
+
+&nbsp;
 <h2>Resources</h2>
 Hui, C., Snider, L., &amp; Couture, M. (2016). Self-regulation workshop and occupational performance coaching with teachers: A pilot study. <em>Canadian Journal of Occupational Therapy, 83</em>(2), 115-125. doi:10.1177/0008417415627665
 
@@ -97,7 +99,5 @@ Merriam, Sharan B., &amp; Grace, Andre P. (2011). <em>Contemporary Issues in Adu
 San Francisco: Jossey-Bass ISBN: 978-0-470-87356-4
 
 Sokal, L., &amp; Sharma, U. (2014). Canadian in-service teachers' concerns, efficacy, and attitudes about inclusive teaching. <em>Exceptionality Education International, 23</em>(1), 59-71.
-
-*
-<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
-&nbsp;
+<h6></h6>
+<strong>Go to <a href="https://create.twu.ca/ldrs627-su18/unit-2-topic-2/">Unit 2 Assessment</a> to complete the unit.</strong>
