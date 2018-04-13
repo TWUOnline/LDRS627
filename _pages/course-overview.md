@@ -10,7 +10,6 @@ published: true
 post_date: 2018-01-20 19:49:01
 ---
 <h3>**Theory and Practice of Adult Education**</h3>
-
 Welcome to Leadership 627, the Theory and Practice of Adult Education!  This page contains important information about the course, including what you will be learning, how you will be assessed, and how you can fully participate in this learning experience.  Be sure to read all the information below before beginning Unit 1.
 
 &nbsp;
@@ -21,39 +20,20 @@ Learners will be introduced to principles and practices of adult education. Focu
 
 Course Outcomes
 
-<ol>
-<li>Develop service-oriented leadership insight, skills, and values that promote a framework for successful adult learning and achievement.</li>
-<li>Articulate a justified, worldview-based vision for adult learning.</li>
-<li>Categorize and appraise various approaches to adult learning.</li>
-<li>Assess the strengths and weaknesses of various approaches to adult learning.</li>
-<li>Categorize and appraise various approaches to adult learning assessment.</li>
-<li>Design a lesson or session based on your synthesis of perspectives, themes and ideas.</li>
-</ol>
+1. Develop service-oriented leadership insight, skills, and values that promote a framework for successful adult learning and achievement.
+2. Articulate a justified, worldview-based vision for adult learning.
+3. Categorize and appraise various approaches to adult learning.
+4. Assess the strengths and weaknesses of various approaches to adult learning.
+5. Categorize and appraise various approaches to adult learning assessment.
+6. Design a lesson or session based on your synthesis of perspectives, themes and ideas.
 
 Assessment
 
-<table>
-<thead>
-<tr>
-  <th align="left">Item</th>
-  <th align="left">Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left">Bi-weekly Reading Responses</td>
-  <td align="left">40%</td>
-</tr>
-<tr>
-  <td align="left">Blog posts</td>
-  <td align="left">20%</td>
-</tr>
-<tr>
-  <td align="left">Lesson/Adult Learning Design</td>
-  <td align="left">40%</td>
-</tr>
-</tbody>
-</table>
+|Item|Value|
+|:---|:---|
+|Bi-weekly Reading Responses |40%|
+|Blog posts|20%|
+| Lesson/Adult Learning Design | 40%|
 
 Schedule
 
@@ -79,4 +59,10 @@ If you could take only three people with you on a trip around the world, who wou
 
 &nbsp;
 
-&nbsp;
+Course Development Team
+
+Course Developer
+
+<img class="alignleft  wp-image-606" src="http://create.twu.ca/ldrs627-su18/files/2018/04/Adrienne-Castellon-headshot-2017-Copy-resized-headshot-300x244.jpg" alt="" width="216" height="176" />
+
+Adrienne Castellon holds a Doctorate of Education from Simon Fraser University and a Master’s degree with a concentration in Special Education. Over the past twenty-five years she has been a secondary teacher, elementary principal, education consultant and university instructor in Canada and internationally. Dr. Castellon is the Stream Director of Educational in the Masters of Leadership and teaches in the program as well. She also enjoys teaching in the School of Education and stays current in the K-12 system through consulting and school-related projects. She is involved in a number of parish ministries at her parish of St. Nicholas and lives in Fort Langley with her daughter who is a student at TWU.
