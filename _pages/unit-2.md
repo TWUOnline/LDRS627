@@ -1,6 +1,6 @@
 ---
 ID: 83
-post_title: 'Unit 2: Power, Self-Directed Learning, Transformative Learning'
+post_title: 'Unit 2: Power, Self-Directed Learning, Transformative Learning (Overview)'
 author: Colin Madland
 post_excerpt: ""
 layout: page
