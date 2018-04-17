@@ -1,6 +1,6 @@
 ---
 ID: 77
-post_title: 'Unit 1: Adult Learning Theory and Perspectives'
+post_title: 'Unit 1: Adult Learning Theory and Perspectives (Overview)'
 author: Colin Madland
 post_excerpt: ""
 layout: page
