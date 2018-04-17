@@ -10,7 +10,9 @@ published: true
 post_date: 2018-03-14 12:03:11
 ---
 <h2>Topic 1: Emotions and teaching</h2>
+
 <h4><a id="user-content-introduction" class="anchor" href="https://github.com/TWUOnline/LDRS627/blob/master/_pages/unit-3.md#introduction"></a>Introduction</h4>
+
 There is a need for us to be disturbed - sounds odd, but read on!  <strong>Below I've included (take out </strong>I want to include) parts of a reflection by Margaret Wheatley about the need for us to be disturbed in order to learn.  Here is the reference for the full text if you wish to read it verbatim. I’ve adapted it here for our class perspective.
 
 Wheatley, Margaret J. Turning to One Another: Simple Conversations to Restore Hope to the Future San Francisco: Berrett-Koshler Publishers, Inc., 2002
@@ -40,11 +42,15 @@ The opposite of ‘grounded’ may be restlessness; emotions that are chaotic. 
 You may find it helpful to take a look at the Reading Response questions posted in week 4 so you can read with these in mind, and, possibly answer the questions concurrently as you read.
 
 <strong>[Adrienne, I've added in the two videos and chapter here, but we can put it somewhere else]</strong>
+
 <h4><a id="user-content-learning-activitiesactivity-31-view-and-reflect" class="anchor" href="https://github.com/TWUOnline/LDRS627/blob/master/_pages/unit-3.md#learning-activitiesactivity-31-view-and-reflect"></a>Learning Activities Activity 3.1: View and Reflect</h4>
+
 Below are two videos that will give you a greater understanding of the topic of emotion and teaching.  As you view these resources, consider the following questions: What is your normal reaction to chaos?  How do you manage it?  How might you improve your way of handling chaos?
+
 <ol>
- 	<li>View the two videos below, ‘Chaos Theory’ and View video 'How I learned to embrace chaos'</li>
+    <li>View the two videos below, ‘Chaos Theory’ and View video 'How I learned to embrace chaos'</li>
 </ol>
+
 <a href="https://youtu.be/BL2wTkgBEyk">https://youtu.be/BL2wTkgBEyk</a>
 
 <a href="https://youtu.be/BDVqNG3KY5Q" rel="nofollow">https://youtu.be/BDVqNG3KY5Q</a>
