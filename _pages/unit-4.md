@@ -22,58 +22,76 @@ When writing goals and objectives there is a format to follow to ensure you are 
 &nbsp;
 
 <strong>Topics</strong>
+
 <ol>
- 	<li>Writing Goals</li>
- 	<li>Writing Objectives</li>
- 	<li>Ethical goals and objectives</li>
+    <li>Writing Goals</li>
+    <li>Writing Objectives</li>
+    <li>Ethical goals and objectives</li>
 </ol>
+
 <strong> </strong>
 
 <strong>Learning Outcomes:</strong>
 
 When you have completed this unit you should be able to:
+
 <ul>
- 	<li>explain the importance of setting clear learning targets.</li>
- 	<li>write SMART goals</li>
- 	<li>write SMART objectives that align with the goal and focus of instruction</li>
- 	<li>Assess goals for ethical implications</li>
+    <li>explain the importance of setting clear learning targets.</li>
+    <li>write SMART goals</li>
+    <li>write SMART objectives that align with the goal and focus of instruction</li>
+    <li>Assess goals for ethical implications</li>
 </ul>
+
 &nbsp;
 
 <strong>Activity Checklist</strong>
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
 <ol>
- 	<li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Pages 13-18 and Chap. 1)</li>
+    <li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Pages 13-18 and Chap. 1)</li>
 </ol>
+
 &nbsp;
+
 <ol start="2">
- 	<li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course. Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.</li>
+    <li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course. Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.</li>
 </ol>
+
 <strong> </strong>
+
 <ol start="3">
- 	<li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write two objectives for each goal. Comment on how writing clear objectives might encourage individual progress monitoring.</li>
+    <li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write two objectives for each goal. Comment on how writing clear objectives might encourage individual progress monitoring.</li>
 </ol>
+
 &nbsp;
 
 &nbsp;
+
 <ol start="4">
- 	<li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Chap. 2; 15 and 17)</li>
+    <li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Chap. 2; 15 and 17)</li>
 </ol>
+
 <strong> </strong>
+
 <ol start="5">
- 	<li>View <a href="https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">video</a> of psychologist Barry Schwartz dive into the question "<em>How do we do the right thing?</em>" With help from collaborator Kenneth Sharpe, he shares stories that illustrate the difference between following the rules and truly choosing wisely. This has implications for the goals and objectives we set so listen with this in mind.</li>
+    <li>View <a href="https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">video</a> of psychologist Barry Schwartz dive into the question "<em>How do we do the right thing?</em>" With help from collaborator Kenneth Sharpe, he shares stories that illustrate the difference between following the rules and truly choosing wisely. This has implications for the goals and objectives we set so listen with this in mind.</li>
 </ol>
+
 &nbsp;
 
 &nbsp;
+
 <ol start="6">
- 	<li>Write a Blog Post: Describe an activity, exercise or learning moment that you have experienced that lead to more personal awareness, empowerment, higher self-esteem and personal significance.</li>
+    <li>Write a Blog Post: Describe an activity, exercise or learning moment that you have experienced that lead to more personal awareness, empowerment, higher self-esteem and personal significance.</li>
 </ol>
+
 &nbsp;
+
 <ol start="7">
- 	<li>Complete Reading Response Assignment</li>
+    <li>Complete Reading Response Assignment</li>
 </ol>
+
 <strong> </strong>
 
 <strong>Topic 1: Writing Goals</strong>
@@ -83,13 +101,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 Peter Drucker, American management consultant, educator, and author, is credited with coming up with the components or criteria of SMART goals.  It has been written about by many others since then (<a href="http://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf">Doran, G., 1981</a>; <a href="http://www.siop.org/tip/backissues/tipapr02/03rubin.aspx">Rubin, R. (2002)</a>.
 
 To make sure your goals are clear and reachable, each one should be:
+
 <ul>
- 	<li><strong>S</strong>pecific (simple, sensible, significant).</li>
- 	<li><strong>M</strong>easurable (meaningful, motivating).</li>
- 	<li><strong>A</strong>chievable (agreed, attainable).</li>
- 	<li><strong>R</strong>elevant (reasonable, realistic and resourced, results-based).</li>
- 	<li><strong>T</strong>ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).</li>
+    <li><strong>S</strong>pecific (simple, sensible, significant).</li>
+    <li><strong>M</strong>easurable (meaningful, motivating).</li>
+    <li><strong>A</strong>chievable (agreed, attainable).</li>
+    <li><strong>R</strong>elevant (reasonable, realistic and resourced, results-based).</li>
+    <li><strong>T</strong>ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).</li>
 </ul>
+
 &nbsp;
 
 Image from: <a href="https://commons.wikimedia.org/wiki/File:SMART-goals.png">https://commons.wikimedia.org/wiki/File:SMART-goals.png</a>
@@ -158,12 +178,14 @@ As you’re reading chapter 17 jot down ideas for evaluating a training program 
 As mentioned briefly above, sometimes the SMARTER acronym refers to E as <strong>E</strong>thical goals.
 
 Richard Paul and Linda Elder, founders of the Foundation for Critical Thinking co-authored <a href="http://www.criticalthinking.org/files/SAM-EthicalReasoning2005.pdf"><em>The Miniature Guide to understanding the Foundations of Ethical Reasoning</em></a> (2005).  Here are some key points from the open-source booklet about the nature of ethics:
+
 <ul>
- 	<li>Ethics is not necessarily the same as behaving in accordance with social conventions, religious beliefs or the law</li>
- 	<li>The United Nations Declaration of Human Rights documents principles of ethical treatment that transcend religion and culture</li>
- 	<li>Living ethically is to act in ways that enhance the wellbeing of others. This is challenging give our natural modus operandi is often to focus on ourselves and those connected with us. This egocentrism is a fundamental barrier to ethical reasoning</li>
- 	<li>Ethical reasoning requires an accurate understanding of the relevant facts and a reasonable interpretation of those facts. It requires self and social critique and the ability to serve one’s interests while respecting the rights and needs of others. This is challenging given that we live in a world rife with propaganda, self-deception and fake news.</li>
+    <li>Ethics is not necessarily the same as behaving in accordance with social conventions, religious beliefs or the law</li>
+    <li>The United Nations Declaration of Human Rights documents principles of ethical treatment that transcend religion and culture</li>
+    <li>Living ethically is to act in ways that enhance the wellbeing of others. This is challenging give our natural modus operandi is often to focus on ourselves and those connected with us. This egocentrism is a fundamental barrier to ethical reasoning</li>
+    <li>Ethical reasoning requires an accurate understanding of the relevant facts and a reasonable interpretation of those facts. It requires self and social critique and the ability to serve one’s interests while respecting the rights and needs of others. This is challenging given that we live in a world rife with propaganda, self-deception and fake news.</li>
 </ul>
+
 Thinking through our goals and objectives with an ethical lens is imperative for the Transformational Servant Leader (TSL) because by definition the TSL is interested in fostering the growth and wellbeing of their followers.  A service mindset based on ethical principles should therefore inform all training and organizational goals and objectives.
 
 (Note that Transformational Servant Leadership is a foundational principle of the MA Lead program.  If you’d like more information, see the References section.)
@@ -189,37 +211,47 @@ In this unit, you have had the opportunity to learn about the importance and met
 <strong> </strong>
 
 <strong>Assessment: Reading Response</strong>
+
 <h2><strong><em>Reading Check Week 4 </em></strong>Based on the assigned reading, this Reading Response is meant to encourage careful reading and thinking about the course material.  These are questions requiring clearly targeted and succinct paragraph answers. Accuracy and composition are evaluated.</h2>
+
 &nbsp;
 
 <strong>Brookfield Chapter 8 Negotiating the Emotions of Powerful Teaching </strong>
+
 <ol>
- 	<li>ARCS Model of Motivational Design</li>
+    <li>ARCS Model of Motivational Design</li>
 </ol>
+
 Keller’s ARCS model of motivational design of instruction notes four components of motivation: Attention, Relevance, Confidence and Satisfaction. Reflect on how you can incorporate these four components into adult learning and instruction in your context.  See <a href="http://www.arcsmodel.com">http://www.arcsmodel.com</a>
 
 &nbsp;
 
 <strong>Silberman Chapter 4 Preparing Brain-Friendly Presentations and Wang Chapter 11 What Neuroscience Has to Say About the Brain and Learning</strong>
+
 <ol start="2">
- 	<li>Lecturing is efficient in conveying information but ‘will never lead to real learning’ unless the instructor works to involve participants. Looking at the suggestions in this chapter, choose three ways to enhance lecturing and describe them with examples from your context.</li>
+    <li>Lecturing is efficient in conveying information but ‘will never lead to real learning’ unless the instructor works to involve participants. Looking at the suggestions in this chapter, choose three ways to enhance lecturing and describe them with examples from your context.</li>
 </ol>
+
 &nbsp;
 
 <strong>Wang Chapter 12 Building a Culture of Competers by Understanding the Etiology of Adult Learning Deficits pages 311-319.</strong>
+
 <ol start="3">
- 	<li>What are the effects of poverty and trauma on adult learning? What kinds of transformational learning supports and environments are most conducive for learners who have experienced poverty and/or trauma?</li>
+    <li>What are the effects of poverty and trauma on adult learning? What kinds of transformational learning supports and environments are most conducive for learners who have experienced poverty and/or trauma?</li>
 </ol>
+
 &nbsp;
 
 <strong>Checking your Learning</strong>
 
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.
+
 <ul>
- 	<li>Can you explain the importance of setting clear learning targets?</li>
- 	<li>Can you write SMART goals?</li>
- 	<li>Can you write SMART objectives that align with the goal and focus on what you want participants to value, understand or do with given content?</li>
+    <li>Can you explain the importance of setting clear learning targets?</li>
+    <li>Can you write SMART goals?</li>
+    <li>Can you write SMART objectives that align with the goal and focus on what you want participants to value, understand or do with given content?</li>
 </ul>
+
 <strong> </strong>
 
 <strong>Resources</strong>
