@@ -9,247 +9,225 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:06
 ---
-<h3>Unit 4</h3>
+<strong>Unit 4: Goals and Objectives</strong>
 
-<h5>Overview</h5>
+<strong>Overview</strong>
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+When planning a lesson, it is important to set clear learning targets in three areas: affective, cognitive and behavioral. Doing so provides learners with clarity of what is expected and also helps limit and focus the amount of material you will try to teach. Clear goals and objectives also help to manage, monitor and evaluate the training.
 
-<pre><code>Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
-</code></pre>
+Setting learning targets should happen with consideration of learners’ needs.  If possible, a pre-assessment is advisable, such as pre-tests or simple questions asked in class. Alternatively, try to find out about the general profile of the learners who will be in your class so that you can plan accordingly for relevant learning experiences. Once you have an idea of what the learners’ needs are and the content and skills that the organization desires to be addressed, you can set goals and objectives.  Setting the goals and objectives prior to designing the learning opportunities ensures more alignment and helps to avoid ‘activitizing’, that is, doing activities that are not connected to the learning outcomes because they are fun, you have the resources etc.
 
-<h5>Topics</h5>
+When writing goals and objectives there is a format to follow to ensure you are specific about what you want participants to learn and the results you want to achieve. The format you will learn and practice in this unit follows the <a href="https://www.smartsheet.com/blog/essential-guide-writing-smart-goals">SMART</a> OR SMARTER acronym, which we will discuss in Topic 1.
 
-Unit 4 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:
+&nbsp;
 
-<h5>Learning Outcomes</h5>
+<strong>Topics</strong>
+<ol>
+ 	<li>Writing Goals</li>
+ 	<li>Writing Objectives</li>
+ 	<li>Ethical goals and objectives</li>
+</ol>
+<strong> </strong>
+
+<strong>Learning Outcomes:</strong>
 
 When you have completed this unit you should be able to:
-* Describe…
-* Contrast…
-* Analyze…
-* Determine…
+<ul>
+ 	<li>explain the importance of setting clear learning targets.</li>
+ 	<li>write SMART goals</li>
+ 	<li>write SMART objectives that align with the goal and focus of instruction</li>
+ 	<li>Assess goals for ethical implications</li>
+</ul>
+&nbsp;
 
-<h5>Activity Checklist</h5>
+<strong>Activity Checklist</strong>
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+<ol>
+ 	<li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Pages 13-18 and Chap. 1)</li>
+</ol>
+&nbsp;
+<ol start="2">
+ 	<li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course. Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.</li>
+</ol>
+<strong> </strong>
+<ol start="3">
+ 	<li>Write a Blog Post In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write two objectives for each goal. Comment on how writing clear objectives might encourage individual progress monitoring.</li>
+</ol>
+&nbsp;
 
-<pre><code>Learning Activities can include the following:
-* Readings (text, article)
-* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-* Simulations
-* Websites (to explore, or webquests to find answers)
-* Unmarked quizzes
-* Case studies
-* Interviews (ex. with friends/family/coworkers)
-* Reflection/study journal/questions to consider
+&nbsp;
+<ol start="4">
+ 	<li>Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Chap. 2; 15 and 17)</li>
+</ol>
+<strong> </strong>
+<ol start="5">
+ 	<li>View <a href="https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">video</a> of psychologist Barry Schwartz dive into the question "<em>How do we do the right thing?</em>" With help from collaborator Kenneth Sharpe, he shares stories that illustrate the difference between following the rules and truly choosing wisely. This has implications for the goals and objectives we set so listen with this in mind.</li>
+</ol>
+&nbsp;
 
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-</code></pre>
+&nbsp;
+<ol start="6">
+ 	<li>Write a Blog Post: Describe an activity, exercise or learning moment that you have experienced that lead to more personal awareness, empowerment, higher self-esteem and personal significance.</li>
+</ol>
+&nbsp;
+<ol start="7">
+ 	<li>Complete Reading Response Assignment</li>
+</ol>
+<strong> </strong>
 
-<table>
-<thead>
-<tr>
-  <th>Activities</th>
-  <th></th>
-  <th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Activity 1:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 2:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 3:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 4:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Assignment 1:</td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
+<strong>Topic 1: Writing Goals</strong>
 
-<h5>Assessment</h5>
+<strong>Introduction</strong>
 
-Here is the assessment for Unit 4.
-Assignment 1: …
-%
+Peter Drucker, American management consultant, educator, and author, is credited with coming up with the components or criteria of SMART goals.  It has been written about by many others since then (<a href="http://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf">Doran, G., 1981</a>; <a href="http://www.siop.org/tip/backissues/tipapr02/03rubin.aspx">Rubin, R. (2002)</a>.
 
-<pre><code>If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
-</code></pre>
-
-<h2>Topic 1:</h2>
-
-<h3>Introduction</h3>
-
-We begin unit 4…
-
-<pre><code>Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
-</code></pre>
-
-[content]
-
-<pre><code>Note that in developing the course, you may want to just focus on the content first, and then address possible learning activities and questions later on.
-</code></pre>
-
-<h3>Learning Activities</h3>
-
-<h5>Activity 1:</h5>
-
-Introduction
-…
-
-<pre><code>Optional to have a separate Introduction and Instructions section or to combine them.  The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
-</code></pre>
-
-Instructions
-View the following resources about …
-
-<pre><code>Below I’ve listed some examples of learning activities.  They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
-There can be just one activity per topic, or have a couple at the end of the unit.
-Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
-</code></pre>
-
-Watch the following videos that illustrate…
-
-<h5>Questions to Consider</h5>
-
-After completing the activities above, consider the following questions:
-
+To make sure your goals are clear and reachable, each one should be:
 <ul>
-<li>Q1</li>
-<li>Q2</li>
+ 	<li><strong>S</strong>pecific (simple, sensible, significant).</li>
+ 	<li><strong>M</strong>easurable (meaningful, motivating).</li>
+ 	<li><strong>A</strong>chievable (agreed, attainable).</li>
+ 	<li><strong>R</strong>elevant (reasonable, realistic and resourced, results-based).</li>
+ 	<li><strong>T</strong>ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).</li>
 </ul>
+&nbsp;
 
-<pre><code>This feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
-</code></pre>
+Image from: <a href="https://commons.wikimedia.org/wiki/File:SMART-goals.png">https://commons.wikimedia.org/wiki/File:SMART-goals.png</a>
 
-#####Activity 2:
-Introduction
-…
-Instructions
+&nbsp;
 
-<h2>Topic 2:</h2>
+Professor Rubin also notes that the definition of the SMART acronym may need updating to reflect the importance of efficacy and feedback. However, some authors have expanded it to include extra focus areas; <a href="https://leadersyndrome.files.wordpress.com/2015/03/deltanomix-leadersyndrome-smarter-goals.pdf">SMARTER,</a> for example, includes <strong>E</strong>valuated and <strong>R</strong>eviewed.  <strong>E</strong> can also refer to <strong>E</strong>thical.  When you practice writing your SMART goals for this unit, define the acronym according to the prominent usage outlined above in the bullet points.
 
-<h3>Introduction</h3>
+&nbsp;
 
-…
+To develop SMART Goals follow this format:
 
-<h3>Learning Activities</h3>
+By____/_____/_____ (When?) (Who? What? Include a number you can measure.) will have __________________________________________ ___ ________ . (How? Why? Remember to specify results.)
 
-<h5>Activity 3:</h5>
+<strong>Activity 4.1: Reading </strong>
 
-<pre><code>Case studies are great application activities.  Consider the lesson content and how it is applied in a ‘real world’ situation.
-</code></pre>
+Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).</em> Hoboken, New Jersey: John Wiley &amp; Sons (Pages 13-18 and Chap. 1).  Focus on the eight qualities of active training and the advantages and disadvantages of nine basic needs assessment techniques.
 
-Introduction
-The following case study reveals…
-Mrs. Jones…
+&nbsp;
 
-<h5>Activity 4: Practice Quiz (ungraded)</h5>
+<strong>Activity 4.2: Blog Post (Part A)</strong>
 
-Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+<strong> </strong>
 
-<pre><code>If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.  
-Quizzes can be multiple choice, matching, true-false, or short answer.
-</code></pre>
+In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course.  Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals.
 
-Introduction
-Match the following terms to their correct definition.
+&nbsp;
 
-<h5>Activity 5:</h5>
+<strong>Topic 2: Writing Objectives</strong>
 
-Other activities include:
+<strong>Introduction</strong>
 
-<pre><code>In each unit, consider having 2-3 recommended activities, and perhaps 1-3 optional activities.
-</code></pre>
+Once you have goals established, the next step is to break them down into specific training objectives.  As Silberman says:  “each goal will have one or more objectives that, when met, will identify accomplishment of that goal” (p. 44-45).  Sometimes objectives and learning outcomes are used interchangeably. Writing clear objectives requires <a href="https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf">action verbs</a>.
 
+&nbsp;
+
+To develop SMART Objectives follow this format:
+
+By____/_____/_____ (When?) (Who? What? Include a number you can measure.) will have __________________________________________ ___ ________ . (How? Why? Remember to specify results.)
+
+<strong>For example…Adrienne finishes her marking electronically online, before 9pm, no TV on, within one week of assignments due date.</strong>
+
+<strong> </strong>
+
+<strong>Activity 4.3: Blog Post (Part B)</strong>
+
+Blog Post: In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write two objectives for each goal.  Comment on how writing clear objectives might encourage individual progress monitoring. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their objectives and the alignment to their associated goals.
+
+<strong>Activity 4.4: Reading</strong>
+
+&nbsp;
+
+Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.</em>). Hoboken, New Jersey: John Wiley &amp; Sons (Chap. 2; 15 and 17)
+
+In chapter 2 it’s important to remember that objectives are not the same as topics to cover but what you want participants to value, understand, or do with those topics.
+
+Chapter 15 focuses on how to end an active training session. What methods most resonate with your personal style? Why?
+As you’re reading chapter 17 jot down ideas for evaluating a training program in terms of reactions, learning level, behavior and results.
+
+&nbsp;
+
+<strong>Topic 3: Ethical Goals and Objectives</strong>
+
+<strong>Introduction</strong>
+
+As mentioned briefly above, sometimes the SMARTER acronym refers to E as <strong>E</strong>thical goals.
+
+Richard Paul and Linda Elder, founders of the Foundation for Critical Thinking co-authored <a href="http://www.criticalthinking.org/files/SAM-EthicalReasoning2005.pdf"><em>The Miniature Guide to understanding the Foundations of Ethical Reasoning</em></a> (2005).  Here are some key points from the open-source booklet about the nature of ethics:
 <ul>
-<li>Role play</li>
-<li>Games</li>
-<li>Simulations</li>
-<li>Problems / Debates</li>
-<li>Current Events</li>
-<li>Graphic Organizers</li>
-<li>Short-write  (ex. Muddy/clear point)</li>
-<li>Interviews (friends/family)</li>
-<li>Field Trip (do something in the community /workplace)</li>
-<li>Survey / poll</li>
-<li>Social media</li>
-<li>Experiments</li>
-<li>Textbook online resources (flashcards, quizzes, etc.)</li>
+ 	<li>Ethics is not necessarily the same as behaving in accordance with social conventions, religious beliefs or the law</li>
+ 	<li>The United Nations Declaration of Human Rights documents principles of ethical treatment that transcend religion and culture</li>
+ 	<li>Living ethically is to act in ways that enhance the wellbeing of others. This is challenging give our natural modus operandi is often to focus on ourselves and those connected with us. This egocentrism is a fundamental barrier to ethical reasoning</li>
+ 	<li>Ethical reasoning requires an accurate understanding of the relevant facts and a reasonable interpretation of those facts. It requires self and social critique and the ability to serve one’s interests while respecting the rights and needs of others. This is challenging given that we live in a world rife with propaganda, self-deception and fake news.</li>
 </ul>
+Thinking through our goals and objectives with an ethical lens is imperative for the Transformational Servant Leader (TSL) because by definition the TSL is interested in fostering the growth and wellbeing of their followers.  A service mindset based on ethical principles should therefore inform all training and organizational goals and objectives.
 
-<h2>Assessment</h2>
+(Note that Transformational Servant Leadership is a foundational principle of the MA Lead program.  If you’d like more information, see the References section.)
 
-<pre><code>Consider different types of assessment:
-* Essays (including draft essays)
-* Quizzes
-* Presentations (video, powerpoint)
-* Discussions (or reflection of discussions for web)
-* Journals / Reflective papers
-* Blogs
-* E-Portfolio
-* Wiki
-* Social Media / Interviews / Surveys (research/interactions outside the classroom)
-* Visual Data (infographics, graphic organizer)
+<strong> </strong>
 
-Many of the more creative assignments can be combined with a reflective paper to meet all learning outcomes.
-</code></pre>
+<strong>Learning Activity</strong>
 
-<h3>Assignment 1:</h3>
+View the <a href="https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">video</a> of psychologist Barry Schwartz in which he dives into the question "<em>How do we do the right thing</em>?" With help from collaborator Kenneth Sharpe, he shares stories that illustrate the difference between following the rules and truly choosing wisely. This has implications for the goals and objectives we set so listen with this in mind.
 
-After completing this unit, including the learning activities, you are asked to…
-For more details about this assignment, including the grading criteria, please refer to the Assignment page.
+<strong>Activity 4.5: Blog (Part B)</strong>
 
-<h2>unit 4 Summary</h2>
+Describe an activity, exercise or learning moment that you have experienced that led to more personal awareness, empowerment, higher self-esteem and personal significance.
 
-<pre><code>Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
-</code></pre>
+&nbsp;
 
-In this first unit, you have had the opportunity to learn about…
+<strong> </strong>
 
-<h2>Checking your Learning</h2>
+<strong>Unit Summary</strong>
 
-<pre><code>Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
-</code></pre>
+In this unit, you have had the opportunity to learn about the importance and method of writing goals and objectives. These become your learning targets and are very important to define clearly so that you design activities, choose materials, plan sequencing and evaluate your original intents strategically with these ends in mind. While the learning outcomes or goals of a particular class normally remain the same, the objectives related to content and methods may well change depending on currency, response of previous learners, effectiveness of the sequence etc.
 
-Before you move on to the next unit, you may want to check to make sure that you are able to:
+<strong> </strong>
 
-<h3>Learning Outcomes</h3>
+<strong>Assessment: Reading Response</strong>
+<h2><strong><em>Reading Check Week 4 </em></strong>Based on the assigned reading, this Reading Response is meant to encourage careful reading and thinking about the course material.  These are questions requiring clearly targeted and succinct paragraph answers. Accuracy and composition are evaluated.</h2>
+&nbsp;
 
+<strong>Brookfield Chapter 8 Negotiating the Emotions of Powerful Teaching </strong>
+<ol>
+ 	<li>ARCS Model of Motivational Design</li>
+</ol>
+Keller’s ARCS model of motivational design of instruction notes four components of motivation: Attention, Relevance, Confidence and Satisfaction. Reflect on how you can incorporate these four components into adult learning and instruction in your context.  See <a href="http://www.arcsmodel.com">http://www.arcsmodel.com</a>
+
+&nbsp;
+
+<strong>Silberman Chapter 4 Preparing Brain-Friendly Presentations and Wang Chapter 11 What Neuroscience Has to Say About the Brain and Learning</strong>
+<ol start="2">
+ 	<li>Lecturing is efficient in conveying information but ‘will never lead to real learning’ unless the instructor works to involve participants. Looking at the suggestions in this chapter, choose three ways to enhance lecturing and describe them with examples from your context.</li>
+</ol>
+&nbsp;
+
+<strong>Wang Chapter 12 Building a Culture of Competers by Understanding the Etiology of Adult Learning Deficits pages 311-319.</strong>
+<ol start="3">
+ 	<li>What are the effects of poverty and trauma on adult learning? What kinds of transformational learning supports and environments are most conducive for learners who have experienced poverty and/or trauma?</li>
+</ol>
+&nbsp;
+
+<strong>Checking your Learning</strong>
+
+Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.
 <ul>
-<li>differentiate between a comparative perspective of the family and a global perspective;</li>
-<li>discuss the benefits as well as the limitations of a comparative approach to the study of the family;</li>
-<li>describe the main characteristics of the contemporary Western family in terms of structure and relations;</li>
-<li>differentiate between the concepts of ‘family’ and ‘kinship;’</li>
-<li>differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;</li>
-<li>compare the roles and relations of Western contemporary families with those of families in non-industrial countries;</li>
+ 	<li>Can you explain the importance of setting clear learning targets?</li>
+ 	<li>Can you write SMART goals?</li>
+ 	<li>Can you write SMART objectives that align with the goal and focus on what you want participants to value, understand or do with given content?</li>
 </ul>
+<strong> </strong>
 
-<h2>Resources</h2>
+<strong>Resources</strong>
 
-*
-*
+Schwartz, B. (2015). <a href="https://www.ted.com/talks/barry_schwartz_using_our_practical_wisdom?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare">video</a> "<em>How do we do the right thing</em>?"
 
-<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
+Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed</em>.). Hoboken, New Jersey: John Wiley &amp; Sons (Pages 13-18, Chapters 1, Chap. 2, 15 and 17)
+
+&nbsp;
+
+Wang, C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapters 12, 16
