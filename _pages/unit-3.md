@@ -103,6 +103,7 @@ Below are two videos that will give you a greater understanding of the topic of 
 <ol>
     <li>View the two videos below, ‘Chaos Theory’ and View video 'How I learned to embrace chaos'</li>
     <li>Read a <a href="https://theanalogiesproject.org/the-analogies/chaos-great-dreams-begin/">short article</a> about chaos.</li>
+    <li>Read Bourton S., Lavoie, J. &amp; Vogel, T. (March 2018). <a href="https://www.mckinsey.com/business-functions/organization/our-insights/leading-with-inner-agility?cid=eml-web"><em>Leading with inner agility</em></a>. McKinsey Quarterly.</li>
 </ol>
 
 https://youtu.be/BL2wTkgBEyk
@@ -165,13 +166,9 @@ e) What is the effect of these sensory additions to your reading?
 
 Corporate trainer, Dave Root defines <a href="https://www.eaglesflight.com/experiential-learning">experiential learning</a> as "immersive activities that mimic real-world challenges with a targeted debrief that connects the lessons learned with the reality of the workplace. It allows participants to learn by doing".  The theory of experiential learning can be traced to philosopher, psychologist and education reformer John Dewey.  It may be surprising to read in Wang (p. 406) that this pragmatic approach to education was  actually innovative for the early twentieth century. Some examples of experiential learning include cooperative education, practicums, internships, studies abroad, field trips, service learning projects, role playing, case studies and simulations. To learn more examples and best practices in experiential learning read this <a href="https://www.ryerson.ca/content/dam/lt/resources/handouts/ExperientialLearningReport.pdf">article</a> from Ryerson University's Learning and Teaching Office.
 
-The result of experiential learning is ideally a deeper understanding of how certain behaviors can influence outcomes and a desire to apply those new behaviors
+The result of experiential learning is ideally a deeper understanding of how certain behaviors can influence outcomes and a desire to apply those new behaviors.  This relates to Dewey's (1938) theory of experiential continuum which emphasizes the importance of adults being fully engaged in the experience, making connections to prior experiences and learning how to apply past experiences in new situations.  "For Dewey, then, there are two elements to the learning process - the actual experience which the learner is open to and the reflection upon that experience which builds the continuum of learning (Wang, p. 408).  Since Dewey, Kolb  (1984) contributed to the theory of experiential learning by identifying the learning cycle or spiral as: concrete experience, reflective observation, abstract conceptualization and active experimentation (Wang p. 409).
 
-Experiential learning helps to prepare people for uncertainly. In the video you watched with Dr. Jim Bright (2013) he<strong> </strong>makes numerous suggestions, a couple of which include networking and pursuing creativity. Through a more experiential approach to learning, people have the potential to feel more ownership over their experience. Helping the learner to shift from a passive to a more active mode of learning is important for the learner to see how their story connects to the subject at hand. If as educators we are only dispensing knowledge, we may actually limit the growth and development of our learners.  Ultimately it is not about our knowledge but about their transformation.
-
-&nbsp;
-
-&nbsp;
+Experiential learning helps to prepare people for uncertainly. In the video you watched with Dr. Jim Bright (2013) he<strong> </strong>makes numerous suggestions, a couple of which include networking and pursuing creativity. Through a more experiential approach to learning, people have the potential to feel more ownership over their experience. Helping the learner to shift from a passive to a more active mode of learning is important for the learner to see how their story connects to the subject at hand. If as educators we are only dispensing knowledge, we may actually limit the growth and development of our learners.  Ultimately it is not about our knowledge but about the transformation of our students.
 
 <h3>Learning Activities:</h3>
 
@@ -180,7 +177,7 @@ Read Wang chapter 16 focusing on pages 411-420.
 Read this <a href="https://www.ryerson.ca/content/dam/lt/resources/handouts/ExperientialLearningReport.pdf">article</a> from Ryerson University's Learning and Teaching Office.
 
 Taking the above two readings into account, why would an adult learner especially benefit from experiential learning?
-Identify 3 activities that could work for your learner population and content?
+Identify 3 activities that could work for your learner population and content.
 What challenges might you encounter when integrating experiential learning in your context?
 
 <h4>Activity 3.3: Questionnaire</h4>
@@ -270,7 +267,7 @@ Use the learning outcomes for this unit as a checklist of understanding before y
 
 <ul>
     <li>Can you explain why being comfortable with ambiguity and challenged by what others think is central to learning as an adult?</li>
-    <li>Can you design brain-friendly teaching methods?</li>
+    <li>Can you design brain-friendly teaching methods that increase motivation to learn?</li>
 </ul>
 
 <h3>Resources</h3>
@@ -278,6 +275,7 @@ Use the learning outcomes for this unit as a checklist of understanding before y
 <ul>
     <li>Bright, J. <em>Chaos Theory of Careers Explained</em>. <a href="https://youtu.be/BL2wTkgBEyk">Video</a>. Vanderbilt University.</li>
     <li>Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
+    <li>Read Bourton S., Lavoie, J. &amp; Vogel, T. (March 2018). <a href="https://www.mckinsey.com/business-functions/organization/our-insights/leading-with-inner-agility?cid=eml-web"><em>Leading with inner agility</em></a>. McKinsey Quarterly.</li>
     <li>Kaufman, A. How I learned to embrace chaos. <a href="https://youtu.be/BDVqNG3KY5Q">Video</a></li>
     <li>Pryor, Robert &amp; Bright, Jim. (2003). <a href="http://ezproxy.student.twu.ca:3201/doi/pdf/10.1177/1038416213518506">The Chaos Theory of Careers</a>. <em>Australian journal of Career Development. 48</em>. 10.1177/103841620301200304.</li>
     <li>Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
