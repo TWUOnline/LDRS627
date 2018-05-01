@@ -22,10 +22,10 @@ When writing goals and objectives there is a format to follow to ensure you are 
 
 ### Topics
 
-1. 1. Writing Goals
-2. 2. Writing Objectives
-3. 3. Ethical goals and objectives
-4.
+1. Writing Goals
+2. Writing Objectives
+3. Ethical goals and objectives
+
 
 ### Learning Outcomes:
 
@@ -35,7 +35,6 @@ When you have completed this unit you should be able to:
 - write SMART goals
 - write SMART objectives that align with the goal and focus of instruction
 - Assess goals for ethical implications
--
 
 ### Activity Checklist
 
