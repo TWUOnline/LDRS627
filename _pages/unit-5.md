@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:06
 ---
-<h1>Overview</h1>
 Critical thinking is helpfully <a href="http://www.criticalthinking.org/pages/critical-thinking-basic-questions-amp-answers/409">defined by Richard Paul (1992)</a> as:  ‘<em>thinking about your thinking while you’re thinking in order to make your thinking better.  Two things are crucial: </em><em>1)</em><em> critical thinking is not just thinking, but thinking which entails self-improvement and 2) this improvement comes from skill in using standards by which one appropriately assesses thinking. To put it briefly, it is self-improvement (in thinking) through standards (that assess thinking).</em>
 
 In this unit you will explore the significance of critical thinking in graduate studies, in adult learning and in life.  With this foundational understanding of why it matters, you will then explore techniques for fostering critical thinking as an adult educator.
