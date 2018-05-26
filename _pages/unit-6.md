@@ -1,6 +1,6 @@
 ---
 ID: 101
-post_title: Unit 6
+post_title: 'Unit 6: Assessment (Overview)'
 author: Colin Madland
 post_excerpt: ""
 layout: page
@@ -9,247 +9,54 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:06
 ---
-<h3>Unit 6</h3>
+<h1>Unit 6: Assessment</h1>
+<h2>Overview</h2>
+Assessment is the systematic collection of information about students’ abilities, characteristics, skills, understanding and knowledge.
 
-<h5>Overview</h5>
+Since the purpose of teaching is to help others learn, assessment helps to determine if that is happening.  In order to check if students are learning and, by implication, if our teaching methods are effective, we need to use various methods of assessment.  Sometimes assessment is also used as an evaluation tool to check if students are able to do the actions, or skills stated in the learning outcomes.
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+Beginning in the late 80’s and early 90’s, researchers have called for more explicit training of classroom teachers in the areas of classroom assessment. Assessment has changed dramatically in the schoolhouse.  In adult education, there is also less emphasis on summative testing and more emphasis on formative assessment to assess knowledge and skill. Certainly in grad studies we don’t normally have exams for example, but design inquiry-based opportunities for students to demonstrate their learning.
 
-<pre><code>Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
-The important thing is to gain students attention and interest so they are motivated throughout the unit.
-</code></pre>
+&nbsp;
 
-<h5>Topics</h5>
+Assessment can be used:
+<ul>
+ 	<li>for learning,</li>
+ 	<li>to improve instruction</li>
+ 	<li>to allow learners to control their own learning</li>
+ 	<li>to mirror real world expectations</li>
+</ul>
+Formative assessment is very effective in both pedagogy and andragogy. While the traditional purpose of classroom assessment has long been summative - reporting on what has occurred after the teaching and learning process, the educator also needs to be interested in formative assessment - gathering data while teaching and learning are occurring.  Formative assessment fosters learners who are self-directed and must be relevant, frequent and motivating to learners.
 
-Unit 6 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:
+Formative Assessment provides information to learners during instruction, before instruction has been completed.  It allows learners to judge their own ongoing learning and progress, monitor, control, and improve their own learning. By using formative assessment methods instructors are able to gather information to modify their instruction, change course, or alter strategy while learning is still taking place.  Formative instruction is not about grades, it’s about learning.  An example of assessment as learning is the peer review process.  By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance.  The intellectual humility this takes is focused on process and improvement – the growth of people.  In this way, peer review is aligned to the principles of servant and transformational learning.
 
-<h5>Learning Outcomes</h5>
+&nbsp;
 
+In this unit you will explore various assessment techniques applicable for the adult education setting. Keep your final assignment in mind as you read and view the assigned material. Which techniques might be applicable for your adult learning design and context?
+
+&nbsp;
+<h2>Topics</h2>
+<ol>
+ 	<li>Assessment Techniques</li>
+ 	<li>Barriers in adult learning</li>
+</ol>
+&nbsp;
+<h2>Learning Outcomes:</h2>
 When you have completed this unit you should be able to:
-* Describe…
-* Contrast…
-* Analyze…
-* Determine…
-
-<h5>Activity Checklist</h5>
-
+<ul>
+ 	<li>describe the difference between formative and summative assessment</li>
+ 	<li>choose appropriate assessment methods for your learning activities.</li>
+ 	<li>explain barriers to adult learning and how to accommodate.</li>
+</ul>
+<strong> </strong>
+<h2>Activity Checklist</h2>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
-<pre><code>Learning Activities can include the following:
-* Readings (text, article)
-* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
-* Simulations
-* Websites (to explore, or webquests to find answers)
-* Unmarked quizzes
-* Case studies
-* Interviews (ex. with friends/family/coworkers)
-* Reflection/study journal/questions to consider
-
-These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
-</code></pre>
-
-<table>
-<thead>
-<tr>
-  <th>Activities</th>
-  <th></th>
-  <th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Activity 1:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 2:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 3:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Activity 4:</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Assignment 1:</td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
-
-<h5>Assessment</h5>
-
-Here is the assessment for Unit 6.
-Assignment 1: …
-%
-
-<pre><code>If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
-</code></pre>
-
-<h2>Topic 1:</h2>
-
-<h3>Introduction</h3>
-
-We begin Unit 6…
-
-<pre><code>Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
-</code></pre>
-
-[content]
-
-<pre><code>Note that in developing the course, you may want to just focus on the content first, and then address possible learning activities and questions later on.
-</code></pre>
-
-<h3>Learning Activities</h3>
-
-<h5>Activity 1:</h5>
-
-Introduction
-…
-
-<pre><code>Optional to have a separate Introduction and Instructions section or to combine them.  The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
-</code></pre>
-
-Instructions
-View the following resources about …
-
-<pre><code>Below I’ve listed some examples of learning activities.  They should always have a short introduction &amp; Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
-There can be just one activity per topic, or have a couple at the end of the unit.
-Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
-</code></pre>
-
-Watch the following videos that illustrate…
-
-<h5>Questions to Consider</h5>
-
-After completing the activities above, consider the following questions:
-
-<ul>
-<li>Q1</li>
-<li>Q2</li>
-</ul>
-
-<pre><code>This feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
-</code></pre>
-
-#####Activity 2:
-Introduction
-…
-Instructions
-
-<h2>Topic 2:</h2>
-
-<h3>Introduction</h3>
-
-…
-
-<h3>Learning Activities</h3>
-
-<h5>Activity 3:</h5>
-
-<pre><code>Case studies are great application activities.  Consider the lesson content and how it is applied in a ‘real world’ situation.
-</code></pre>
-
-Introduction
-The following case study reveals…
-Mrs. Jones…
-
-<h5>Activity 4: Practice Quiz (ungraded)</h5>
-
-Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-
-<pre><code>If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.  
-Quizzes can be multiple choice, matching, true-false, or short answer.
-</code></pre>
-
-Introduction
-Match the following terms to their correct definition.
-
-<h5>Activity 5:</h5>
-
-Other activities include:
-
-<pre><code>In each unit, consider having 2-3 recommended activities, and perhaps 1-3 optional activities.
-</code></pre>
-
-<ul>
-<li>Role play</li>
-<li>Games</li>
-<li>Simulations</li>
-<li>Problems / Debates</li>
-<li>Current Events</li>
-<li>Graphic Organizers</li>
-<li>Short-write  (ex. Muddy/clear point)</li>
-<li>Interviews (friends/family)</li>
-<li>Field Trip (do something in the community /workplace)</li>
-<li>Survey / poll</li>
-<li>Social media</li>
-<li>Experiments</li>
-<li>Textbook online resources (flashcards, quizzes, etc.)</li>
-</ul>
-
-<h2>Assessment</h2>
-
-<pre><code>Consider different types of assessment:
-* Essays (including draft essays)
-* Quizzes
-* Presentations (video, powerpoint)
-* Discussions (or reflection of discussions for web)
-* Journals / Reflective papers
-* Blogs
-* E-Portfolio
-* Wiki
-* Social Media / Interviews / Surveys (research/interactions outside the classroom)
-* Visual Data (infographics, graphic organizer)
-
-Many of the more creative assignments can be combined with a reflective paper to meet all learning outcomes.
-</code></pre>
-
-<h3>Assignment 1:</h3>
-
-After completing this unit, including the learning activities, you are asked to…
-For more details about this assignment, including the grading criteria, please refer to the Assignment page.
-
-<h2>Unit 6 Summary</h2>
-
-<pre><code>Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
-</code></pre>
-
-In this first unit, you have had the opportunity to learn about…
-
-<h2>Checking your Learning</h2>
-
-<pre><code>Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
-</code></pre>
-
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-
-<h3>Learning Outcomes</h3>
-
-<ul>
-<li>differentiate between a comparative perspective of the family and a global perspective;</li>
-<li>discuss the benefits as well as the limitations of a comparative approach to the study of the family;</li>
-<li>describe the main characteristics of the contemporary Western family in terms of structure and relations;</li>
-<li>differentiate between the concepts of ‘family’ and ‘kinship;’</li>
-<li>differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;</li>
-<li>compare the roles and relations of Western contemporary families with those of families in non-industrial countries;</li>
-</ul>
-
-<h2>Resources</h2>
-
-*
-*
-
-<h6>Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</h6>
+<ol>
+ 	<li>Read Unit overview and topics.</li>
+ 	<li>Read Read Lindstrom, G., Taylor, L &amp; Weleschuk, A. (2017). <a href="http://studentassessment.ucalgaryblogs.ca/files/2017/06/Guiding-Principles-for-Assessment-of-Student-Learning-FINAL.pdf"><em>Guiding Principles for Assessment</em></a>. University of Calgary Taylor Institute for Teaching and Learning.</li>
+ 	<li>Read Silberman chapters 15 and 17.</li>
+ 	<li>Review <a href="https://vcsa.ucsd.edu/_files/assessment/resources/50_cats.pdf">50 CATS by Angelo and Cross: Techniques for Assessing Course-Related Knowledge and Skills</a></li>
+ 	<li>Read Wang, C.X. (2017). Theory and Practice of Adult and Higher Education. Chapter 4</li>
+ 	<li>Assessment: Complete the Blog Post about enhancing critical thinking through assessments</li>
+</ol>
+<strong> </strong>
