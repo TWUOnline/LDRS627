@@ -1,6 +1,6 @@
 ---
 ID: 97
-post_title: 'Unit 5: Teaching for Critical Thinking'
+post_title: Unit 5 Overview
 author: Colin Madland
 post_excerpt: ""
 layout: page
