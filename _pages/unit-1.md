@@ -27,7 +27,7 @@ The Silberman pages introduce the practice of active training which is a powerfu
 
 <h3><strong>Learning Cafe </strong></h3>
 
-Before you continue with this first munit, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Feel free to include a picture - of yourself or your pet!
+Before you continue with this first unit, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Feel free to include a picture - of yourself or your pet!
 
 &nbsp;
 
