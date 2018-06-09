@@ -26,9 +26,11 @@ Course Overview:
  	<li>fix assessment chart</li>
 </ul>
 ## Unit 1
-
-* KWL chart (Kelly to check plug-ins -https://www.gravityforms.com/features/ )
-
+<ul>
+ 	<li>KWL chart in Activity 1.5 (Kelly to check plug-ins -https://www.gravityforms.com/features/ )</li>
+ 	<li>Ways of Knowing link</li>
+ 	<li>Assessment - blog rubric.  Blog instructions</li>
+</ul>
 ##Unit 2
 <ul>
  	<li></li>
