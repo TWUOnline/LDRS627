@@ -15,14 +15,5 @@ Congratulations!  You're nearly done this course!
 
 Take this week to review course materials and reflect on what you've learned so far.  In particular, you are encouraged to work on your Learning Design assignment.
 
-If you need any assistance or have questions, remember to contact your peers and your professor.<!--themify_builder_static-->
-
-<h1>Reading Week<br />Sub Heading</h1>
-
-Congratulations!  You&#8217;re nearly done this course!
-
-Take this week to review course materials and reflect on what you&#8217;ve learned so far.  In particular, you are encouraged to work on your Learning Design assignment.
-
-If you need any assistance or have questions, remember to contact your peers and your professor.
-
-<!--/themify_builder_static-->
+If you need any assistance or have questions, remember to contact your peers and your professor.<!--themify_builder_static--><h1>Reading Week<br />Sub Heading</h1>
+ <p>Congratulations!  You&#8217;re nearly done this course!</p><p>Take this week to review course materials and reflect on what you&#8217;ve learned so far.  In particular, you are encouraged to work on your Learning Design assignment.</p><p>If you need any assistance or have questions, remember to contact your peers and your professor.</p><!--/themify_builder_static-->
