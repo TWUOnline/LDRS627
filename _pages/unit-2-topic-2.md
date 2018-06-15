@@ -34,11 +34,11 @@ What is the value of a learning audit in self-directed learning?
 <h3>Part C?</h3>
 <strong>[Optional activity questions or part of the Blog Assignment?]</strong>
 
-<span style="font-weight: 400;">Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. </span>
+<span style="font-weight: 400">Thinking about your specific organization, take the department team building questionnaire Silberman p. 375 figure 18.4. </span>
 
-<span style="font-weight: 400;">Identify two or three </span><a href="https://learn.twu.ca/mod/url/view.php?id=36727"><span style="font-weight: 400;">next steps</span></a><span style="font-weight: 400;"> regarding how you can intervene for quality improvement.  <strong>(do we need this hyperlink to the next steps video? If so, let's remind students of the video they watched in Unit 1.)  Yes I think it helps.</strong></span>
+<span style="font-weight: 400">Identify two or three </span><a href="https://learn.twu.ca/mod/url/view.php?id=36727"><span style="font-weight: 400">next steps</span></a><span style="font-weight: 400"> regarding how you can intervene for quality improvement.  <strong>(do we need this hyperlink to the next steps video? If so, let's remind students of the video they watched in Unit 1.)  Yes I think it helps.</strong></span>
 
-<span style="font-weight: 400;">*State your plan to the C-Suite following the guidelines described on p. 387 and 388.</span>
+<span style="font-weight: 400">*State your plan to the C-Suite following the guidelines described on p. 387 and 388.</span>
 
 &nbsp;
 
