@@ -23,15 +23,15 @@ The Silberman pages introduce the practice of active training, which is a powerf
 One more note I'd like to emphasize is to please follow the suggested ‘due dates’. The due dates in this course are meant to ‘chunk’ the course into manageable parts so that you are successful. Feel free to ‘go ahead’ but please don’t get behind. Sometimes life throws us ‘curve balls’ so to speak and we might need to take a day away from the course, but please do your best to catch up the very next day. In an asynchronous environment it behooves us all to manage our time so that posts are up on time and ready to be responded to. This will avoid frustration for everyone!
 
 &nbsp;
-<h2><strong>Learning Cafe </strong></h2>
+<h2>Learning Cafe</h2>
 Before you continue with this first unit, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  This is a space for you to chat with your classmates about course topics or other topics of interest.  For this first post, please share a bit about yourself (e.g. hometown, interests, future plans, etc.).  Feel free to include a picture - of yourself or your pet!
 
 &nbsp;
 <h2>Topics</h2>
 Unit 1 is divided into 3 topics:
-<p style="padding-left: 30px">Topic 1: Reflective Practice and Teaching Perspectives</p>
-<p style="padding-left: 30px">Topic 2: Critical and Transformative Learning</p>
-<p style="padding-left: 30px">Topic 3: Roles and Factors Impacting Adult Educators</p>
+<p style="padding-left: 30px;">Topic 1: Reflective Practice and Teaching Perspectives</p>
+<p style="padding-left: 30px;">Topic 2: Critical and Transformative Learning</p>
+<p style="padding-left: 30px;">Topic 3: Roles and Factors Impacting Adult Educators</p>
 &nbsp;
 <h2>Learning Outcomes</h2>
 When you have completed this unit you should be able to:
