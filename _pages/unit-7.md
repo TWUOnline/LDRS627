@@ -9,5 +9,9 @@ permalink: >
 published: true
 post_date: 2018-02-20 12:24:06
 ---
-<!--themify_builder_static--><h1>Reading Week<br/></h1>
- <p style="text-align: center;">Congratulations!  You&#8217;re nearly done this course!</p><p style="text-align: center;">Take this week to review course materials and reflect on what you&#8217;ve learned so far.  In particular, you are encouraged to work on your Learning Design assignment.</p><p style="text-align: center;">If you need any assistance or have questions, remember to contact your peers and your professor.</p><!--/themify_builder_static-->
+<!--themify_builder_static-->
+<h1>Reading Week</h1>
+<p style="text-align: center">Congratulations!  You&#8217;re nearly done this course!</p>
+<p style="text-align: center">Take this week to review course materials and reflect on what you&#8217;ve learned so far.  In particular, you are encouraged to work on your Learning Design assignment.</p>
+<p style="text-align: center">If you need any assistance or have questions, remember to contact your peers and your professor.</p>
+<!--/themify_builder_static-->
