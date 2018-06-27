@@ -10,11 +10,9 @@ published: true
 post_date: 2018-06-27 11:25:29
 ---
 To add to your KWL Chart follow the following steps.
-
 <ol>
-    <li>Create you Post.</li>
-    <li>Add the appropriate Category</li>
-    <li>Update your Post.</li>
+ 	<li>Create you Post.</li>
+ 	<li>Add the appropriate Category</li>
+ 	<li>Update your Post.</li>
 </ol>
-
 Happy Posting!
