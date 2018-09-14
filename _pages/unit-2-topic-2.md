@@ -24,6 +24,8 @@ Write 300 words (approximately) on the following:
 &nbsp;
 
 After you have finished your blog post, be sure to respond substantively to at least two other classmates' blogs.
+<h4>Grading Criteria</h4>
+The following rubric will be used to assess your blog in this unit. <span style="color: #ff0000;"><strong>[Insert Rubric]</strong></span>
 
 &nbsp;
 <h2>Assignment 2: Reading Response 10%</h2>
@@ -48,8 +50,8 @@ Brookfield text:
  	<li>Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.</li>
 </ol>
 &nbsp;
-<h3>Grading Criteria</h3>
-The following rubric will be used to assess your blog and responses in this unit. <span style="color: #ff0000;"><strong>[Insert Rubric]</strong></span>
+<h4>Grading Criteria</h4>
+The following rubric will be used to assess your responses in this unit. <span style="color: #ff0000;"><strong>[Insert Rubric]</strong></span>
 
 &nbsp;
 <h2>Checking your Learning</h2>
