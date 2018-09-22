@@ -16,28 +16,28 @@ In this unit you will explore the role of the adult educator as an agent of indi
 <h1>Topics</h1>
 <ol>
  	<li>Authentic individualism</li>
- 	<li>The adult educator as agent for social transformation.</li>
+ 	<li>The adult educator as agent for social transformation</li>
 </ol>
 <strong> </strong>
 <h1>Learning Outcomes:</h1>
 When you have completed this unit you should be able to:
 <ul>
- 	<li>articulate what intellectual humility is and its significance to adult learning.</li>
- 	<li>choose strategies for your context that will create  a safe, enjoyable, effective and democratic learning environment.</li>
- 	<li>demonstrate cultural competency and describe specific methods for incorporating  varied perspectives.</li>
- 	<li>explain authentic individualism and how one can see unity in diversity.</li>
+ 	<li>Articulate what intellectual humility is and its significance to adult learning.</li>
+ 	<li>Choose strategies for your context that will create  a safe, enjoyable, effective and democratic learning environment.</li>
+ 	<li>Demonstrate cultural competency and describe specific methods for incorporating  varied perspectives.</li>
+ 	<li>Explain authentic individualism and how one can see unity in diversity.</li>
 </ul>
 <strong> </strong>
 <h1>Activity Checklist</h1>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <ol>
- 	<li>Read blog post by Baehr, J.</li>
- 	<li>Read article by Alfred, M.</li>
- 	<li>Read article by Snell-Herzog et al</li>
+ 	<li>Read the blog post by Baehr, J.</li>
+ 	<li>Read the article by Alfred, M.</li>
+ 	<li>Read the article by Snell-Herzog et al</li>
  	<li>Read Brookfield chapters 5 and 6.</li>
  	<li>Review Silberman chapter 12.</li>
- 	<li>Write your blog post</li>
- 	<li>Complete reading assignment</li>
+ 	<li>Write your blog post.</li>
+ 	<li>Complete reading assignment.</li>
 </ol>
 &nbsp;
 
