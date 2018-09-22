@@ -15,7 +15,7 @@ Assessment is the systematic collection of information about students’ abiliti
 
 Since the purpose of teaching is to help others learn, assessment helps to determine if that is happening.  In order to check if students are learning and, by implication, if our teaching methods are effective, we need to use various methods of assessment.  Sometimes assessment is also used as an evaluation tool to check if students are able to do the actions, or skills stated in the learning outcomes.
 
-Beginning in the late 80’s and early 90’s, researchers have called for more explicit training of classroom teachers in the areas of classroom assessment. Assessment has changed dramatically in the schoolhouse.  In adult education, there is also less emphasis on summative testing and more emphasis on formative assessment to assess knowledge and skill. Certainly in grad studies we don’t normally have exams for example, but design inquiry-based opportunities for students to demonstrate their learning.
+Beginning in the late 80s and early 90s, researchers have called for more explicit training of classroom teachers in the areas of classroom assessment. Assessment has changed dramatically in the schoolhouse.  In adult education, there is also less emphasis on summative testing and more emphasis on formative assessment to assess knowledge and skill. Certainly in grad studies we don’t normally have exams for example, but design inquiry-based opportunities for students to demonstrate their learning.
 
 &nbsp;
 
@@ -26,9 +26,9 @@ Assessment can be used:
  	<li>to allow learners to control their own learning</li>
  	<li>to mirror real world expectations</li>
 </ul>
-Formative assessment is very effective in both pedagogy and andragogy. While the traditional purpose of classroom assessment has long been summative - reporting on what has occurred after the teaching and learning process, the educator also needs to be interested in formative assessment - gathering data while teaching and learning are occurring.  Formative assessment fosters learners who are self-directed and must be relevant, frequent and motivating to learners.
+Formative assessment is very effective in both pedagogy and andragogy. While the traditional purpose of classroom assessment has long been summative - reporting on what has occurred after the teaching and learning process - the educator also needs to be interested in formative assessment - gathering data while teaching and learning are occurring.  Formative assessment fosters learners who are self-directed and must be relevant, frequent and motivating to learners.
 
-Formative Assessment provides information to learners during instruction, before instruction has been completed.  It allows learners to judge their own ongoing learning and progress, monitor, control, and improve their own learning. By using formative assessment methods instructors are able to gather information to modify their instruction, change course, or alter strategy while learning is still taking place.  Formative instruction is not about grades, it’s about learning.  An example of assessment as learning is the peer review process.  By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance.  The intellectual humility this takes is focused on process and improvement – the growth of people.  In this way, peer review is aligned to the principles of servant and transformational learning.
+Formative assessment provides information to learners during instruction, before instruction has been completed.  It allows learners to judge their own ongoing learning and progress, monitor, control, and improve their own learning. By using formative assessment methods instructors are able to gather information to modify their instruction, change course, or alter strategy while learning is still taking place.  Formative instruction is not about grades, it’s about learning.  An example of assessment as learning is the peer review process.  By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance.  The intellectual humility this takes is focused on process and improvement – the growth of people.  In this way, peer review is aligned to the principles of servant and transformational learning.
 
 &nbsp;
 
@@ -63,7 +63,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <strong>Learning Cafe </strong>
 
-Before you continue with Unit 6, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  This week, use the following prompt to get a new conversation going<em>:  In 30 words or less, how would you describe yourself to someone who does not know you?  OR • If someone were to write a book about you, what would the title be? </em>
+Before you continue with Unit 6, take a couple minutes to connect with other learners in the <em>Learning Cafe</em>.  This week, use the following prompt to get a new conversation going<em>:  In 30 words or less, how would you describe yourself to someone who does not know you?  OR, If someone were to write a book about you, what would the title be? </em>
 
 &nbsp;
 
