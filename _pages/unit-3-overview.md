@@ -13,7 +13,7 @@ post_date: 2018-02-20 12:24:05
 
 <h3>Overview</h3>
 
-In this unit, we explore different ways of knowing - through experience and emotions <strong> - </strong>and consider<strong> </strong>how these impact motivation to learn. Jesus, the greatest teacher of all time, wasn't afraid to be emotional. In Lk 19. 41-42 we hear of His great disappointment and frustration that He cannot help Jerusalem and its people.  The people of Jerusalem do not accept His message of justice and peace.  Jesus is so upset that He weeps.  Part of what bonded Jesus to people was his ability to engage them at a deep level.
+In this unit, we explore different ways of knowing - through experience and emotions  - and consider<strong> </strong>how these impact motivation to learn. Jesus, the greatest teacher of all time, wasn't afraid to be emotional. In Luke 19:41-42 we hear of His great disappointment and frustration that He cannot help Jerusalem and its people.  The people of Jerusalem do not accept His message of justice and peace.  Jesus is so upset that He weeps.  Part of what bonded Jesus to people was his ability to engage them at a deep level.
 
 This unit invites exploration into how can we bring emotion into our teaching and the science underlying the role of emotion in learning. You may find it helpful to take a look at the Reading Response questions so you can read with these in mind, and, possibly answer the questions concurrently as you read.
 
@@ -46,11 +46,11 @@ When you have completed this unit you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 <ol>
-    <li>View the videos ‘Chaos Theory’ and 'How I learned to embrace chaos'</li>
-    <li>Read the <a href="https://theanalogiesproject.org/the-analogies/chaos-great-dreams-begin/">article <em>Chaos where great dreams begin</em></a>.</li>
+    <li>View the videos "Chaos Theory" and "How I learned to embrace chaos."</li>
+    <li>Read the <a href="https://theanalogiesproject.org/the-analogies/chaos-great-dreams-begin/">article <em>Chaos - Where great dreams begin</em></a>.</li>
     <li>Read: Brookfield, S. (2013).<em> Powerful techniques for teaching adults.</em> (Ch.8)</li>
     <li>Read: Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips</em> (4th ed.). (Ch 4-6) Hoboken, New Jersey: John Wiley &amp; Sons</li>
-    <li>Read: Wang, . C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
+    <li>Read: Wang, C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 11</li>
     <li>Complete Assignment 1: Blog Post and respond to at least two others' blog posts.</li>
 </ol>
 
