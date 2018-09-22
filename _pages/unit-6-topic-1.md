@@ -17,15 +17,15 @@ Based on the assigned reading, this Reading Response is meant to encourage caref
 
 <strong>Reading Response questions </strong>
 <ol>
- 	<li>Thinking about your context and the learning design for your assignment, which of the ways to conclude an active training program (Silberman chapter 15) would most appeal or be most suitable? Why? (1 page double spaced)</li>
+ 	<li>Thinking about your context and the learning design for your assignment, which of the ways to conclude an active training program (Silberman chapter 15) would most appeal or be most suitable? Why? (1 page, double spaced)</li>
 </ol>
 &nbsp;
 <ol start="2">
- 	<li>Thinking about your context and the learning design for your assignment, how do you plan to measure results according to objective identified (Silberman chapter 17)? (.5-1 page double spaced)</li>
+ 	<li>Thinking about your context and the learning design for your assignment, how do you plan to measure results according to objective identified (Silberman chapter 17)? (One-half to 1 page, double spaced)</li>
 </ol>
 &nbsp;
 <ol start="3">
- 	<li>Describe in your own words three assessment techniques most useful to your context. Choose from Silberman chapters 15/17 and the Angelo and Cross document of CATS. (1.5 pages double spaced)</li>
+ 	<li>Describe in your own words three assessment techniques most useful to your context. Choose from Silberman chapters 15/17 and the Angelo and Cross document of CATS. (One and a half pages, double spaced)</li>
 </ol>
 <strong> </strong>
 <ol start="4">
@@ -69,11 +69,11 @@ Ali, Jane Rukshana. (2017). Transformational Servant Leadership an essential com
 
 Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>. San Francisco, CA: Jossey-  Bass.Kirby, P.,
 
-Beiver, J., Martinez, I. &amp; Gomez, J. (2004). Adults returning to school: the impact of                    family and work. <em>The Journal of Psychology</em>, 138(1), 65-76.
+Beiver, J., Martinez, I. &amp; Gomez, J. (2004). Adults returning to school: the impact of family and work. <em>The Journal of Psychology</em>, 138(1), 65-76.
 
 Caron, S. (1994). Problems in encoding and retrieval in non-traditional students. <em>Educational Resources Information Centre</em>. Retrieved from <a href="http://files.eric.ed.gov/fulltext/ED368956.pdf">http://files.eric.ed.gov/fulltext/ED368956.pdf</a>
 
-Learning Disability Association of Canada. (2015). <em>Official definition of learning disabilities</em>.       Retrieved from <a href="http://www.ldac-acta.ca/learn-more/research/ldac-research?id=15">http://www.ldac-acta.ca/learn-more/research/ldac-research?id=15</a>
+Learning Disability Association of Canada. (2015). <em>Official definition of learning disabilities</em>. Retrieved from <a href="http://www.ldac-acta.ca/learn-more/research/ldac-research?id=15">http://www.ldac-acta.ca/learn-more/research/ldac-research?id=15</a>
 
 Lindstrom, G., Taylor, L &amp; Weleschuk, A. (2017). <a href="http://studentassessment.ucalgaryblogs.ca/files/2017/06/Guiding-Principles-for-Assessment-of-Student-Learning-FINAL.pdf"><em>Guiding Principles for Assessment</em></a>.  University of Calgary Taylor Institute for Teaching and Learning.
 
@@ -85,4 +85,4 @@ Silberman, M. L., &amp; Biech, E. (2015). Active training: A handbook of techniq
 
 Smith, C., Nichols, E &amp; Fiedorowicz, C. (1997). Adults with learning disabilities and assessment. <em>Learning Disability Association of Ontario</em>. Retrieved from http://<a href="http://www.ldao.ca">www.ldao.ca</a>
 
-Read Wang, C.X. (2017). Theory and Practice of Adult and Higher Education. Chapter 4
+Read Wang, C.X. (2017). Theory and Practice of Adult and Higher Education. Chapter 4.
