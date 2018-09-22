@@ -10,7 +10,7 @@ published: true
 post_date: 2018-01-20 19:49:01
 ---
 <h2>Blog Assignment (%)</h2>
-Write a blog commenting on three of the competencies of adult educators described in Adult Education Teacher Competencies.  What is significant about each of these?  What is going to be your top growth area or focus as you embark on refining your skill set in this field?  (This may be one of the three or a different competency.)
+Write a blog commenting on three of the competencies of adult educators described in Adult Education Teacher Competencies. What is significant about each of these?  What is going to be your top growth area or focus as you embark on refining your skill set in this field?  (This may be one of the three or a different competency.)
 
 &nbsp;
 
