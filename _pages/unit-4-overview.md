@@ -13,7 +13,7 @@ post_date: 2018-02-20 12:24:06
 <h2><strong>Overview</strong></h2>
 When planning a lesson, it is important to set clear learning targets in three areas: affective, cognitive and behavioral. Doing so provides learners with clarity of what is expected and also helps limit and focus the amount of material you will try to teach. Clear goals and objectives also help to manage, monitor and evaluate the training.
 
-Setting learning targets should happen with consideration of learners’ needs.  If possible, a pre-assessment is advisable, such as pre-tests or simple questions asked in class. Alternatively, try to find out about the general profile of the learners who will be in your class so that you can plan accordingly for relevant learning experiences. Once you have an idea of what the learners’ needs are and the content and skills that the organization desires to be addressed, you can set goals and objectives.  Setting the goals and objectives prior to designing the learning opportunities ensures more alignment and helps to avoid ‘activitizing’, that is, doing activities that are not connected to the learning outcomes because they are fun, you have the resources etc.
+Setting learning targets should happen with consideration of learners’ needs.  If possible, a pre-assessment is advisable, such as pre-tests or simple questions asked in class. Alternatively, try to find out about the general profile of the learners who will be in your class so that you can plan accordingly for relevant learning experiences. Once you have an idea of what the learners’ needs are and the content and skills that the organization desires to be addressed, you can set goals and objectives.  Setting the goals and objectives prior to designing the learning opportunities ensures more alignment and helps to avoid "activitizing," that is, doing activities that are not connected to the learning outcomes because they are fun, you have the resources etc.
 
 When writing goals and objectives there is a format to follow to ensure you are specific about what you want participants to learn and the results you want to achieve. The format you will learn and practice in this unit follows the <a href="https://www.smartsheet.com/blog/essential-guide-writing-smart-goals">SMART</a> OR SMARTER acronym, which we will discuss in Topic 1.
 
@@ -31,10 +31,10 @@ When writing goals and objectives there is a format to follow to ensure you are 
 
 When you have completed this unit you should be able to:
 <ul>
- 	<li>explain the importance of setting clear learning targets.</li>
- 	<li>write SMART goals</li>
- 	<li>write SMART objectives that align with the goal and focus of instruction</li>
- 	<li>Assess goals for ethical implications</li>
+ 	<li>Explain the importance of setting clear learning targets.</li>
+ 	<li>Write SMART goals.</li>
+ 	<li>Write SMART objectives that align with the goal and focus of instruction.</li>
+ 	<li>Assess goals for ethical implications.</li>
 </ul>
 &nbsp;
 
@@ -56,7 +56,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <ol>
  	<li><strong>Assessment:</strong> Write a Blog Post
 <ul>
- 	<li>Part A: Explain your goals for this course in SMART format</li>
+ 	<li>Part A: Explain your goals for this course in SMART format.</li>
  	<li>Part B: Write two objectives for each goal.</li>
  	<li>Part C: Describe an activity, exercise or learning moment that you have experienced that lead to more personal awareness, empowerment, higher self-esteem and personal significance.</li>
 </ul>
