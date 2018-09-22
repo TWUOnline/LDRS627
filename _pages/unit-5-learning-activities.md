@@ -69,18 +69,18 @@ Here are four good reasons to read journal articles (adapted from Chong, 2015):
 
 &nbsp;
 
-How does a grad student use critical thinking with peer-reviewed journals? If they have been ‘approved’ and published, how can a person ‘critique’ them? Isn’t that intellectually presumptuous?  These articles are written by experts in the field but when you read them, know that:
+How does a grad student use critical thinking with peer-reviewed journals? If they have been "approved" and published, how can a person "critique" them? Isn’t that intellectually presumptuous?  These articles are written by experts in the field but when you read them, know that:
 
 <ul>
-    <li>Authors make decisions about what to include</li>
-    <li>Authors contradict other authors</li>
-    <li>Authors neglect to mention information</li>
+    <li>Authors make decisions about what to include.</li>
+    <li>Authors contradict other authors.</li>
+    <li>Authors neglect to mention information.</li>
     <li>There are differences in their theoretical orientations, definitions, measurement strategies, and findings.</li>
     <li>Authors use information selectively and sometimes misleadingly.</li>
-    <li>Sometimes authors neglect to define terms</li>
-    <li>Sometimes there are ambiguities in terms</li>
-    <li>Sometimes articles define terms differently</li>
-    <li>Sometimes authors implicitly define terms</li>
+    <li>Sometimes authors neglect to define terms.</li>
+    <li>Sometimes there are ambiguities in terms.</li>
+    <li>Sometimes articles define terms differently.</li>
+    <li>Sometimes authors implicitly define terms.</li>
 </ul>
 
 &nbsp;
@@ -108,21 +108,21 @@ Use your critical thinking as you’re reading and ask:
 In order to get a good sense of a topic, the following recommended process inspired by the work of Chong (2015) and Goodson (2013) may be helpful:
 
 <ul>
-    <li>Do an initial search of recommended databases and find all the ‘hits’ from your key word searches. For example, go to the TWU Library Website and search for “Teaching in China”. See also the following document of <a href="http://create.twu.ca/ldrs627-su18/files/2018/06/U5_Databases-in-Education.docx">useful databases in Education</a>.</li>
+    <li>Do an initial search of recommended databases and find all the "hits" from your key word searches. For example, go to the TWU Library Website and search for “Teaching in China”. See also the following document of <a href="http://create.twu.ca/ldrs627-su18/files/2018/06/U5_Databases-in-Education.docx">useful databases in Education</a>.</li>
     <li>Read the abstracts of these hits and move the articles that have potential value to your research questions into a file on your computer.</li>
     <li>Now narrow down those articles to the top 12-15 articles most relevant to your research.</li>
     <li>Once you have about 12-15 good peer-reviewed articles, you are ready to read.</li>
     <li>Read all the articles and highlight relevant information, make notes in the margins etc. Look for themes, contradictions, and interesting quotes.</li>
-    <li>Once you’ve read all the articles, you can make a rough outline or plan for your paper and then start writing. your paper</li>
-    <li>Be careful not to over-quote, paraphrase and use your own thinking and ideas about how what the writers are saying applies to your particular context. To decide whether or not to quote, consider: If the words are strikingly original or express your key concepts so compellingly that the quotation can frame an extended discussion; if the passage states a view that you disagree with, and to be fair you want to quote it exactly; if the words are from an authority who backs up your claims. This is critical thinking!</li>
+    <li>Once you’ve read all the articles, you can make a rough outline or plan for your paper and then start writing your paper.</li>
+    <li>Be careful not to over-quote. Paraphrase and use your own thinking and ideas about how what the writers are saying applies to your particular context. To decide whether or not to quote, consider if the words are strikingly original or express your key concepts so compellingly that the quotation can frame an extended discussion; if the passage states a view that you disagree with, and to be fair you want to quote it exactly; if the words are from an authority who backs up your claims. This is critical thinking!</li>
     <li>Remember, critical thinking means that when you are writing your papers you are not merely reporting the related literature. You are expected to evaluate, organize, synthesize what others have done and also to think about the implications for your practice, in your context.</li>
 </ul>
 
 &nbsp;
 
-You learn critical thinking through the practice of thinking critically.  It is helpful to reflect on Brazilian philosopher, Rubem Alves (1979) comments that everything is interpretation:
+You learn critical thinking through the practice of thinking critically.  It is helpful to reflect on Brazilian philosopher, Rubem Alves (1979), who comments that everything is interpretation:
 
-“Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it (the world). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation” (cited in Goodson 2013, p.47).
+“Language functions as a mediation tool between humans and their world. As humans, we don’t contemplate reality face to face. Since birth, things in our world don’t come to us in their naked form, but always dressed up in the names our community has given them. This community has already defined how and what the world is like and, therefore, already knows it (the world). This knowledge of the world is crystallized in our language. Language, therefore, is not a copy of objects and facts. Language is always interpretation” (cited in Goodson 2013, p. 47).
 
 Eventually you will be able to engage in the demanding tasks of academic thinking and writing with less effortful analysis or deliberation. However, it is through the effort and struggle that you’ll improve so stay with it. Welcome to the academe!
 
@@ -164,9 +164,9 @@ Brookfield discusses three parts to a typical critical thinking sequence:
     <li>Critical Conversation Protocol</li>
 </ol>
 
-In your reading of Brookfield’s <em>Powerful techniques for teaching adults</em>, pay particular attention to p. 37 and the ‘disorienting dilemma’ or moving people beyond their ‘zone of proximal development’.  The effective adult educator is meant to create these moments of dissonance to lead the learner to new perspectives and learning. Think about how you can do this in the adult learning design you will create for your Lesson Assignment.
+In your reading of Brookfield’s <em>Powerful techniques for teaching adults</em>, pay particular attention to p. 37 and the "disorienting dilemma" or moving people beyond their "zone of proximal development."  The effective adult educator is meant to create these moments of dissonance to lead the learner to new perspectives and learning. Think about how you can do this in the adult learning design you will create for your Lesson Assignment.
 
-In regards to modelling critical thinking, Brookfield speaks to the significance of ‘spatial difference’: the act, by the instructor, of speaking from a different perspective when situated in a different area of the room.  Critical thinking encourages considering alternate perspectives than your own.  When the instructor engages in spatial difference, he or she is modeling taking in and taking on a perspective other than their own.
+In regards to modelling critical thinking, Brookfield speaks to the significance of "spatial difference:" the act, by the instructor, of speaking from a different perspective when situated in a different area of the room.  Critical thinking encourages considering alternate perspectives than your own.  When the instructor engages in spatial difference, he or she is modeling taking in and taking on a perspective other than their own.
 
 Wang (2017) outlines in chapter 5 how learning is socially constructed which corresponds beautifully with Silberman and the many methods suggested for adults to learn in collaboration.  In the MA Lead we have a Community of Practice whereby all alum and current students are invited to a learning event three times a year with the intention of sharing practice, learning from each other and building relationships.  Because all participants have communal understandings gathered from their participation in the program, they have shared stories and practices and a similar way of viewing the world within a social context.  An important concept in chapter 5 is that learning “is not merely influenced by social context… but shaped by the extent of participant engagement in practice” (p. 120).
 
@@ -176,7 +176,7 @@ Wang (2017) outlines in chapter 5 how learning is socially constructed which cor
 
 Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>. Chapter 2.
 
-Focus on the parts of a critical thinking sequence, the importance of a ‘disorienting dilemma’ and some of the strategies Brookfield recommends.  Take note of any ideas that you could use in your learning design assignment.
+Focus on the parts of a critical thinking sequence, the importance of a "disorienting dilemma" and some of the strategies Brookfield recommends.  Take note of any ideas that you could use in your learning design assignment.
 
 &nbsp;
 
@@ -199,7 +199,7 @@ Note what resonates for you.
 
 Read Wang, C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapters 5, 17.
 
-What theories of adult learning most resonate with you and why? If someone were to ask you ‘Upon what basis do you design your adult learning sessions?’ how would you answer?
+What theories of adult learning most resonate with you and why? If someone were to ask you "Upon what basis do you design your adult learning sessions?" how would you answer?
 
 <strong> </strong>
 
@@ -214,15 +214,15 @@ The design of this course is predicated on the following beliefs about adult lea
 <ol>
     <li>Adults are self-directed and self-motivated. This does not mean that adults learn in isolation but that they are in charge of their own learning and held accountable.</li>
     <li>Adults have prior experiences that are rich resources for learning. The adult learner integrates new learning into what they already know.</li>
-    <li>Adults appreciate the application of theory ‘in the real world’.</li>
+    <li>Adults appreciate the application of theory "in the real world."</li>
     <li>Adults are responsible for their own learning and exhibit behaviors of an individual ready and wanting to learn.</li>
-    <li>As an expert in the field, the instructor is a facilitator of learning – not a ‘sage on the stage’ but a ‘guide on the side’.</li>
+    <li>As an expert in the field, the instructor is a facilitator of learning – not a "sage on the stage" but a "guide on the side."</li>
     <li>Assignments are designed to challenge the learner, build upon concepts and encourage reflection on experience.</li>
     <li>Adults collaborate and support one another in their learning rather than compete. Everyone is capable of doing well.</li>
     <li>Self-reflection, dialogue, writing and collaborative small group work are essential in sense-making and learning. Rote memory and lecture are deemphasized.</li>
 </ol>
 
-Silberman and Biech (2015) outline many helpful adult learning methods. As Silberman says ‘Preparation is one of the most important ingredients for success’ (p. 207).  He goes on to explain how to gain credibility as a trainer by setting group norms, eliminating time wasters, being able to getting the group’s attention, winning over wary participants and managing difficult behaviors (p. 208).  More details and specific strategies are recommended in chapters 11-15.
+Silberman and Biech (2015) outline many helpful adult learning methods. As Silberman says, "Preparation is one of the most important ingredients for success" (p. 207).  He goes on to explain how to gain credibility as a trainer by setting group norms, eliminating time wasters, being able to getting the group’s attention, winning over wary participants and managing difficult behaviors (p. 208).  More details and specific strategies are recommended in chapters 11-15.
 
 &nbsp;
 
@@ -244,7 +244,7 @@ Read Silberman &amp; Biech (2015) chapters 11-15 and focus your attention on the
 
 <h2>Activity 5.7: Blog Assignment</h2>
 
-Write a blog post on the following:  Consider Brookfield and Silberman and discuss how you can build adult education learning experiences that would assist participants to think deeply through a question, issue or problem.  Keeping in mind Wang’s assertion that learning “is not merely influenced by social context… but shaped by the extent of participant engagement in practice” (p. 120), be more practical than theoretical in your response; include illustrative examples of adult learning techniques representing 3 of the 8 principles of adult learning listed above.
+Write a blog post on the following:  Consider Brookfield and Silberman and discuss how you can build adult education learning experiences that would assist participants to think deeply through a question, issue or problem.  Keeping in mind Wang’s assertion that learning “is not merely influenced by social context… but shaped by the extent of participant engagement in practice” (p. 120), be more practical than theoretical in your response; include illustrative examples of adult learning techniques representing three of the eight principles of adult learning listed above.
 
 &nbsp;
 
