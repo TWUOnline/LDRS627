@@ -24,7 +24,7 @@ Use the resources listed in this unit to answer the following questions.  Be co
 <ul>
  	<li>encourage group norms,</li>
  	<li>avoid wasting time,</li>
- 	<li>to win participants over and</li>
+ 	<li>to win participants over, and</li>
  	<li>prevent problem behaviours.</li>
 </ul>
 &nbsp;
@@ -45,12 +45,12 @@ Use the resources listed in this unit to answer the following questions.  Be co
 </ol>
 &nbsp;
 <ol start="6">
- 	<li>Choose one of the following chapters from the Wang (2017): 1, 6, 7 or 15 and write</li>
+ 	<li>Choose one of chapters 1, 6, 7 or 15 from the Wang (2017), and write</li>
 </ol>
 &nbsp;
 <ol>
- 	<li>a 200 word maximum precis (synthesis) on the main concepts discussed.</li>
- 	<li>A 100 word maximum personal response to the ideas presented.</li>
+ 	<li>a 200-word maximum precis (synthesis) on the main concepts discussed.</li>
+ 	<li>A 100-word maximum personal response to the ideas presented.</li>
 </ol>
 &nbsp;
 <h1>Unit Summary</h1>
@@ -60,10 +60,10 @@ In this unit, you have had the opportunity to learn about the role of the adult 
 <h1>Checking your Learning</h1>
 Use the learning outcomes for this unit as a checklist of understanding before you move to the next unit.  Can you:
 <ul>
- 	<li>articulate what intellectual humility is and its significance to adult learning?</li>
- 	<li>choose strategies for your context that will create  a safe, enjoyable, effective and democratic learning environment?</li>
- 	<li>demonstrate cultural competency and describe specific methods for incorporating  varied perspectives?</li>
- 	<li>explain authentic individualism and how one can see unity in diversity?</li>
+ 	<li>Articulate what intellectual humility is and its significance to adult learning?</li>
+ 	<li>Choose strategies for your context that will create  a safe, enjoyable, effective and democratic learning environment?</li>
+ 	<li>Demonstrate cultural competency and describe specific methods for incorporating  varied perspectives?</li>
+ 	<li>Explain authentic individualism and how one can see unity in diversity?</li>
 </ul>
 &nbsp;
 <h1>Resources</h1>
@@ -87,4 +87,4 @@ Taylor, C. (2007). <em>A Secular Age</em>. Cambridge, Massachusetts and London E
 
 Vanier, J. (1989). <em>Community and Growth</em>. New York: Paulist Press.
 
-Wang,C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 1, 6, 7 and 15
+Wang, C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 1, 6, 7 and 15

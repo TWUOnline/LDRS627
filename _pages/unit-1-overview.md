@@ -20,7 +20,9 @@ In this first unit, you are asked to read two articles and a section of our main
 
 The Silberman pages introduce the practice of active training, which is a powerful method of adult learning we will explore during the course. In this methodology, participants are actively engaged in acquiring knowledge and skill while the educator is a skilled facilitator of learning. We will also discuss the rationale for active engagement techniques and will gain more specific information about individual techniques throughout the course. As you go through the learning activities for this unit, you may find it helpful to take a look at the Reading Response questions posted in Unit 2 so you can read with these in mind, and, possibly answer the questions concurrently as you read. This unit also involves viewing several videos about the Teachers’ Perspectives Inventory. These will help you critically reflect on your own results. Therefore, it is important to complete the survey prior to viewing the videos.
 
+
 One more note I'd like to emphasize is to please follow the suggested "due dates." The due dates in this course are meant to "chunk" the course into manageable parts so that you are successful. Feel free to ‘go ahead’ but please don’t get behind. Sometimes life throws us "curve balls" so to speak and we might need to take a day away from the course, but please do your best to catch up the very next day. In an asynchronous environment it behooves us all to manage our time so that posts are up on time and ready to be responded to. This will avoid frustration for everyone!
+
 
 &nbsp;
 <h2>Learning Cafe</h2>

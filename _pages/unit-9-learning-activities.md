@@ -24,7 +24,7 @@ Frye, S., Taylor, J. &amp; Stafford, A. in Wang emphasize the importance of pass
 
 Passion is not passive; passion leans forward with its face in the wind. Passion is passed through to practice in the form of energy and motion. Passion is not monotone; passion is not motionless. Passion does not stand behind a lectern or sit in a chair. In fact, passion doesn’t stand still much at all. (340)
 
-One way of planning to communicate your passion is to create an ‘elevator speech’ about your course or learning session.  Introduce the topic, give one or two ‘did you know ‘statements (surprising facts), ask your participants to imagine a preferred future and ‘sell’ the course as a step to creating this preferred future. Then make it interactive and ask for their ideas.  Here is a TedTalk <a href="https://youtu.be/Xlg8zdSVjgg">video</a> about how to communicate your passion and create intrigue in a structured and intentional way.  I tried it at an important meeting recently and it worked marvelously!
+One way of planning to communicate your passion is to create an "elevator speech" about your course or learning session.  Introduce the topic, give one or two ‘did you know ‘statements (surprising facts), ask your participants to imagine a preferred future and "sell" the course as a step to creating this preferred future. Then make it interactive and ask for their ideas.  Here is a TedTalk <a href="https://youtu.be/Xlg8zdSVjgg">video</a> about how to communicate your passion and create intrigue in a structured and intentional way.  I tried it at an important meeting recently and it worked marvelously!
 
 &nbsp;
 
@@ -39,7 +39,7 @@ When reading these chapters, take note of the strategies that most resonate with
 
 &nbsp;
 <h3>Activity 9.2: Video and Elevator Speech</h3>
-After watching the following TedTalk <a href="https://www.youtube.com/watch?v=Xlg8zdSVjgg&amp;feature=youtu.be">video,</a> create your own ‘elevator speech’ about something you are passionate about.  If you like, post it to the <strong>Learning Café </strong>for this week so that we can all learn a bit more about one another.
+After watching the following TedTalk <a href="https://www.youtube.com/watch?v=Xlg8zdSVjgg&amp;feature=youtu.be">video,</a> create your own "elevator speech" about something you are passionate about.  If you like, post it to the <strong>Learning Café </strong>for this week so that we can all learn a bit more about one another.
 
 <strong> </strong>
 
@@ -47,11 +47,11 @@ After watching the following TedTalk <a href="https://www.youtube.com/watch?v=Xl
 <h1>Topic 2: Designing Active Learning Opportunities</h1>
 <strong>Introduction</strong>
 
-The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content.  This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose.  Avoid the trap of many beginning educators who focus more on ‘activitizing’ rather than aligning learning opportunities to objectives and assessment.  <strong>     </strong>
+The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content.  This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose.  Avoid the trap of many beginning educators who focus more on "activitizing" rather than aligning learning opportunities to objectives and assessment.  <strong>     </strong>
 
-There are many chapters to read this week from Silberman. It’s not heavy reading as the book is a handbook, so you’ll find yourself reading quickly through the eclectic mix of ideas, case studies and best practices. It’s very practical reading and I’m sure you’ll find much that is applicable to your work setting and much to reflect upon how to integrate into your current practice. It’s okay to bounce around the text and read what strikes you as relevant. Yes, it’s okay to ‘skim’!
+There are many chapters to read this week from Silberman. It’s not heavy reading as the book is a handbook, so you’ll find yourself reading quickly through the eclectic mix of ideas, case studies and best practices. It’s very practical reading and I’m sure you’ll find much that is applicable to your work setting and much to reflect upon how to integrate into your current practice. It’s okay to bounce around the text and read what strikes you as relevant. Yes, it’s okay to "skim!"
 
-The delivery of a program involves adjusting, refining and redesigning. It’s about fitting the content to the participants – their questions, their needs, their mood even. Some things you can’t define in advance so you have to have a bit of a ‘bag of tricks’ to draw from to suit the situation. This all takes a lot of advance planning. As Silberman says ‘Preparation is one of the most important ingredients for success’ (p. 207).
+The delivery of a program involves adjusting, refining and redesigning. It’s about fitting the content to the participants – their questions, their needs, their mood even. Some things you can’t define in advance so you have to have a bit of a "bag of tricks" to draw from to suit the situation. This all takes a lot of advance planning. As Silberman says, "Preparation is one of the most important ingredients for success" (p. 207).
 
 As you consider how the strategies and technologies presented by Silberman may relate to your context, also consider the bigger picture of education that involves a vision where educators and students alike become agents of transformation. How might you as an educator reflect this vision of faith and hope? How might the strategies and techniques you choose to design your learning opportunities convey this message of hope?
 
@@ -59,11 +59,11 @@ As you consider how the strategies and technologies presented by Silberman may r
 <h3>Activity 9.3 Reading</h3>
 Skim these chapters and read what is interesting and useful to your practice and context. Note anything of relevance to your learning design assignment.
 
-Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.)</em>. Hoboken, New Jersey: John Wiley &amp; Sons  (Chaps 7, 8, 9, 10)
+Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.)</em>. Hoboken, New Jersey: John Wiley &amp; Sons  (Chapters 7, 8, 9, 10)
 
 <strong> </strong>
 <h3>Activity 9.4: Draft Review</h3>
-Look at your draft learning design assignment and ensure that you have included creative design of learning opportunities.  Consider the time allotted, buy-in, key points and instructions, materials, physical setting, sequencing and ending.  Would integrating technology enhance the learning design (See considerations in Silberman pgs 226-227)?
+Look at your draft learning design assignment and ensure that you have included creative design of learning opportunities.  Consider the time allotted, buy-in, key points and instructions, materials, physical setting, sequencing and ending.  Would integrating technology enhance the learning design? (See considerations in Silberman pp. 226-227.)
 
 <strong>[Reminder for Kelly to check where this assignment is introduced, and whether we need more details here)</strong>
 
@@ -73,11 +73,11 @@ Look at your draft learning design assignment and ensure that you have included 
 
 Just for a laugh, view <a href="https://youtu.be/uhiCFdWeQfA">this video</a> about how NOT to present or facilitate discussion. ("Anyone, anyone” teacher from <em>Ferris Bueller’s Day Off</em>)
 
-Discussions don’t happen ‘on the fly’ and it’s not enough to write in your lesson plan ‘have a discussion about…’.  You need to think about how you will involve all learners, how to create a safe environment where agreeing to disagree is possible, how the discussion will proceed to avoid bias, exchange of misinformation or inaccurate facts.  Giving voice to adults in an academic environment relates to Academic Freedom.  You may be interested in <a href="https://www.twu.ca/academic-freedom-trinity-western-university">TWU’s website for Academic Freedom (AF)</a>. There you will find the statement as well as a Discussion paper.
+Discussions don’t happen "on the fly" and it’s not enough to write in your lesson plan "have a discussion about…."  You need to think about how you will involve all learners, how to create a safe environment where agreeing to disagree is possible, how the discussion will proceed to avoid bias, exchange of misinformation or inaccurate facts.  Giving voice to adults in an academic environment relates to Academic Freedom.  You may be interested in <a href="https://www.twu.ca/academic-freedom-trinity-western-university">TWU’s website for Academic Freedom (AF)</a>. There you will find the statement as well as a Discussion paper.
 
-Brookfield explains power differences among students and how these manifest in the class. It can certainly be a challenge for educators to promote participation in as democratic a manner as possible. Adult educators need to emphasize with learners that it’s not about speaking out as often as possible to impress the teacher. On the contrary, the goal is group creation of knowledge through discussion. Brookfield admonishes readers to remember that ‘the most important part of participation is listening, not talking’ and that ‘a good discussion participant is someone who links contributions, asks questions of others, builds on comments, and raises questions’ (p. 71). Several interesting and worthwhile facilitation techniques are described in Brookfield’s chapter 3, and in depth in his book: Brookfield, Stephen and Preskill, S. (2016). <em>The Discussion Book: 50 Great Ways to Get People Talking</em>. San Francisco: Jossey Bass.
+Brookfield explains power differences among students and how these manifest in the class. It can certainly be a challenge for educators to promote participation in as democratic a manner as possible. Adult educators need to emphasize with learners that it’s not about speaking out as often as possible to impress the teacher. On the contrary, the goal is group creation of knowledge through discussion. Brookfield admonishes readers to remember that "the most important part of participation is listening, not talking" and that "a good discussion participant is someone who links contributions, asks questions of others, builds on comments, and raises questions" (p. 71). Several interesting and worthwhile facilitation techniques are described in Brookfield’s chapter 3, and in depth in his book: Brookfield, Stephen and Preskill, S. (2016). <em>The Discussion Book: 50 Great Ways to Get People Talking</em>. San Francisco: Jossey Bass.
 
-‘Preparation is one of the most important ingredients for success’ (Silberman, p. 207). Keep in mind his advice that planning is not (only) about you – it’s about the participants! He suggests that the first time you present content – use the expertise of the group; keep track of questions on a ‘Parking Lot’. When you’ve given a session many times, it’s important to keep your enthusiasm, be flexible, change it up (be creative!), establish rapport with participants and learn from others.
+"Preparation is one of the most important ingredients for success" (Silberman, p. 207). Keep in mind his advice that planning is not (only) about you – it’s about the participants! He suggests that the first time you present content – use the expertise of the group; keep track of questions on a "Parking Lot." When you’ve given a session many times, it’s important to keep your enthusiasm, be flexible, change it up (be creative!), establish rapport with participants and learn from others.
 
 Facilitating discussion is a key skill of the adult educator and giving voice to the adult learner is one of the most important aspects for an adult educator to consider. Getting learners involved in the topic and having the confidence to speak in class and share their ideas whether through discussions or presentations, are essential elements of adult education. If you are strategic about planning discussion, your learners will be more involved and perceive you to be fair.  Your effectiveness as an adult educator will be greatly enhanced.
 
@@ -88,7 +88,7 @@ Facilitating discussion is a key skill of the adult educator and giving voice to
  	<li>Read Chapter 3 of Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>.</li>
  	<li>Skim read Brookfield, Stephen and Preskill, S. (2016). <em>The Discussion Book: 50 Great Ways to Get People Talking.</em> San Francisco: Jossey Bass.  This is a very accessible manual that collects the best techniques to start discussion, keep it going and stay focused. Depending on what your role and context are, you will choose techniques accordingly.  The book doesn’t have traditional chapters per se but a listing of fifty techniques fully explained.  Check out the user guide on pages xiii-xvii to help you choose techniques for your situation.</li>
 </ol>
-In the Brookfield <a href="http://youtu.be/Y8umk4w8kB8%20%20Critical%20Thinking">video</a> you viewed in week 5 and considering this week's reading, write a blog post on the following: how do Brookfield and Silberman advise instructors to challenge student assumptions and model the exploration of alternative perspectives?
+In the Brookfield <a href="http://youtu.be/Y8umk4w8kB8%20%20Critical%20Thinking">video</a> you viewed in week 5 and considering this week's reading, write a blog post on the following: How do Brookfield and Silberman advise instructors to challenge student assumptions and model the exploration of alternative perspectives?
 
 <strong> </strong>
 <h3>Activity 9.6: KWL Chart</h3>
@@ -97,8 +97,8 @@ Add your final thoughts to the KWL chart <strong>[insert link to chart]</strong
 &nbsp;
 <h3>Activity 9.7: Peer Review</h3>
 <ol>
- 	<li>Post a draft your Adult Lesson Design assignment for peer review. Peer review pairing will be given in advance.</li>
- 	<li>Respond to your assigned colleague’s draft adult lesson design.</li>
+ 	<li>Post a draft of your Adult Lesson Design assignment for peer review. Peer review pairing will be given in advance.</li>
+ 	<li>Respond to your assigned colleague’s draft Adult Lesson Design.</li>
 </ol>
 Your peer review should be collegial and address issues like grammar and structure as well as the quality of arguments and evidence presented in the paper. Use the rubric as a guide and give suggestions accordingly.
 
@@ -115,7 +115,7 @@ Remember these important phrases: “I notice….” and “I wonder….”.
 
 &nbsp;
 <h1>Unit Summary</h1>
-In this unit, you have had the opportunity to learn about some of the ‘nuts and bolts’ of designing learning opportunities for adults.  You focused on opening exercises, how to facilitate the learning of content through engaging activities and how to facilitate content through discussion and presentations.
+In this unit, you have had the opportunity to learn about some of the "nuts and bolts" of designing learning opportunities for adults.  You focused on opening exercises, how to facilitate the learning of content through engaging activities and how to facilitate content through discussion and presentations.
 
 &nbsp;
 

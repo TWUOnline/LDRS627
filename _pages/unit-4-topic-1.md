@@ -12,7 +12,7 @@ post_date: 2018-03-14 12:03:11
 <h2><strong>Assessment</strong></h2>
 <h3>Assignment: Blog Post</h3>
 <ul>
- 	<li><strong>Part A:</strong> In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course. Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.</li>
+ 	<li><strong>Part A:</strong> In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course. Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the "SMARTness" of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.</li>
  	<li><strong>Part B: </strong>In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write two objectives for each goal. Comment on how writing clear objectives might encourage individual progress monitoring.</li>
  	<li><strong>Part C:</strong> Describe an activity, exercise or learning moment that you have experienced that lead to more personal awareness, empowerment, higher self-esteem and personal significance.</li>
 </ul>
@@ -28,13 +28,13 @@ Keller’s ARCS model of motivational design of instruction notes four component
 
 &nbsp;
 
-<strong>Silberman Chapter 4 Preparing Brain-Friendly Presentations and Wang Chapter 11 What Neuroscience Has to Say About the Brain and Learning</strong>
+<strong>Silberman, Chapter 4, "Preparing Brain-Friendly Presentations," and Wang, Chapter 11, "What Neuroscience Has to Say About the Brain and Learning"</strong>
 <ol start="2">
- 	<li>Lecturing is efficient in conveying information but ‘will never lead to real learning’ unless the instructor works to involve participants. Looking at the suggestions in this chapter, choose three ways to enhance lecturing and describe them with examples from your context.</li>
+ 	<li>Lecturing is efficient in conveying information but "will never lead to real learning" unless the instructor works to involve participants. Looking at the suggestions in this chapter, choose three ways to enhance lecturing and describe them with examples from your context.</li>
 </ol>
 &nbsp;
 
-<strong>Wang Chapter 12 Building a Culture of Competers by Understanding the Etiology of Adult Learning Deficits pages 311-319.</strong>
+<strong>Wang, Chapter 12, "Building a Culture of Competers by Understanding the Etiology of Adult Learning Deficits," pages 311-319.</strong>
 <ol start="3">
  	<li>What are the effects of poverty and trauma on adult learning? What kinds of transformational learning supports and environments are most conducive for learners who have experienced poverty and/or trauma?</li>
 </ol>

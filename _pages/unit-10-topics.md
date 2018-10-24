@@ -27,25 +27,25 @@ post_date: 2018-03-14 12:03:11
 
 <strong>Introduction</strong>
 
-Brookfield addresses teaching using the creative arts in chapter 7. As a graduate student you can relate to the idea of ‘living in your head’. Think about ways to incorporate other expressions beyond the linguistic into your life. “What art offers us is a chance of breaking with the familiar, of inducing in us an awareness of other ways of being in the world” (p. 187). Art encourages us to slow down, take a deep breath and use our senses to really appreciate the amazing world that we have around us.
+Brookfield addresses teaching using the creative arts in chapter 7. As a graduate student you can relate to the idea of "living in your head." Think about ways to incorporate other expressions beyond the linguistic into your life. “What art offers us is a chance of breaking with the familiar, of inducing in us an awareness of other ways of being in the world” (p. 187). Art encourages us to slow down, take a deep breath and use our senses to really appreciate the amazing world that we have around us.
 
 I have been fortunate to visit several wonderful art galleries in beautiful cities around the world. In these places I find myself surrounded by beauty, both natural and human-made. The experience for me is the epitome of using the senses to capture artistry in its highest form. Our own Vancouver Art Gallery is surrounded by a city close to mountains and beaches. The architecture in the city is also stunning. I hope you have had the opportunity to enjoy create arts in many forms and let this infuse your inspiration as you design learning opportunities.
 
 Committing to beauty is perhaps an unusual call to action for adult educators, but it can be an effective tool. “Beauty appeals to what is good in us”<a href="#_edn1" name="_ednref1">[i]</a>– not manufactured or superficial beauty focused on the self, but a natural or created beauty that inspires to innovation, creativity, love, generosity, sacrifice and selflessness.  An adult educator can empower and inspire motivation for a common good or shared vision through beauty in language (speech, poetry, literature), the visual and performing arts, music, prayer and ritual.  There is power in art, music, literature and nature that leads to wonder and gives us a clearer vision into the depths of reality.  Those who experience them can become moved towards unity, fullness and community.
 
-Here are a few ways you could incorporate the aesthetic into your training even if, like me, you don't consider yourself particularly 'artistic':
+Here are a few ways you could incorporate the aesthetic into your training even if, like me, you don't consider yourself particularly "artistic:"
 <ul>
  	<li>Play music as students enter the room to set the tone; experiment with various genres of music.</li>
  	<li>Display an image of a photograph or art piece and ask students to connect the topic of the lesson to it metaphorically.</li>
  	<li>Use image association: say a word related to the lesson and ask what image comes to students' minds.</li>
  	<li>Ask students to create a collage using magazine pictures, online images or small objects.</li>
- 	<li>Create a group collage or 'quilt'. Gather the individual collages onto a common black background.</li>
+ 	<li>Create a group collage or "quilt." Gather the individual collages onto a common black background.</li>
  	<li>Ask students to create found poems summarizing their understanding of the material. Found poetry weaves selected words and phrases from research reports into poetry</li>
  	<li>Incorporate role play or theater.</li>
  	<li>Ask students to take pictures that evoke for them one or more of the concepts studied. These can be made into a slideshow for presentation.</li>
 </ul>
 <h2>Activity 10.1: Reading</h2>
-Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>. (Ch.7)
+Read Brookfield, S. (2013). <em>Powerful techniques for teaching adults</em>. (Ch. 7)
 
 In your notes, jot down other ways could you incorporate the aesthetic into your training.
 
@@ -67,7 +67,7 @@ I would like to share with you a quote related to this week’s theme of team le
 
 “Life needs to link with other life, to form relationships where all individuals are better supported by the system they have created. It is impossible to look at the natural world and find an individual…Everywhere we look, we see complex, tangled, messy webs of relationships. From these relationships, life creates systems that offer greater stability and support than life lived alone. Organisms shape themselves in response to their neighbors and their environments. All respond to one another, coevolving and co-creating the complex systems of organization that we see in nature. Life is systems-seeking. It seeks organization. Organization is a naturally occurring phenomenon. Self-organization is a powerful force that creates systems we observe and that testifies to a world that knows how to organize from the inside out. (Quoted in Spears, 1997, <a href="https://www.wiley.com/en-us/Insights+on+Leadership%3A+Service%2C+Stewardship%2C+Spirit%2C+and+Servant+Leadership-p-9780471176343"><em>Insights on Leadership: Service, Stewardship, Spirit, and Servant-Leadership</em></a>. New York, NY: John Wiley &amp; Sons. pp. 346-47)
 
-This emphasis on relationships and interdependence in the natural world relates to the arena of adult education since it focuses on processes that empower people and bring us together in positive relationship. Educating is not about ‘lording it over’ others, seeking greatness or power. Rather it is about developing others to be the best they can be, relating to them as individuals with dignity, caring enough to prepare and deliver competently according to need and without discrimination.
+This emphasis on relationships and interdependence in the natural world relates to the arena of adult education since it focuses on processes that empower people and bring us together in positive relationship. Educating is not about "lording it over" others, seeking greatness or power. Rather it is about developing others to be the best they can be, relating to them as individuals with dignity, caring enough to prepare and deliver competently according to need and without discrimination.
 
 <strong> </strong>
 <h2>Activity 10.3: Reading</h2>

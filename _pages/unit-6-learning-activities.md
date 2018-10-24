@@ -16,14 +16,14 @@ As mentioned in the introduction to the unit, assessment can be summative or for
 
 What does formative assessment look like in an adult education setting?
 <ul>
- 	<li>Instructors frequently pause for questions or informally collect information during instruction</li>
- 	<li>There is collaboration between the instructor and the learner</li>
- 	<li>Feedback system is learner-centered and specific</li>
- 	<li>Meta-cognitive strategies are favoured so that learners can tell when a strategy is not working and plan new approaches</li>
- 	<li>Scoring rubrics are used so that expectations are transparent and learners understand how to improve</li>
- 	<li>A lot of questions are asked and the ’Big Question’ (read: Essential, Global, Enduring) approach for lesson design is frequently followed</li>
- 	<li>Respect is promoted as is a climate free from embarrassment</li>
- 	<li>Risk-taking and the freedom to make mistakes are promoted</li>
+ 	<li>Instructors frequently pause for questions or informally collect information during instruction.</li>
+ 	<li>There is collaboration between the instructor and the learner.</li>
+ 	<li>Feedback system is learner-centered and specific.</li>
+ 	<li>Meta-cognitive strategies are favoured so that learners can tell when a strategy is not working and plan new approaches.</li>
+ 	<li>Scoring rubrics are used so that expectations are transparent and learners understand how to improve.</li>
+ 	<li>A lot of questions are asked and the "Big Question" (read: Essential, Global, Enduring) approach for lesson design is frequently followed</li>
+ 	<li>Respect is promoted as is a climate free from embarrassment.</li>
+ 	<li>Risk-taking and the freedom to make mistakes are promoted.</li>
 </ul>
 <strong> </strong>
 
@@ -33,7 +33,7 @@ Consider the <a href="https://www.criticalthinking.org/ctmodel/logic-model1.htm"
 <ul>
  	<li>Ask good questions – take your specific objectives for the lesson and create questions using the elements as prompts.</li>
  	<li>Group discussion – give students the elements and ask them to use them to analyze a reading or video.</li>
- 	<li>Teach how to come up with a thesis statement using the elements.  Take the topic and go around the circle asking each participant to create a statement from one of the prompts associated with the elements.  At the end, you will end up with as many statements as there are participants.  Help students work with the statements, combining them etc. to make their thesis statement. This process facilitates sharp thinking and helps to focus students.</li>
+ 	<li>Teach how to come up with a thesis statement using the elements.  Take the topic and go around the circle asking each participant to create a statement from one of the prompts associated with the elements.  At the end, you will end up with as many statements as there are participants.  Help students work with the statements, combining them, etc. to make their thesis statement. This process facilitates sharp thinking and helps to focus students.</li>
  	<li>Use the elements as an outline to help students writing in a more disciplined way about a topic.</li>
 </ul>
 &nbsp;
@@ -93,8 +93,8 @@ There are barriers to adult learning that you should keep in mind as you plan yo
 <h3><u>Culture</u></h3>
 <ul>
  	<li>There are many aspects of culture which may impact an adult learner, including family, work, community, and faith.</li>
- 	<li>Faith, for example, can be a barrier when a religious group does not allow certain groups members to have an education (e.g. in certain sects of the Islamic faith governed by Sharia law, women are not given the opportunity to educate themselves.)</li>
- 	<li>Family and work also impact adult learners. Students often feel stressed and are busy or tired at work as a result of attending school (Kirby et al, 2004, p. 73)</li>
+ 	<li>Faith, for example, can be a barrier when a religious group does not allow certain groups members to have an education (e.g., in certain sects of the Islamic faith governed by Sharia law, women are not given the opportunity to educate themselves.)</li>
+ 	<li>Family and work also impact adult learners. Students often feel stressed and are busy or tired at work as a result of attending school (Kirby et al, 2004, p. 73).</li>
 </ul>
 <strong><em>Strategies for Assessment</em></strong>
 <ul>
@@ -105,7 +105,7 @@ There are barriers to adult learning that you should keep in mind as you plan yo
 <ul>
  	<li>There are many adult learners with insufficient proficiency in English including native and non-native speakers.</li>
  	<li><em>English Language Learning (ELL)</em> is defined as the teaching of English to people who speak a different language and who, presently, live in a country where English is the main language spoken. However, <em>ELL</em> learners may speak the English language well but may lack the academic nuances in writing and reading skills.</li>
- 	<li>Native English speakers may also struggle with academic English: “non-traditional students who are returning to school after long periods of being out of the academic mode, skills needed for academic survival must be reviewed and polished” (Caron, 1994, p. 11).</li>
+ 	<li>Native English speakers may also struggle with academic English: [for] “non-traditional students who are returning to school after long periods of being out of the academic mode, skills needed for academic survival must be reviewed and polished” (Caron, 1994, p. 11).</li>
 </ul>
 <strong><em>Strategies for Assessment</em></strong>
 <ul>
@@ -115,7 +115,7 @@ There are barriers to adult learning that you should keep in mind as you plan yo
  	<li>Refer students to the <a href="https://www.twu.ca/student-life/student-success/writing-centre">TWU Writing Centre</a></li>
 </ul>
 <h3>Activity 6.4: Reading</h3>
-Read Wang, C.X. (2017). Theory and Practice of Adult and Higher Education. Chapter 4
+Read Wang, C.X. (2017). Theory and Practice of Adult and Higher Education. Chapter 4.
 
 You may have read this for unit 4 but refresh your memory by going over your notes. Focus on the barriers to adult learning and how these impact assessment.
 
@@ -127,15 +127,15 @@ You may have read this for unit 4 but refresh your memory by going over your not
 
 <strong>Reading Response questions </strong>
 <ol>
- 	<li>Thinking about your context and the learning design for your assignment, which of the ways to conclude an active training program (Silberman chapter 15) would most appeal or be most suitable? Why? (1 page double spaced)</li>
+ 	<li>Thinking about your context and the learning design for your assignment, which of the ways to conclude an active training program (Silberman chapter 15) would most appeal or be most suitable? Why? (1 page, double spaced)</li>
 </ol>
 &nbsp;
 <ol start="2">
- 	<li>Thinking about your context and the learning design for your assignment, how do you plan to measure results according to objective identified (Silberman chapter 17)? (.5-1 page double spaced)</li>
+ 	<li>Thinking about your context and the learning design for your assignment, how do you plan to measure results according to objective identified (Silberman chapter 17)? (One-half to 1 page, double spaced)</li>
 </ol>
 &nbsp;
 <ol start="3">
- 	<li>Describe in your own words three assessment techniques most useful to your context. Choose from Silberman chapters 15/17 and the Angelo and Cross document of CATS. (1.5 pages double spaced)</li>
+ 	<li>Describe in your own words three assessment techniques most useful to your context. Choose from Silberman chapters 15/17 and the Angelo and Cross document of CATS. (One and a half pages, double spaced)</li>
 </ol>
 <strong> </strong>
 <ol start="4">
@@ -145,4 +145,4 @@ You may have read this for unit 4 but refresh your memory by going over your not
 
 <strong>Unit Summary</strong>
 
-In this unit, you have had the opportunity to learn about classroom assessment techniques and barriers to adult learning.  Hopefully the resources provided will give you enough information about basic assessment practices so that you better equipped to discern whether what you intended to teach your students have actually learned!
+In this unit, you have had the opportunity to learn about classroom assessment techniques and barriers to adult learning.  Hopefully the resources provided will give you enough information about basic assessment practices so that you better equipped to discern whether your students have actually learned what you intended to teach!

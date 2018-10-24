@@ -14,9 +14,9 @@ In the Brookfield <a href="http://youtu.be/Y8umk4w8kB8%20%20Critical%20Thinking"
 
 <strong> </strong>
 <h2>Assignment: Adult Lesson Design - Peer Review</h2>
-Post a draft your Adult Lesson Design assignment for peer review .
+Post a draft of your Adult Lesson Design assignment for peer review .
 
-Respond to your assigned colleague’s draft adult lesson design
+Respond to your assigned colleague’s Draft Adult Lesson design.
 
 Peer review pairing will be given in advance.
 

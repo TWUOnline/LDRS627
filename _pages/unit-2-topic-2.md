@@ -13,7 +13,7 @@ post_date: 2018-03-14 12:03:11
 <h3>Part A</h3>
 Write 300 words (approximately) on the following:
 <p style="padding-left: 30px;">a) Define critical transformational learning in your own words.</p>
-<p style="padding-left: 30px;">b) How can you as an adult education foster critical transformative learning in your context?</p>
+<p style="padding-left: 30px;">b) How can you as an adult educator foster critical transformative learning in your context?</p>
 
 <h3>Part B</h3>
 <ol>
@@ -40,14 +40,14 @@ Sandlin article:
 Silberman text:
 <ol>
  	<li>What is the difference between covering material and discovering material? Explain how the methods differ in each approach and why the distinction is significant.</li>
- 	<li>Comment on this quote from Eric Jensen, author of <em>Brain Based Learning</em> cited in Silberman p. 5 “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.</li>
+ 	<li>Comment on this quote from Eric Jensen, author of <em>Brain Based Learning</em> cited in Silberman p. 5: “The traditional stand and delivery approach is antagonistic. The brain is not very god at absorbing countless bits of semantic (factual) information”.</li>
 </ol>
 Brookfield text:
 <ol>
  	<li>What are three connotations of power? Why is this information helpful to you as an adult educator?</li>
  	<li>What is Brookfield’s simple definition of what teaching is. Comment on the significance of it.</li>
  	<li>What four methods make teaching adults distinctive?</li>
- 	<li>Based on Brookfield’s definition (ch. 4 pgs 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.</li>
+ 	<li>Based on Brookfield’s definition (ch. 4 pp. 90-95), describe a self-directed learning project you have done and how it made a difference to your self-confidence and understanding of yourself.</li>
 </ol>
 &nbsp;
 <h4>Grading Criteria</h4>
@@ -57,7 +57,7 @@ The following rubric will be used to assess your responses in this unit. <span s
 <h2>Checking your Learning</h2>
 Use the learning outcomes for this unit as a checklist of understanding before moving on to the next unit.
 <ul>
- 	<li>Can your define critical transformational learning and its elements in your own words?</li>
+ 	<li>Can you define critical transformational learning and its elements in your own words?</li>
  	<li>Can you describe two or three methods used to empower people for quality improvement?</li>
  	<li>Can you explain the difference between pedagogy and andragogy?</li>
  	<li>Are you able to collect data to inform instructional decisions and planning?</li>
