@@ -11,7 +11,7 @@ post_date: 2018-02-20 19:05:14
 ---
 For all Units:
 <ul>
- 	<li>Add rubrics to assessments (eg. Link to common blog rubric plugin)</li>
+ 	<li>Add rubrics to assessments (eg., Link to common blog rubric plugin)</li>
  	<li>Make activity checklist into a checklist</li>
  	<li>Format titles, resources, bullet lists</li>
  	<li>Separate units into 1) overview, checklist 2) topics and activities 3) assessment</li>
