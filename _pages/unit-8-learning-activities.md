@@ -12,9 +12,9 @@ post_date: 2018-01-20 19:49:01
 <h1>Topic 1: Authentic Individualism</h1>
 <strong>Introduction</strong>
 
-Canadian contemporary philosopher Charles Taylor’s views on the secular age and individualism help to explain authentic individualism.  Taylor defines a secular age as a time largely devoid of hierarchical order and a general ‘flattening’ of society<a href="#_edn1" name="_ednref1">[i]</a> when all goals beyond human flourishing are eclipsed and individualism overwhelms the common good<a href="#_edn2" name="_ednref2">[ii]</a>. People used to see themselves as part of a larger order that gave meaning and purpose to their lives. However, this is not the reality of most people in a secular age.
+Canadian contemporary philosopher Charles Taylor’s views on the secular age and individualism help to explain authentic individualism.  Taylor defines a secular age as a time largely devoid of hierarchical order and a general "flattening" of society<a href="#_edn1" name="_ednref1">[i]</a> when all goals beyond human flourishing are eclipsed and individualism overwhelms the common good<a href="#_edn2" name="_ednref2">[ii]</a>. People used to see themselves as part of a larger order that gave meaning and purpose to their lives. However, this is not the reality of most people in a secular age.
 
-Generally the emphasis for the majority of people in a secular age is self, self-fulfillment, recognition and accomplishments. People in a secular age, Taylor argues, are consequently less concerned with others and society and there is less civic engagement. This does not negate the large public responses to tragedies that are indeed wonderful examples of people coming together through suffering.  Taylor’s point is to say that daily life in a secular world is more individualistic than communal.  His explanation reveals that most people lack a guiding philosophy that informs decisions and social networks, and that there is, rather, a focus on neutrality and an ethic of libertarian thinking where “people should be permitted to run their own lives as they wish [and] nobody would [have] a right to force his way of life upon his neighbor”. <a href="#_edn3" name="_ednref3">[iii]</a>  This is not individualism that serves the common good. Forcing a way of life does not sound desirable in any case, but Taylor contends that excessive individualism goes as far as to say that people in a secular age generally let other people lead their own lives and do not necessarily see a common responsibility to intervene or help them – that’s the more impersonal role of government. For Taylor, individualism is the primary ‘malaise of modernity’<a href="#_edn4" name="_ednref4">[iv]</a>, since it is inherently inegalitarian; not everyone has equal access to the ‘good life’. Self-determination, a focus on efficiency and instrumental reasoning overwhelm a sense of true authenticity, purpose beyond the self and concern for the common good.
+Generally the emphasis for the majority of people in a secular age is self, self-fulfillment, recognition and accomplishment. People in a secular age, Taylor argues, are consequently less concerned with others and society and there is less civic engagement. This does not negate the large public responses to tragedies that are indeed wonderful examples of people coming together through suffering.  Taylor’s point is to say that daily life in a secular world is more individualistic than communal.  His explanation reveals that most people lack a guiding philosophy that informs decisions and social networks, and that there is, rather, a focus on neutrality and an ethic of libertarian thinking where “people should be permitted to run their own lives as they wish [and] nobody would [have] a right to force his way of life upon his neighbor.” <a href="#_edn3" name="_ednref3">[iii]</a>  This is not individualism that serves the common good. Forcing a way of life does not sound desirable in any case, but Taylor contends that excessive individualism goes as far as to say that people in a secular age generally let other people lead their own lives and do not necessarily see a common responsibility to intervene or help them – that’s the more impersonal role of government. For Taylor, individualism is the primary "malaise of modernity"<a href="#_edn4" name="_ednref4">[iv]</a>, since it is inherently inegalitarian; not everyone has equal access to the "good life." Self-determination, a focus on efficiency and instrumental reasoning overwhelm a sense of true authenticity, purpose beyond the self and concern for the common good.
 
 In contrast to excessive individualism, <em>authentic individualism</em> refers to people who know who they are in a deeper sense and, furthermore, know what they believe to be important, have a sense of purpose beyond themselves and are motivated by service to the growth and betterment of others.  This servant leadership approach seeks to transform the challenges of competing needs into a community. An authentic individual sees themselves as part of the larger whole and is therefore not only concerned for their own interests. They are concerned about fairness to protect equal chances for everyone, and they get involved in processes to determine what the community as a whole desires.
 
@@ -34,7 +34,7 @@ Reflect on and journal about these topics:
 <ul>
  	<li>What dispositions does an individual who desires to be authentic need to foster?</li>
  	<li>What are the challenges of leadership faced even by well-intentioned leaders?</li>
- 	<li>Do you agree with Taylor that individualism is the primary ‘malaise of modernity’?</li>
+ 	<li>Do you agree with Taylor that individualism is the primary "malaise of modernity"?</li>
 </ul>
 &nbsp;
 
@@ -93,7 +93,7 @@ The roots of adult education are in social justice.  Identify a marginalized gr
 
 &nbsp;
 
-Here are a couple more resources you may wish to explore further on social justice and marginalized groups:
+Here are several more resources you may wish to explore further on social justice and marginalized groups:
 <ul>
  	<li><a href="https://youtu.be/P5QHAhMYwoA">Education for social change</a> by Artika R. Tyner, TEDx University of St. Thomas (6 minutes)</li>
  	<li><a href="https://youtu.be/SI-bJeyi7fs">Social Justice Issues in Adult Education</a> (8 minutes)</li>
@@ -134,12 +134,12 @@ Here are a couple more resources you may wish to explore further on social justi
 </ol>
 &nbsp;
 <ol start="6">
- 	<li>Choose one of the following chapters from the Wang (2017): 1, 6, 7 or 15 and write</li>
+ 	<li>Choose one of chapters 1, 6, 7 or 15 from the Wang (2017), and write</li>
 </ol>
 &nbsp;
 <ol>
  	<li>a 200 word maximum precis (synthesis) on the main concepts discussed.</li>
- 	<li>A 100 word maximum personal response to the ideas presented.</li>
+ 	<li>a 100 word maximum personal response to the ideas presented.</li>
 </ol>
 &nbsp;
 <h1>Unit Summary</h1>
