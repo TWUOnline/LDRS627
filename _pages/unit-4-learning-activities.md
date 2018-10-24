@@ -35,7 +35,7 @@ Professor Rubin also notes that the definition of the SMART acronym may need upd
 
 To develop SMART Goals follow this format:
 
-By____/_____/_____ (When?) (Who? What? Include a number you can measure.) will have __________________________________________ ___ ________ . (How? Why? Remember to specify results.)
+By__________ (When?) (Who? What? Include a number you can measure.) ___________ will have __________________________________________ ___________ . (How? Why? Remember to specify results.)
 
 &nbsp;
 
@@ -47,19 +47,19 @@ Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook o
 
 <strong>Activity 4.2: Blog Post (Part A)</strong>
 
-In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course.  Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the ‘SMARTness’ of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.
+In SMART format, and colour coded with a legend (eg S = one colour, M = a different colour etc) write one affective, one behavioural and one cognitive goal that you have for taking this course.  Comment on how writing clear goals for yourself about this course might impact your performance and motivation. Respond to at least two others’ blogs.  See if you can clearly determine the "SMARTness" of their goals. Your comments may be to ask them more about their personal goals and any connections to what they have identified.
 
 &nbsp;
 <h3><strong>Topic 2: Writing Objectives</strong></h3>
 <strong>Introduction</strong>
 
-Once you have goals established, the next step is to break them down into specific training objectives.  As Silberman says:  “each goal will have one or more objectives that, when met, will identify accomplishment of that goal” (p. 44-45).  Sometimes objectives and learning outcomes are used interchangeably. Writing clear objectives requires <a href="https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf">action verbs</a>.
+Once you have goals established, the next step is to break them down into specific training objectives.  As Silberman says:  “Each goal will have one or more objectives that, when met, will identify accomplishment of that goal” (pp. 44-45).  Sometimes objectives and learning outcomes are used interchangeably. Writing clear objectives requires <a href="https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf">action verbs</a>.
 
 &nbsp;
 
 To develop SMART Objectives follow this format:
 
-By____/_____/_____ (When?) (Who? What? Include a number you can measure.) will have __________________________________________ ___ ________ . (How? Why? Remember to specify results.)
+By ____________ (When?) (Who? What? Include a number you can measure.) will have _______________________________________________ . (How? Why? Remember to specify results.)
 
 For example…<strong><span style="color: #800080">Adrienne </span><span style="color: #ff0000">finishes her marking electronically online,</span> <span style="color: #0000ff">before 9pm, no TV on,</span> <span style="color: #008000">within one week of assignments due date.</span></strong>
 
@@ -75,7 +75,7 @@ Blog Post: In SMART format, and colour coded with a legend (eg S = one colour, M
 
 Read Silberman, M. L., &amp; Biech, E. (2015). <em>Active training: A handbook of techniques, designs, case examples, and tips (4th ed.</em>). Hoboken, New Jersey: John Wiley &amp; Sons (Chap. 2; 15 and 17)
 
-In chapter 2 it’s important to remember that objectives are not the same as topics to cover but what you want participants to value, understand, or do with those topics.
+In chapter 2 it’s important to remember that objectives are not the same as topics to cover but what you want participants to value, understand or do with those topics.
 
 Chapter 15 focuses on how to end an active training session. What methods most resonate with your personal style? Why?
 As you’re reading chapter 17 jot down ideas for evaluating a training program in terms of reactions, learning level, behavior and results.
@@ -111,7 +111,7 @@ Describe an activity, exercise or learning moment that you have experienced that
 
 <strong> </strong>
 <h2><strong>Unit Summary</strong></h2>
-In this unit, you have had the opportunity to learn about the importance and method of writing goals and objectives. These become your learning targets and are very important to define clearly so that you design activities, choose materials, plan sequencing and evaluate your original intents strategically with these ends in mind. While the learning outcomes or goals of a particular class normally remain the same, the objectives related to content and methods may well change depending on currency, response of previous learners, effectiveness of the sequence etc.
+In this unit, you have had the opportunity to learn about the importance and method of writing goals and objectives. These become your learning targets and are very important to define clearly so that you design activities, choose materials, plan sequencing and evaluate your original intents strategically with these ends in mind. While the learning outcomes or goals of a particular class normally remain the same, the objectives related to content and methods may well change depending on currency, response of previous learners, effectiveness of the sequence, etc.
 
 <strong> </strong>
 
