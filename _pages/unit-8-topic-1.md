@@ -87,4 +87,4 @@ Taylor, C. (2007). <em>A Secular Age</em>. Cambridge, Massachusetts and London E
 
 Vanier, J. (1989). <em>Community and Growth</em>. New York: Paulist Press.
 
-Wang,C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 1, 6, 7 and 15
+Wang, C. X. (2017). <em>Theory and Practice of Adult and Higher Education</em>. Information Age Publishing Inc. Chapter 1, 6, 7 and 15
