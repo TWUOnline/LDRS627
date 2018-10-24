@@ -8,5 +8,6 @@ permalink: https://create.twu.ca/ldrs627-su18/
 published: true
 post_date: 2018-04-10 19:34:59
 ---
-<!--themify_builder_static--><h1>Welcome to Leadership 627<br/></h1>
- This course is currently under development. Please see https://github.com/TWUOnline/LDRS627 for details.<!--/themify_builder_static-->
+<!--themify_builder_static-->
+<h1>Welcome to Leadership 627</h1>
+This course is currently under development. Please see https://github.com/TWUOnline/LDRS627 for details.<!--/themify_builder_static-->
