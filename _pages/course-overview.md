@@ -35,7 +35,7 @@ Learners will be introduced to principles and practices of adult education. Focu
 
 &nbsp;
 <h2>Learning Cafe</h2>
-You will notice that there is a 'Learning Cafe' section on the site. This is a place for you to interact about things going on, share resources and generally get to know one another.  Your posts don't have to be course related.  Some units may have prompts for you to share your thoughts and ideas with your peers.  Take this opportunity to connect with fellow learners and learn from one another!
+You will notice that there is a "Learning Cafe" section on the site. This is a place for you to interact about things going on, share resources and generally get to know one another.  Your posts don't have to be course related.  Some units may have prompts for you to share your thoughts and ideas with your peers.  Take this opportunity to connect with fellow learners and learn from one another!
 
 &nbsp;
 <h2>Course Development Team</h2>
