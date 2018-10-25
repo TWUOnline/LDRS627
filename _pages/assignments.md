@@ -1,6 +1,6 @@
 ---
 ID: 12
-post_title: Assignments
+post_title: Navigation
 author: Colin Madland
 post_excerpt: ""
 layout: page
